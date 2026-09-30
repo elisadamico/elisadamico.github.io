@@ -1,0 +1,17 @@
+{# Site-wide footer. Edit the links in src/_data/site.json, not here. #}
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-primary">
+      <a class="btn" href="{{ site.cv }}">CV</a>
+      <a class="btn" href="mailto:{{ site.email }}">Email me</a>
+    </div>
+    <ul class="footer-profiles">
+      {% for profile in site.profiles %}
+      <li><a class="btn btn-outline" href="{{ profile.url }}" rel="me noopener">{{ profile.label }}</a></li>
+      {% endfor %}
+    </ul>
+    <p class="footer-meta">
+      &copy; {% year %} {{ site.name }}<span class="sep" aria-hidden="true">·</span>{{ site.affiliation }}
+    </p>
+  </div>
+</footer>

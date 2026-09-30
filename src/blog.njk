@@ -1,0 +1,44 @@
+---
+layout: base.njk
+title: Blog Posts
+heading: Blog Posts, Op-Eds, & More
+# To add a post, copy one of the blocks below and put it at the top of the list.
+posts:
+  - title: "Semi-Automated Coding for Conflict Mediation Research: Database Development"
+    source: PeaceRep, Peace Analytics
+    url: https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/
+    image: /assets/img/blog-mend-coding.jpg
+    alt: Abstract visualization of rows of data
+  - title: How Climate Shocks Impact Rebel Demands and Peace Agreement Outcomes
+    source: PeaceRep, Climate & Natural Resources
+    url: https://peacerep.org/publication/conflict-in-a-warming-world/
+    image: /assets/img/blog-climate-shocks.jpg
+    alt: Aerial view of a displacement camp in an arid landscape
+  - title: "Stitching a Sustainable Future: Policy Interventions for Youth, Migration, and Climate Change in Bangladesh’s Garment Industry"
+    source: International Organization for Migration (IOM)
+    url: https://environmentalmigration.iom.int/blogs/stitching-sustainable-future-policy-interventions-youth-migration-and-climate-change-bangladeshs-garment-industry
+    image: /assets/img/blog-garment.jpg
+    alt: Climate justice demonstrators in Bangladesh
+  - title: Montenegro v. Ashcroft, 16-May 2002
+    source: Earth Refuge
+    url: https://legal.earthrefuge.org/montenegro-v-ashcroft/
+    image: /assets/img/blog-earth-refuge.jpg
+    alt: Earth Refuge logo
+  - title: "Rising Tides and Sudden Surprises: The Two Faces of Climate Displacement"
+    source: Medium
+    url: https://medium.com/@elisadamico95/rising-tides-and-sudden-surprises-the-two-faces-of-climate-displacement-d4c594ea053f
+    image: /assets/img/blog-rising-tides.jpg
+    alt: Debris washed up on a polluted shoreline
+---
+
+{% for post in posts %}
+<div class="section"><div class="container">
+  <article class="post">
+    <div>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="source">{{ post.source }}</p>
+    </div>
+    <a href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image }}" alt="{{ post.alt }}" loading="lazy"></a>
+  </article>
+</div></div>
+{% endfor %}

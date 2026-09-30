@@ -1,0 +1,12 @@
+# Build output and dependencies
+_site/
+node_modules/
+
+# Original HubSpot export and screenshots (kept locally for reference only)
+hubspot_site_export_*/
+Elisa-D-Amico-*.png
+
+# Never commit the Overleaf source; only the compiled CV PDF is published
+cv-src/
+
+.DS_Store

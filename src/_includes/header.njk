@@ -1,0 +1,35 @@
+{# Site-wide header. Edit the menu in src/_data/site.json, not here. #}
+<header class="masthead">
+  {% if page.url == "/" %}
+  <h1 class="site-title"><a href="/">{{ site.name }}</a></h1>
+  {% else %}
+  <p class="site-title"><a href="/">{{ site.name }}</a></p>
+  {% endif %}
+</header>
+
+<nav class="site-nav" aria-label="Main">
+  <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-list">
+    <span class="nav-toggle-bars" aria-hidden="true"></span>
+    Menu
+  </button>
+  <ul id="nav-list" class="nav-list">
+    {% for item in site.nav %}
+    {% if item.children %}
+    {% set open = item.children | containsUrl(page.url) %}
+    <li class="has-sub">
+      <button class="sub-toggle{% if open %} is-current{% endif %}" type="button" aria-expanded="false" aria-controls="sub-{{ loop.index }}">
+        {{ item.label }}
+        <svg class="caret" viewBox="0 0 10 6" width="10" height="6" aria-hidden="true"><path d="M1 1l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </button>
+      <ul id="sub-{{ loop.index }}" class="sub-list">
+        {% for child in item.children %}
+        <li><a href="{{ child.url }}"{% if child.url == page.url %} aria-current="page"{% endif %}>{{ child.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% else %}
+    <li><a href="{{ item.url }}"{% if item.url == page.url %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</nav>

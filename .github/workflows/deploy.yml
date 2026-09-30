@@ -1,0 +1,120 @@
+name: Build and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every day at 04:30 UTC: check Overleaf for a newer CV.
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: site
+  cancel-in-progress: false
+
+jobs:
+  cv:
+    name: Refresh CV from Overleaf
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.publish.outputs.changed }}
+    env:
+      OVERLEAF_PROJECT_ID: ${{ secrets.OVERLEAF_PROJECT_ID }}
+      OVERLEAF_TOKEN: ${{ secrets.OVERLEAF_TOKEN }}
+      # The CV's file name inside the Overleaf project.
+      CV_TEX: CV.tex
+    steps:
+      - uses: actions/checkout@v4
+
+      # The Overleaf project also holds private job-market material. It is
+      # cloned into a git-ignored folder on the temporary build machine, used
+      # to compile the CV, and deleted. Only the CV PDF is ever kept.
+      - name: Check Overleaf for a newer CV
+        id: check
+        run: |
+          if [ -z "$OVERLEAF_TOKEN" ] || [ -z "$OVERLEAF_PROJECT_ID" ]; then
+            echo "Overleaf secrets are not set. Keeping the CV already in the repository."
+            echo "stale=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git clone --quiet --depth 1 "https://git:${OVERLEAF_TOKEN}@git.overleaf.com/${OVERLEAF_PROJECT_ID}" cv-src
+          rev="$(git -C cv-src rev-parse "HEAD:${CV_TEX}") $(git -C cv-src rev-parse HEAD:images)"
+          echo "rev=$rev" >> "$GITHUB_OUTPUT"
+          if [ "$rev" = "$(cat .cv-source-rev 2>/dev/null)" ]; then
+            echo "CV source has not changed since the last update."
+            echo "stale=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "CV source has changed. Recompiling."
+            echo "stale=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Compile CV
+        if: steps.check.outputs.stale == 'true'
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: cv-src
+          root_file: ${{ env.CV_TEX }}
+
+      - name: Save the new CV
+        id: publish
+        if: steps.check.outputs.stale == 'true'
+        env:
+          REV: ${{ steps.check.outputs.rev }}
+        run: |
+          pdf="cv-src/${CV_TEX%.tex}.pdf"
+          if [ "$(wc -c < "$pdf")" -lt 20000 ]; then
+            echo "::error::The compiled CV looks too small to be right. Keeping the previous one."
+            exit 1
+          fi
+          cp "$pdf" src/assets/files/DAmico_CV.pdf
+          echo "$REV" > .cv-source-rev
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/assets/files/DAmico_CV.pdf .cv-source-rev
+          git commit --quiet -m "Update CV from Overleaf"
+          git pull --quiet --rebase
+          git push --quiet
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Remove the Overleaf source
+        if: always()
+        run: rm -rf cv-src
+
+  build:
+    name: Build site
+    needs: cv
+    # A scheduled run only rebuilds when the CV actually changed. If the CV
+    # step fails, pushes still deploy with the previous CV.
+    if: ${{ !cancelled() && (github.event_name != 'schedule' || needs.cv.outputs.changed == 'true') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    # GitHub Pages only serves this site once the repository is public.
+    if: ${{ !cancelled() && needs.build.result == 'success' && !github.event.repository.private }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
