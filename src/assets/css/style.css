@@ -392,6 +392,7 @@ blockquote.twitter-tweet {
 /* Groups ------------------------------------------------------------------- */
 
 .banner { margin-bottom: 2rem; border: 1px solid #222; }
+.btn-row { display: flex; flex-wrap: wrap; gap: 0.75rem; }
 .lede { font-size: 1.15rem; color: #dedad6; }
 
 .prose .schedule { list-style: none; padding: 0; margin: 1rem 0 0; }

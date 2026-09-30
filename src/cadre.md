@@ -3,6 +3,7 @@ layout: base.njk
 title: CADRE
 heading: Climate And Displacement Research Ensemble
 description: CADRE is an interdisciplinary working group at University College Dublin developing a research agenda on the measurement of climate displacement.
+interest_form: https://docs.google.com/forms/d/e/1FAIpQLScf14t9tVKI3dm04Q_Eutkou36jZDLPw8N3_lpDtUOhiY7PxQ/viewform
 strands:
   - title: Computational social science and political science
     detail: Scoping how climate displacement is currently measured, mapping existing approaches, definitions, and gaps.
@@ -18,9 +19,13 @@ strands:
 
 <div class="section"><div class="container prose">
 
-<p class="lede">The Climate And Displacement Research Ensemble (CADRE) is an interdisciplinary working group at University College Dublin. The group is scoping and developing a research agenda on the measurement of climate displacement, laying the groundwork for a larger externally funded program.</p>
+<img class="banner" src="/assets/img/cadre-logo.png" alt="CADRE, Climate And Displacement Research Ensemble" width="1560" height="480">
 
-The team spans five UCD Schools and brings together political science and computational social science, computer science, statistics, public health, and humanitarian action. It combines faculty, fellows, and postgraduate students at MSc and PhD level. I lead the group, which is supported by the UCD Earth Institute.
+<p class="lede">The Climate And Displacement Research Ensemble (CADRE) is an interdisciplinary working group at University College Dublin. Estimates of climate displacement vary a lot, because there is not much validation. CADRE works the other way round and validates first, in EU countries where the data exists.</p>
+
+CADRE is a UCD Earth Institute Strategic Priority for 2026–27. Ten researchers across five UCD Schools bring together political science and computational social science, computer science, statistics, public health, and humanitarian action, with faculty, fellows, and postgraduate students at MSc and PhD level. I lead the group, which is scoping a research agenda on the measurement of climate displacement and laying the groundwork for a larger externally funded program.
+
+<p><a class="btn" href="{{ interest_form }}">Register your interest</a></p>
 
 ---
 
@@ -41,6 +46,12 @@ The working group meets monthly from October 2026 to September 2027. Over that p
 - A student outreach event
 - A final stakeholder workshop
 
-<p><a class="btn" href="mailto:{{ site.email }}?subject=CADRE">Get in touch about CADRE</a></p>
+---
+
+## Get Involved
+
+The group wants to grow, and anyone curious is welcome, whatever their field. Meetings are on the second Monday of each month at 11:30, with lunch, in Room E4.46, Science East, UCD Belfield.
+
+<p class="btn-row"><a class="btn" href="{{ interest_form }}">Register your interest</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=CADRE">Email me about CADRE</a></p>
 
 </div></div>
