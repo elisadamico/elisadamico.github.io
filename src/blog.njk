@@ -9,7 +9,9 @@ posts:
     note: Web and visualizations by Tomas Vancisin.
     url: https://tvancisin.github.io/elisa_damico/
     image: /assets/img/blog-bridging-the-distance.jpg
-    alt: Title screen of Bridging the Distance, an interactive data story by Elisa D’Amico
+    alt: World map showing mediation locations linked to a conflict zone, with distance rings
+    extra_label: Watch the poster walkthrough from PolMeth Europe 2025 (LSE Methodology)
+    extra_url: https://x.com/LSEMethodology/status/1914643173000753332
   - title: "Implementation Over Urgency: What 2,170 Parliamentary Speeches Reveal About Climate Law in Ireland"
     source: Connected_Politics Lab Blog, University College Dublin
     note: By D. Hooda, D. Miranda, and K. Paleczny. Project designed and supervised by Elisa D’Amico.
@@ -56,6 +58,7 @@ posts:
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p class="source">{{ post.source }}</p>
       {% if post.note %}<p class="source">{{ post.note }}</p>{% endif %}
+      {% if post.extra_url %}<p class="source"><a class="extra-link" href="{{ post.extra_url }}">{{ post.extra_label }}</a></p>{% endif %}
     </div>
     {% if post.image %}<a href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image }}" alt="{{ post.alt }}" loading="lazy"></a>{% endif %}
   </article>
