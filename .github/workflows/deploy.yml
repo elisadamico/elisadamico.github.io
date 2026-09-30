@@ -29,7 +29,11 @@ jobs:
       # The CV's file name inside the Overleaf project.
       CV_TEX: CV.tex
     steps:
+      # Always start from the latest main, so a run started before another
+      # run published a new CV sees that CV and does not redo the work.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       # The Overleaf project also holds private job-market material. It is
       # cloned into a git-ignored folder on the temporary build machine, used
@@ -80,14 +84,19 @@ jobs:
             echo "::error::No usable CV PDF was produced. Keeping the previous one."
             exit 1
           fi
+          git fetch --quiet origin main
+          if [ "$(git show origin/main:.cv-source-rev 2>/dev/null)" = "$REV" ]; then
+            echo "Another run has already published this version of the CV."
+            exit 0
+          fi
+          git reset --quiet --hard origin/main
           cp "$pdf" src/assets/files/DAmico_CV.pdf
           echo "$REV" > .cv-source-rev
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add src/assets/files/DAmico_CV.pdf .cv-source-rev
           git commit --quiet -m "Update CV from Overleaf"
-          git pull --quiet --rebase
-          git push --quiet
+          git push --quiet origin HEAD:main
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Remove the Overleaf source
