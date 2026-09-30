@@ -54,6 +54,10 @@
         {
           "label": "CADRE",
           "url": "/cadre/"
+        },
+        {
+          "label": "MEND",
+          "url": "/mend/"
         }
       ]
     }

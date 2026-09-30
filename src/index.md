@@ -8,7 +8,7 @@ layout: base.njk
 
 ## Ph.D. in Political Science
 
-I am a political scientist with a robust background in data science, research methodology, and computational social science. My primary research interests lie at the intersection of climate change and conflict, with some work focused specifically on climate-related issues, some on conflict dynamics, but the majority addressing how the two interact. My research explores the mechanisms linking environmental and political instability as well as the responses to these intersecting dilemmas. More broadly, I examine how global crises—including climate shocks, migration shocks, conflict, and economic disruption—shape vulnerability, and I am deeply invested in strategies for promoting both sustainable development and a sustainable peace.
+I am a political scientist whose primary research interests lie at the intersection of climate change and conflict. Some of my work focuses specifically on climate-related issues and some on conflict dynamics, but the majority addresses how the two interact. My research explores the mechanisms linking environmental and political instability as well as the responses to these intersecting dilemmas. More broadly, I examine how global crises (including climate shocks, migration shocks, conflict, and economic disruption) shape vulnerability, and I am deeply invested in strategies for promoting both sustainable development and a sustainable peace. I also bring a robust background in data science, research methodology, and computational social science.
 
 </div>
 </div></div>
