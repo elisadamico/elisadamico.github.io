@@ -99,7 +99,7 @@ Data and code for my published articles are on Harvard Dataverse.
 2026 | [Difference-in-Differences Estimation: A Quasi-Experimental Approach to Sustainable Development Interventions](https://doi.org/10.7910/DVN/FGCPNU). Replication data for my forthcoming article in *Global Environmental Politics*.
 2025 | [Timing Matters: Analyzing Climate Policies and Adaptive Resilience](https://doi.org/10.7910/DVN/JYHGTF). Replication data for my article with T. Maboudi in *Climate Policy*.
 2025 | [Resilient by Design: Isolating Impactful Climate Adaptation Measures in New England](https://doi.org/10.7910/DVN/GBWZEC). Replication data for my article in *npj Climate Action*.
-2025 | [From Garments to Grievances: The Dynamics of Urban Growth and Economic Shocks in Rapidly Industrializing Economies](https://doi.org/10.7910/DVN/XE1MQE).
+2025 | [From Garments to Grievances: The Dynamics of Urban Growth and Economic Shocks in Rapidly Industrializing Economies](https://doi.org/10.7910/DVN/XE1MQE). Replication data for my article in the *Review of International Political Economy*.
 {% endyearlist %}
 
 </div></div>

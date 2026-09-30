@@ -39,12 +39,16 @@
           "url": "/research/"
         },
         {
-          "label": "Data Science",
-          "url": "/datascience/"
+          "label": "Grants & Honors",
+          "url": "/grants/"
         },
         {
           "label": "Talks",
           "url": "/talks/"
+        },
+        {
+          "label": "Data Science",
+          "url": "/datascience/"
         }
       ]
     },
