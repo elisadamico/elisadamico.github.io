@@ -18,7 +18,7 @@ My research has been supported by the Ad Astra Fellow Research Award at Universi
 
 At UCD I lead [CADRE](/cadre/), an interdisciplinary working group on measuring climate displacement, and I founded the [WICIP Network](/wicip/) for women working in comparative and international politics.
 
-I am trained in several languages, including Arabic, Turkish, and Spanish, and I have tutored refugees of many ages and countries of origin through volunteer work with RefugeeOne and Project Elea. In my free time, I enjoy meditation, yoga, reading, playing video games, and playing with data!
+Through volunteer work with RefugeeOne and Project Elea, I have tutored refugees of many ages and countries of origin. In my free time, I enjoy meditation, yoga, reading, playing video games, and playing with data!
 
 </div>
 </div>
