@@ -81,15 +81,6 @@ heading: Research
 - **2017** – Special Interest Groups Data Analyst, Project VoteSmart<br>*Web-scraping and cleaning of special interest groups data in R*
 - **2016** – Research Analyst, The Scottish Parliament, Edinburgh<br>*Served under Alex Rowley, Member of the Scottish Parliament. Devolution of powers, taxation, and public well-being*
 
-### Ad Hoc Projects
-
-- Created Stata templates for causation and quasi-experimental graduate-level projects
-- Used Python console to import, polygonize, spatially merge, and export data in QGIS
-- Used R to scrape, code, and semi-automate text analysis from peace agreement documents
-- Used SQL BigQuery and APIs on a number of conflict-related projects to extract data
-- Developed an interactive infographic mapping climate disasters and migration patterns over time
-- Created quizzes in Qualtrics for complex grading schemes
-
 ---
 
 ## Grants and Awards

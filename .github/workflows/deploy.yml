@@ -53,22 +53,31 @@ jobs:
             echo "stale=true" >> "$GITHUB_OUTPUT"
           fi
 
+      # Like Overleaf, keep going past LaTeX errors and still produce a PDF.
+      # Errors are reported as a warning on the run instead of blocking the CV.
       - name: Compile CV
+        id: compile
         if: steps.check.outputs.stale == 'true'
+        continue-on-error: true
         uses: xu-cheng/latex-action@v3
         with:
           working_directory: cv-src
           root_file: ${{ env.CV_TEX }}
+          args: -pdf -f -file-line-error -interaction=nonstopmode
 
       - name: Save the new CV
         id: publish
         if: steps.check.outputs.stale == 'true'
         env:
           REV: ${{ steps.check.outputs.rev }}
+          COMPILE_OUTCOME: ${{ steps.compile.outcome }}
         run: |
           pdf="cv-src/${CV_TEX%.tex}.pdf"
-          if [ "$(wc -c < "$pdf")" -lt 20000 ]; then
-            echo "::error::The compiled CV looks too small to be right. Keeping the previous one."
+          if [ "$COMPILE_OUTCOME" != "success" ]; then
+            echo "::warning::The CV compiled with LaTeX errors (the same ones Overleaf shows in its log). The PDF was still published."
+          fi
+          if [ ! -f "$pdf" ] || [ "$(wc -c < "$pdf")" -lt 20000 ]; then
+            echo "::error::No usable CV PDF was produced. Keeping the previous one."
             exit 1
           fi
           cp "$pdf" src/assets/files/DAmico_CV.pdf

@@ -28,12 +28,17 @@
       ]
     },
     {
-      "label": "Research",
-      "url": "/research/"
-    },
-    {
-      "label": "Data Science",
-      "url": "/datascience/"
+      "label": "Research & Data Science",
+      "children": [
+        {
+          "label": "Research",
+          "url": "/research/"
+        },
+        {
+          "label": "Data Science",
+          "url": "/datascience/"
+        }
+      ]
     },
     {
       "label": "Policy Engagement",
@@ -55,6 +60,10 @@
   ],
   "profiles": [
     {
+      "label": "UCD SPIRe",
+      "url": "https://people.ucd.ie/elisa.damico"
+    },
+    {
       "label": "ORCID",
       "url": "https://orcid.org/0000-0003-4445-0735"
     },
@@ -75,7 +84,7 @@
       "url": "https://bsky.app/profile/elisaadamico.bsky.social"
     },
     {
-      "label": "Twitter",
+      "label": "X",
       "url": "https://x.com/ElisaADAmico"
     }
   ]
