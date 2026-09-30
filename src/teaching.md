@@ -50,8 +50,7 @@ syllabi:
 ### 2025–2026 – University of St Andrews, School of International Relations
 
 **Computational Team Coordinator**<br>
-*[Vertically Integrated Project (VIP) Module](https://www.st-andrews.ac.uk/education/vip/projects/peacehub/): Global Fragmentation and Conflict Management*<br>
-Responsible for leading student teams on computational analysis tasks and guiding data-driven research on fragmentation and mediation in conflict zones.
+*[Vertically Integrated Project (VIP) Module](https://www.st-andrews.ac.uk/education/vip/projects/peacehub/): Global Fragmentation and Conflict Management*
 
 </div>
 <div class="entry">
@@ -59,8 +58,7 @@ Responsible for leading student teams on computational analysis tasks and guidin
 ### 2025 – SOAS University of London, International Summer Course on (Im)mobilities (ISCM)
 
 **Seminar Convenor**<br>
-*Graduate Seminar: From Structural Violence to ‘Resource Wars’ – The Climate Change, Conflict, and Displacement Nexus*<br>
-Designed and led an interdisciplinary seminar exploring how climate change influences contemporary resource conflicts and mobility patterns.
+*Graduate Seminar: From Structural Violence to ‘Resource Wars’ – The Climate Change, Conflict, and Displacement Nexus*
 
 </div>
 <div class="entry">
@@ -71,8 +69,7 @@ Designed and led an interdisciplinary seminar exploring how climate change influ
 *Climate Change and Conflict in the DRC*
 
 **Lecturer (Instructor of Record)** (2024)<br>
-*Graduate Block Seminar: Climate Change, Conflict, and Economic Adaptation – Perspectives on Migration and Sustainable Development*<br>
-Delivered an intensive, interdisciplinary course that bridged climate science, political economy, and international development, including applied policy analysis and case studies.
+*Graduate Block Seminar: Climate Change, Conflict, and Economic Adaptation – Perspectives on Migration and Sustainable Development*
 
 **Lecturer (Independent Study with Melanie Dippel)** (2024)<br>
 *Conflict Mediation & Negotiation: Data Training*
@@ -83,15 +80,13 @@ Delivered an intensive, interdisciplinary course that bridged climate science, p
 ### 2018–2023 – Loyola University Chicago, Department of Political Science
 
 **Lecturer (Instructor of Record)**<br>
-*Political Science 102: International Relations in an Age of Globalization* (40 students)<br>
-Delivered lectures, created syllabi and assessments, and facilitated critical discussions on global institutions and diplomacy.
+*Political Science 102: International Relations in an Age of Globalization* (40 students)
 
 **Guest Lecturer**<br>
 Courses included: *Democracy and Refugee Rights*, *Foreign Policy*, and *IR Theory in Asia*.
 
 **Teaching Assistant** (2022)<br>
-*[Political Science 300D: Faculty-Led Program in Colombia](https://abroad.luc.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11695)*<br>
-Supported curriculum delivery and student learning in a short-term study abroad course focused on post-conflict peacebuilding and transitional justice.
+*[Political Science 300D: Faculty-Led Program in Colombia](https://abroad.luc.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11695)*
 
 </div>
 <div class="entry">
@@ -99,8 +94,7 @@ Supported curriculum delivery and student learning in a short-term study abroad 
 ### 2017–2018 – Iowa State University, Department of Political Science
 
 **Teaching Assistant**<br>
-Courses: *Ethics and Politics*, *Comparative Government*, *Empirical Political Science Research*, *Political Behavior*, and *American Institutions: Congress*<br>
-Responsibilities included leading lab sections, assisting with R/statistics assignments, grading, proctoring, and delivering guest lectures.
+Courses: *Ethics and Politics*, *Comparative Government*, *Empirical Political Science Research*, *Political Behavior*, and *American Institutions: Congress*
 
 </div>
 

@@ -6,7 +6,7 @@ heading: Research
 
 <div class="section"><div class="container narrow prose"><div class="plain-heads">
 
-<nav class="jump" aria-label="On this page"><a href="#publications">Publications</a><a href="#in-progress">In Progress</a><a href="#policy">Policy Engagement</a><a href="#experience">Experience</a><a href="#grants">Grants</a><a href="#honors">Honors</a></nav>
+<nav class="jump" aria-label="On this page"><a href="#publications">Publications</a><a href="#in-progress">In Progress</a><a href="#policy">Policy Engagement</a><a href="#grants">Grants</a><a href="#honors">Honors</a></nav>
 
 <h2 id="interests">Research Interests</h2>
 
@@ -83,20 +83,6 @@ Liang, K., Mutoni, I., Schlittke, Z., & **D’Amico, E.** *Who Gets to Leave? Di
 2024 | **D’Amico, E.** [Stitching a Sustainable Future: Policy for Youth Migration, and Climate in Bangladesh’s Textile Industry](https://environmentalmigration.iom.int/blogs/stitching-sustainable-future-policy-interventions-youth-migration-and-climate-change-bangladeshs-garment-industry). *Blog Series: Youth, Migration, Environment, Climate Change, and Disaster Risk Reduction*, IOM UN Migration.
 2023 | **D’Amico, E.** [Montenegro v. Ashcroft Case Summary](https://legal.earthrefuge.org/montenegro-v-ashcroft/). *Earth Refuge Legal Database*.
 2023 | **D’Amico, E.** [Rising Tides and Sudden Surprises: The Two Faces of Climate Displacement](https://medium.com/@elisadamico95/rising-tides-and-sudden-surprises-the-two-faces-of-climate-displacement-d4c594ea053f). *Medium*.
-{% endyearlist %}
-
----
-
-<h2 id="experience">Research Experience</h2>
-
-{% yearlist %}
-2025– | Data Manager, Global PeaceHub: Mediation and Negotiators Database (MEND)
-2023 | Automation Research Consultant, University of St Andrews, School of International Relations<br>*Global Fragmentation and Peacemaking PeaceRep Consultancy and Database Building*
-2023 | Data Scientist, Chicago Public Schools, School Counseling and Postsecondary Advising<br>*Data science, empirical modeling, Google AppScript, SQL, SAS, etc.*
-2023 | Quantitative Research Associate, Institute for Racial Justice<br>*Transcribed and coded focus group recordings, synthesizing data on equity in gifted programming*
-2018–2023 | Research Assistant, Loyola University Chicago, Department of Political Science<br>*Worked with E. Hansen, K. Camarena, P. Boyle, S. Maxey, T. Maboudi, M. Melin, S. Kang, and J. Kao*
-2017 | Special Interest Groups Data Analyst, Project VoteSmart<br>*Web-scraping and cleaning of special interest groups data in R*
-2016 | Research Analyst, The Scottish Parliament, Edinburgh<br>*Served under Alex Rowley, Member of the Scottish Parliament. Devolution of powers, taxation, and public well-being*
 {% endyearlist %}
 
 ---

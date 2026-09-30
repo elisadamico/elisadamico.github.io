@@ -37,45 +37,52 @@ projects:
 <div class="section"><div class="container split wide-left">
 <div class="prose"><div class="plain-heads">
 
-### Experience
+<h3>Research and Data Experience</h3>
 
-- **2023–2024**: *Data & Modeling Research Consultant* — University of Denver and World Wildlife Fund<br>**Responsibilities**: Forecasting future fisheries conflict; Leveraging big data and running prediction models.
-- **2023**: *Data Scientist* — Chicago Public Schools, School Counseling and Postsecondary Advising<br>**Responsibilities**: Data science, empirical modeling, Google AppScript, SQL, SAS, etc.
-- **2023**: *Automation Research Consultant* — University of St Andrews, *School of International Relations*<br>**Responsibilities**: Global Fragmentation and Peacemaking PeaceRep Consultancy and Database Building.
-- **2017**: *Special Interest Groups Data Analyst* — Project VoteSmart<br>**Responsibilities**: Web-scraping and cleaning of special interest groups data in R.
+{% yearlist %}
+2025– | Data Manager, Global PeaceHub: Mediation and Negotiators Database (MEND)
+2023–2024 | Data & Modeling Research Consultant, University of Denver and World Wildlife Fund<br>*Forecasting future fisheries conflict; leveraging big data and running prediction models*
+2023 | Automation Research Consultant, University of St Andrews, School of International Relations<br>*Global Fragmentation and Peacemaking PeaceRep Consultancy and Database Building*
+2023 | Data Scientist, Chicago Public Schools, School Counseling and Postsecondary Advising<br>*Data science, empirical modeling, Google AppScript, SQL, SAS, etc.*
+2023 | Quantitative Research Associate, Institute for Racial Justice<br>*Transcribed and coded focus group recordings, synthesizing data on equity in gifted programming*
+2018–2023 | Research Assistant, Loyola University Chicago, Department of Political Science<br>*Worked with E. Hansen, K. Camarena, P. Boyle, S. Maxey, T. Maboudi, M. Melin, S. Kang, and J. Kao*
+2017 | Special Interest Groups Data Analyst, Project VoteSmart<br>*Web-scraping and cleaning of special interest groups data in R*
+2016 | Research Analyst, The Scottish Parliament, Edinburgh<br>*Served under Alex Rowley, Member of the Scottish Parliament. Devolution of powers, taxation, and public well-being*
+{% endyearlist %}
 
-<h4><em>Ad Hoc Projects</em></h4>
+<h3>Ad Hoc Projects</h3>
 
-- Created Stata templates for causation and quasi-experimental graduate-level projects.
-- Used Python console to import, polygonize, spatially merge, and export data in QGIS.
-- Used R to scrape, code, and semi-automate text analysis from peace agreement documents.
-- Used R and APIs to query Chicago crime and census data and geospatially merge.
-- Used SQL BigQuery on a number of conflict-related projects to extract data.
-- Developed an interactive infographic mapping climate disasters and migration patterns over time.
-- Created quizzes in Qualtrics for complex grading schemes.
-- Used Excel VBA and Stata to merge large climate law and litigation data.
-
----
-
-### Certifications
-
-- **2023**: DataCamp Data Scientist Professional, R; SQL, Python
-- **2023**: Qualtrics XM Professional Certification
-- **2022**: Empirical Implications of Theoretical Models (EITM) Certification
+{% yearlist %}
+Created Stata templates for causation and quasi-experimental graduate-level projects.
+Used Python console to import, polygonize, spatially merge, and export data in QGIS.
+Used R to scrape, code, and semi-automate text analysis from peace agreement documents.
+Used R and APIs to query Chicago crime and census data and geospatially merge.
+Used SQL BigQuery on a number of conflict-related projects to extract data.
+Developed an interactive infographic mapping climate disasters and migration patterns over time.
+Created quizzes in Qualtrics for complex grading schemes.
+Used Excel VBA and Stata to merge large climate law and litigation data.
+{% endyearlist %}
 
 </div></div>
 <div class="prose"><div class="plain-heads">
 
 <a class="profile-card" href="https://github.com/elisadamico"><img src="/assets/img/github-profile.png" alt="GitHub profile of Elisa D’Amico" width="538" height="822" loading="lazy"><span class="btn btn-outline">View my GitHub</span></a>
 
----
+<h3>Computer and Technical Skills</h3>
 
-### Computer and Technical Skills
+{% yearlist %}
+**Data Skills**: Querying (e.g., SQL/Python/Google BigQuery); Excel VBA; Geospatial Data (e.g., QGIS/R); Data mining and scraping; Machine Learning (e.g., RF, K-Means); Text Analysis
+**Software Proficiency**: R, QGIS, SQL, STATA, JMP, Python, Google App Script, SAS, SPSS, Excel VBA, LaTeX
+**Statistical Methods**: Difference-in-Differences; Survey Experiments; Granger Causality; OLS; Multilevel Models; Logistic Regression; Survival Analysis (Weibull, Cox-PH); Random Forest; Generalized Additive Models; Change Point Analysis; Principal Component Analysis, etc.
+{% endyearlist %}
 
-- **Data Skills**: Querying (e.g., SQL/Python/Google BigQuery); Excel VBA; Geospatial Data (e.g., QGIS/R); Data mining and scraping; Machine Learning (e.g., RF, K-Means); Text Analysis
-- **Software Proficiency**: R, QGIS, SQL, STATA, JMP, Python, Google App Script, SAS, SPSS, Excel VBA, LaTeX
-- **Statistical Methods**: Difference-in-Differences; Survey Experiments; Granger Causality; OLS; Multilevel Models; Logistic Regression; Survival Analysis (Weibull, Cox-PH); Random Forest; Generalized Additive Models; Change Point Analysis; Principal Component Analysis, etc.
-- **Created Dynamic Visualizations**: [Drivers of Fishery-Related Militarized Disputes ShinyApp](https://elisadamico.shinyapps.io/FishyMIDsApp/) — Shows dynamic global annual map of temperature anomalies, fish stock, and fishery-related MID dyads.
+<h3>Certifications</h3>
+
+{% yearlist %}
+2023 | DataCamp Data Scientist Professional, R; SQL, Python
+2023 | Qualtrics XM Professional Certification
+2022 | Empirical Implications of Theoretical Models (EITM) Certification
+{% endyearlist %}
 
 </div></div>
 </div></div>
