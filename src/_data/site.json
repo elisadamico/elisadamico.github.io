@@ -41,6 +41,10 @@
         {
           "label": "Data Science",
           "url": "/datascience/"
+        },
+        {
+          "label": "Talks",
+          "url": "/talks/"
         }
       ]
     },
