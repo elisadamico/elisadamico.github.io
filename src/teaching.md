@@ -3,6 +3,8 @@ layout: base.njk
 title: Teaching
 heading: Teaching Experience
 syllabi:
+  - title: "POL40950: Introduction to Statistics (Graduate Module)"
+    file: /assets/files/syllabus-pol40950.pdf
   - title: "Political Science 102: International Relations in an Age of Globalization"
     file: /assets/files/syllabus-plsc-102.pdf
   - title: "Climate Change, Conflict, & Economic Adaptation: Perspectives on Migration & Sustainable Development (Graduate Module)"

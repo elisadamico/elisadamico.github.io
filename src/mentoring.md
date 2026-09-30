@@ -11,7 +11,6 @@ heading: Mentoring & Supervision
 - **2026– · Ph.D. Dissertation Supervisor (Ad Astra)**<br>Daniel Aguirre, *Climate Shocks & Armed Group Networks*, University College Dublin
 - **2025– · Ph.D. Dissertation Committee (RSP)**<br>Andrea Cisneros, *Sustainability Provisions & Agri-Food Trade*<br>Kasidech Somboonkittichai, *Peace Talks & Diffusion*<br>Abdulkadir Adan, *Disasters & Clan Militias*<br>University College Dublin
 - **2026– · Ph.D. Dissertation Committee**<br>Katelyn Nutley, *CSS & Political Unrest*, University of St Andrews
-- **2024–2025 · PhD Methods Support**<br>Aarushi Sharma, Katelyn Nutley, Louise Courbin, Erin Sindle, University of St Andrews
 
 ### Master’s
 

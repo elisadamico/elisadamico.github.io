@@ -294,6 +294,7 @@ blockquote.twitter-tweet {
 .note { font-style: italic; font-weight: 700; color: #e4e1de; }
 
 .bw { filter: grayscale(1); }
+.kicker { font-family: var(--font-head); font-weight: 500; color: #e4e1de; line-height: 1.5; margin-top: -0.4rem; }
 .prose > img { margin-bottom: 1.75rem; }
 
 .media-center { display: flex; justify-content: center; margin-top: 2.5rem; }
