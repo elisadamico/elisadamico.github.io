@@ -4,6 +4,7 @@ title: Job Market Resources
 heading: Job Market Resources
 description: Notion templates for managing academic job applications and a research pipeline.
 # Fill in url and image for each template. A card with no url shows "Link coming soon".
+wicip_notion: "https://robust-force-efe.notion.site/Women-in-Comparative-International-Politics-30a4de742e9e8015ae15f6d7b0725ad3?pvs=74"
 templates:
   - name: Job Applications
     about: A Notion database for tracking every application in one place, with position type, field, deadline, location, posting link, and notes, plus whether you interviewed and the outcome. Separate views show academic jobs, non-academic jobs, and interviews.
@@ -26,4 +27,10 @@ templates:
 <div class="post-body"><p class="post-tag">Notion template</p><h2>{% if template.url %}<a href="{{ template.url }}">{{ template.name }}</a>{% else %}{{ template.name }}{% endif %}</h2><p>{{ template.about }}</p>{% if template.url %}<p><a class="btn" href="{{ template.url }}">Open the template</a></p>{% else %}<p class="source">Link coming soon</p>{% endif %}</div>
 </article>
 {% endfor %}</div>
+
+<div class="prose" style="margin-top:2.5rem">
+<h2 class="no-caps">Session Recordings and Slides</h2>
+<p>The <a href="/wicip/">WICIP Network</a> holds monthly sessions on professional development, including navigating the job market, publishing strategy, turning a dissertation into articles, co-authoring, international academic life, and building a research agenda. Recordings and slides from past sessions are collected on the WICIP Notion page.</p>
+<p><a class="btn" href="{{ wicip_notion }}">Open the WICIP Notion page</a></p>
+</div>
 </div></div>

@@ -4,6 +4,7 @@ title: WICIP Network
 heading: Women in Comparative & International Politics
 description: The Women in Comparative & International Politics (WICIP) Network is a community for mentorship and collaboration among women working on comparative and international politics.
 google_group: https://groups.google.com/g/wicip
+notion: "https://robust-force-efe.notion.site/Women-in-Comparative-International-Politics-30a4de742e9e8015ae15f6d7b0725ad3?pvs=74"
 # Meeting list. Set done to true once a session has taken place.
 meetings:
   - date: February 18, 2026
@@ -52,11 +53,11 @@ meetings:
 
 I started the network to give members a shared place to find mentorship and collaborators, since those opportunities are spread unevenly across institutions. We meet online once a month. Each session opens with a short talk or panel on a professional development theme, followed by Q&A and breakout rooms where members introduce their work and look for people to work with.
 
-Members also share an international job and funding board and a co-authorship sheet, where they can register interest in co-authorships, research assistantships, and grant collaboration. Recordings and slides from past sessions are available to members.
+Members also share an international job and funding board and a co-authorship sheet, where they can register interest in co-authorships, research assistantships, and grant collaboration. Recordings and slides from past sessions are on the [WICIP Notion page]({{ notion }}).
 
 To join, sign up through the WICIP Google Group, which adds you to the network's mailing list.
 
-<p class="btn-row"><a class="btn" href="{{ google_group }}">Join the WICIP Google Group</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=WICIP%20Network">Email me with questions</a></p>
+<p class="btn-row"><a class="btn" href="{{ google_group }}">Join the WICIP Google Group</a> <a class="btn btn-outline" href="{{ notion }}">Session recordings and slides</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=WICIP%20Network">Email me with questions</a></p>
 
 ---
 
