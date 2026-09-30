@@ -6,26 +6,77 @@
   "email": "elisa.damico@ucd.ie",
   "cv": "/DAmico_CV.pdf",
   "nav": [
-    { "label": "Home", "url": "/" },
-    { "label": "About Me", "url": "/aboutme/" },
-    { "label": "Teaching & Mentoring", "url": "/teaching/" },
-    { "label": "Research", "url": "/research/" },
-    { "label": "Data Science", "url": "/datascience/" },
-    { "label": "Blog Posts", "url": "/blog/" },
+    {
+      "label": "Home",
+      "url": "/"
+    },
+    {
+      "label": "About Me",
+      "url": "/aboutme/"
+    },
+    {
+      "label": "Teaching & Mentoring",
+      "children": [
+        {
+          "label": "Teaching",
+          "url": "/teaching/"
+        },
+        {
+          "label": "Mentoring & Supervision",
+          "url": "/mentoring/"
+        }
+      ]
+    },
+    {
+      "label": "Research",
+      "url": "/research/"
+    },
+    {
+      "label": "Data Science",
+      "url": "/datascience/"
+    },
+    {
+      "label": "Blog Posts",
+      "url": "/blog/"
+    },
     {
       "label": "Groups",
       "children": [
-        { "label": "WICIP Network", "url": "/wicip/" },
-        { "label": "CADRE", "url": "/cadre/" }
+        {
+          "label": "WICIP Network",
+          "url": "/wicip/"
+        },
+        {
+          "label": "CADRE",
+          "url": "/cadre/"
+        }
       ]
     }
   ],
   "profiles": [
-    { "label": "ORCID", "url": "https://orcid.org/0000-0003-4445-0735" },
-    { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=o0Shi1oAAAAJ&hl=en" },
-    { "label": "GitHub", "url": "https://github.com/elisadamico" },
-    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/elisa-d-amico-09a27b232/" },
-    { "label": "Bluesky", "url": "https://bsky.app/profile/elisaadamico.bsky.social" },
-    { "label": "Twitter", "url": "https://x.com/ElisaADAmico" }
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0003-4445-0735"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=o0Shi1oAAAAJ&hl=en"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/elisadamico"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/elisa-d-amico-09a27b232/"
+    },
+    {
+      "label": "Bluesky",
+      "url": "https://bsky.app/profile/elisaadamico.bsky.social"
+    },
+    {
+      "label": "Twitter",
+      "url": "https://x.com/ElisaADAmico"
+    }
   ]
 }

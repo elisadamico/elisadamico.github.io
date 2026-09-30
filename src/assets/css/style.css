@@ -382,6 +382,8 @@ blockquote.twitter-tweet {
   align-items: center;
 }
 .post h2 { font-size: clamp(1.4rem, 3vw, 1.9rem); font-weight: 600; text-transform: none; margin-bottom: 0.75rem; }
+.post.no-image { grid-template-columns: minmax(0, 1fr); }
+.post .source + .source { margin-top: 0.35rem; }
 .post .source { color: var(--text-muted); font-size: 0.9rem; margin: 0; }
 .post img { max-height: 320px; width: auto; margin-inline: auto; }
 @media (max-width: 700px) {

@@ -4,6 +4,18 @@ title: Blog Posts
 heading: Blog Posts, Op-Eds, & More
 # To add a post, copy one of the blocks below and put it at the top of the list.
 posts:
+  - title: "Implementation Over Urgency: What 2,170 Parliamentary Speeches Reveal About Climate Law in Ireland"
+    source: Connected_Politics Lab Blog, University College Dublin
+    note: By D. Hooda, D. Miranda, and K. Paleczny. Project designed and supervised by Elisa D’Amico.
+    url: https://www.ucd.ie/connected_politics/blog/implementationoverurgencywhat2170parliamentaryspeechesrevealaboutclimatelawinireland/
+    image: /assets/img/blog-climate-law-ireland.jpg
+    alt: Timeline chart of Irish climate legislation by parliamentary debate intensity, 1998 to 2024
+  - title: "Mediation in 2025: Navigating Overlapping Conflict Systems"
+    source: PeaceRep, MEND Data Series
+    note: With M. Peter, K. Houghton, and S. Badanjak.
+    url: https://peacerep.org/publication/mediation-in-2025-navigating-overlapping-conflict-systems/
+    image: /assets/img/blog-mediation-2025.jpg
+    alt: Mediation Event and Negotiators Database (MEND) logo
   - title: "Semi-Automated Coding for Conflict Mediation Research: Database Development"
     source: PeaceRep, Peace Analytics
     url: https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/
@@ -14,6 +26,9 @@ posts:
     url: https://peacerep.org/publication/conflict-in-a-warming-world/
     image: /assets/img/blog-climate-shocks.jpg
     alt: Aerial view of a displacement camp in an arid landscape
+  - title: "Enhancing Conflict Mediation Research: First Steps in the Mediation and Negotiators Database (MEND)"
+    source: CARMA Internet and Big Data in Economics and Social Sciences, Valencia
+    url: https://carmaconf.org/wp-content/uploads/pdfs/inpress/17695.pdf
   - title: "Stitching a Sustainable Future: Policy Interventions for Youth, Migration, and Climate Change in Bangladesh’s Garment Industry"
     source: International Organization for Migration (IOM)
     url: https://environmentalmigration.iom.int/blogs/stitching-sustainable-future-policy-interventions-youth-migration-and-climate-change-bangladeshs-garment-industry
@@ -33,12 +48,13 @@ posts:
 
 {% for post in posts %}
 <div class="section"><div class="container">
-  <article class="post">
+  <article class="post{% if not post.image %} no-image{% endif %}">
     <div>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p class="source">{{ post.source }}</p>
+      {% if post.note %}<p class="source">{{ post.note }}</p>{% endif %}
     </div>
-    <a href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image }}" alt="{{ post.alt }}" loading="lazy"></a>
+    {% if post.image %}<a href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image }}" alt="{{ post.alt }}" loading="lazy"></a>{% endif %}
   </article>
 </div></div>
 {% endfor %}

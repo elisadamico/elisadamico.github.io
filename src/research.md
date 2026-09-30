@@ -45,6 +45,8 @@ heading: Research
 
 ### Policy Engagement
 
+- Hooda, D., Miranda, D., & Paleczny, K. (2026). [Implementation Over Urgency: What 2,170 Parliamentary Speeches Reveal About Climate Law in Ireland](https://www.ucd.ie/connected_politics/blog/implementationoverurgencywhat2170parliamentaryspeechesrevealaboutclimatelawinireland/). Connected_Politics Lab Blog, University College Dublin. *Project designed and supervised by* ***D’Amico, E.***
+- Peter, M., **D’Amico, E.**, Houghton, K., & Badanjak, S. (2026). [Mediation in 2025: Navigating overlapping conflict systems](https://peacerep.org/publication/mediation-in-2025-navigating-overlapping-conflict-systems/). *MEND Data Series*, PeaceRep.
 - **D’Amico, E.** (2024). [Semi-automated coding for conflict mediation research: Database development](https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/). *Peace Analytics Series*, PeaceRep.
 - **D’Amico, E.** (2024). [How Climate Shocks Impact Rebel Demands and Peace Agreement Outcomes](https://peacerep.org/publication/conflict-in-a-warming-world/). *Climate & Natural Resources*, PeaceRep.
 - **D’Amico, E.** (2024). [Enhancing Conflict Mediation Research: First Steps in the Mediation and Negotiators Database (MEND)](https://carmaconf.org/wp-content/uploads/pdfs/inpress/17695.pdf). *CARMA Conference*, Valencia.

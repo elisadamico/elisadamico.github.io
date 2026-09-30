@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Teaching & Mentoring
+title: Teaching
 heading: Teaching Experience
 syllabi:
   - title: "Political Science 102: International Relations in an Age of Globalization"
@@ -20,10 +20,27 @@ syllabi:
 
 <div class="entry">
 
-### 2025 – University of St Andrews, School of International Relations
+### 2025–2027 – University College Dublin, School of Politics and International Relations
+
+**Module Supervisor** (2027)<br>
+*Politics of Climate Change: Political Theory, Political Ecology, and Praxis* (Ciaran O’Brien)
+
+**Project Supervisor** (2026–2027)<br>
+*“Who Gets to Leave? Displacement after the Valencia Floods,”* Connected_Politics, MSc Politics and Data Science
+
+**Lecturer (Instructor of Record)** (2026)<br>
+*POL40950: Introduction to Statistics* (graduate level)
+
+**Project Supervisor** (2025–2026)<br>
+*“Climate Law Framing and Legislative Success in Ireland,”* Connected_Politics, MSc Politics and Data Science
+
+</div>
+<div class="entry">
+
+### 2025–2026 – University of St Andrews, School of International Relations
 
 **Computational Team Coordinator**<br>
-*Vertically Integrated Project (VIP) Module: Global Fragmentation and Conflict Management*<br>
+*[Vertically Integrated Project (VIP) Module](https://www.st-andrews.ac.uk/education/vip/projects/peacehub/): Global Fragmentation and Conflict Management*<br>
 Responsible for leading student teams on computational analysis tasks and guiding data-driven research on fragmentation and mediation in conflict zones.
 
 </div>
@@ -38,11 +55,17 @@ Designed and led an interdisciplinary seminar exploring how climate change influ
 </div>
 <div class="entry">
 
-### 2024 – Universität Basel, Institute for European Global Studies
+### 2024–2025 – Universität Basel, Institute for European Global Studies
 
-**Lecturer (Instructor of Record)**<br>
+**Lecturer (Independent Study with Nives Häfliger)** (2025)<br>
+*Climate Change and Conflict in the DRC*
+
+**Lecturer (Instructor of Record)** (2024)<br>
 *Graduate Block Seminar: Climate Change, Conflict, and Economic Adaptation – Perspectives on Migration and Sustainable Development*<br>
 Delivered an intensive, interdisciplinary course that bridged climate science, political economy, and international development, including applied policy analysis and case studies.
+
+**Lecturer (Independent Study with Melanie Dippel)** (2024)<br>
+*Conflict Mediation & Negotiation: Data Training*
 
 </div>
 <div class="entry">
@@ -56,8 +79,8 @@ Delivered lectures, created syllabi and assessments, and facilitated critical di
 **Guest Lecturer**<br>
 Courses included: *Democracy and Refugee Rights*, *Foreign Policy*, and *IR Theory in Asia*.
 
-**Teaching Assistant**<br>
-*Political Science 300D: Faculty-Led Program in Colombia*<br>
+**Teaching Assistant** (2022)<br>
+*[Political Science 300D: Faculty-Led Program in Colombia](https://abroad.luc.edu/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11695)*<br>
 Supported curriculum delivery and student learning in a short-term study abroad course focused on post-conflict peacebuilding and transitional justice.
 
 </div>
@@ -83,31 +106,7 @@ Responsibilities included leading lab sections, assisting with R/statistics assi
 
 ---
 
-<h2 class="no-caps">Mentorship Experience</h2>
-
-- **2025 – MLitt Thesis Supervisor**<br>*Shreyas Rajagopal*, Global Social & Political Thought, University of St Andrews
-- **2025 – Learning Contract Supervisor**<br>*Nives Häfliger*, Climate Change and Conflict in the DRC, University of Basel
-- **2024–2025 – PhD Methods Support**<br>*Aarushi Sharma, Katelyn Nutley, Louise Courbin, Erin Sindle*, University of St Andrews
-- **2024 – Learning Contract Supervisor**<br>*Melanie Dippel*, Conflict Mediation & Negotiation: Data Training, University of Basel
+<p><a class="btn btn-outline" href="/mentoring/">Mentoring & Supervision</a></p>
 
 </div>
-</div></div>
-
-<div class="page-title"><h2>Leadership Profile</h2></div>
-
-<div class="section"><div class="container">
-
-<img class="portrait bw" src="/assets/img/leadership.jpg" alt="Elisa D’Amico smiling with a child" width="700" height="744">
-
-**Personal Vision**: My personal vision is to cultivate balance through intentional self-care and spiritual growth, incorporating practices like yoga and meditation without overwhelming myself. I aspire to extend this harmony to others through acts of kindness and empathy, creating a supportive community where everyone feels valued.
-
-**Leadership Statement:** As a leader, I am committed to fostering positive change through empathetic guidance, leveraging teaching and mentorship to inspire others. My approach includes driving innovation through rigorous quantitative research, particularly addressing pressing global issues like climate change and migration. I believe in purposeful action that not only leads to personal growth but also contributes to a better, more sustainable and compassionate world.
-
-<div class="cards">
-<div class="card"><h3>Values</h3><ul><li>Compassion and Empathy</li><li>Resilience</li><li>Learning and Growth</li><li>Integrity and Self-Reflection</li><li>Community and Contribution</li></ul></div>
-<div class="card"><h3>Strengths</h3><ul><li>Achiever</li><li>Discipline</li><li>Learner</li><li>Harmony</li><li>Input</li></ul></div>
-<div class="card"><h3>Passions</h3><ul><li>Mindfulness</li><li>Yoga</li><li>Research</li><li>Reading</li><li>Games</li></ul></div>
-<div class="card"><h3>Needs</h3><ul><li>Intellectual Engagement</li><li>Meaningful Connection</li><li>Personal Growth</li><li>Contribution and Impact</li><li>Autonomy and Affirmation</li></ul></div>
-</div>
-
 </div></div>
