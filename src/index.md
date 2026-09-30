@@ -3,7 +3,7 @@ layout: base.njk
 ---
 
 <div class="section"><div class="container split center">
-<div><img class="bw" src="/assets/img/home-presenting.jpg" alt="Elisa D’Amico presenting research on climate migrants in Bangladesh" width="1600" height="978"></div>
+<div><img class="bw" src="/assets/img/home-conference.jpg" alt="Elisa D’Amico speaking on a panel at a PeaceRep conference" width="1000" height="667"></div>
 <div>
 
 ## Assistant Professor, University College Dublin
