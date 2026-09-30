@@ -42,6 +42,18 @@ export default function (eleventyConfig) {
     return `<ul class="yearlist${plain ? " no-label" : ""}">${items.join("")}</ul>`;
   });
 
+  // Links that leave the site open in a new tab.
+  eleventyConfig.addTransform("external-links", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content.replace(/<a\b[^>]*\bhref="(https?:\/\/[^"]+)"[^>]*>/g, (tag, url) => {
+      if (/^https?:\/\/(www\.)?elisadamico\.net/.test(url) || /\btarget=/.test(tag)) return tag;
+      const withRel = /\brel="/.test(tag)
+        ? tag.replace(/\brel="([^"]*)"/, (rel, value) => `rel="${/noopener/.test(value) ? value : value + " noopener"}"`)
+        : tag.replace(/>$/, ' rel="noopener">');
+      return withRel.replace(/>$/, ' target="_blank">');
+    });
+  });
+
   eleventyConfig.addShortcode("year", () => String(new Date().getFullYear()));
 
   return {
