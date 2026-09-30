@@ -87,6 +87,23 @@ Used Excel VBA and Stata to merge large climate law and litigation data.
 </div></div>
 </div></div>
 
+<div class="page-title"><h2>Replication Data</h2></div>
+
+<div class="section"><div class="container narrow prose">
+
+Data and code for my published articles are on Harvard Dataverse.
+
+{% yearlist %}
+2026 | [Regional El Niño Patterns Shape Wheat-Flour Price Responses to Climate Disasters](https://doi.org/10.7910/DVN/4QHFA1). Replication data for my article in *Environmental Research Letters*.
+2026 | [The Price of Instability: Hydrological Disasters, Food Prices, and Violent Conflict](https://doi.org/10.7910/DVN/917DMH). Replication data for my article in *Humanities and Social Sciences Communications*.
+2026 | [Difference-in-Differences Estimation: A Quasi-Experimental Approach to Sustainable Development Interventions](https://doi.org/10.7910/DVN/FGCPNU). Replication data for my forthcoming article in *Global Environmental Politics*.
+2025 | [Timing Matters: Analyzing Climate Policies and Adaptive Resilience](https://doi.org/10.7910/DVN/JYHGTF). Replication data for my article with T. Maboudi in *Climate Policy*.
+2025 | [Resilient by Design: Isolating Impactful Climate Adaptation Measures in New England](https://doi.org/10.7910/DVN/GBWZEC). Replication data for my article in *npj Climate Action*.
+2025 | [From Garments to Grievances: The Dynamics of Urban Growth and Economic Shocks in Rapidly Industrializing Economies](https://doi.org/10.7910/DVN/XE1MQE).
+{% endyearlist %}
+
+</div></div>
+
 <div class="page-title"><h2>Selected Projects and Tools</h2></div>
 
 <div class="section"><div class="container">
