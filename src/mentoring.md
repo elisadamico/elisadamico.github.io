@@ -31,8 +31,6 @@ heading: Mentoring & Supervision
 
 <div class="section"><div class="container">
 
-<img class="portrait bw" src="/assets/img/leadership.jpg" alt="Elisa D’Amico smiling with a child" width="700" height="744">
-
 **Personal Vision**: My personal vision is to cultivate balance through intentional self-care and spiritual growth, incorporating practices like yoga and meditation without overwhelming myself. I aspire to extend this harmony to others through acts of kindness and empathy, creating a supportive community where everyone feels valued.
 
 **Leadership Statement:** As a leader, I am committed to fostering positive change through empathetic guidance, leveraging teaching and mentorship to inspire others. My approach includes driving innovation through rigorous quantitative research, particularly addressing pressing global issues like climate change and migration. I believe in purposeful action that not only leads to personal growth but also contributes to a better, more sustainable and compassionate world.
