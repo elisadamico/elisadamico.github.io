@@ -35,7 +35,7 @@ heading: Research
 <p class="note">NS = Near Submission</p>
 
 - **D’Amico, E.** *Harnessing Machine Learning and Geospatial Tools for Climate Displacement Measurement*. [Grant]
-- **D’Amico, E.** *(NS)* *The Geography of Conflict Mediation: Proximity and Success in Armed Conflict Resolutions*.
+- **D’Amico, E.** *(NS)* *The Geography of Conflict Mediation: Proximity and Success in Armed Conflict Resolutions*. [Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology, PolMeth Europe 2025).
 - **D’Amico, E.**, Glaser, S., & Hendrix, C. *(NS)* *From Ocean Changes to Conflict: Predicting Fishery-Related Militarized Disputes in a Warming World*.
 - Häfliger, N., & **D’Amico, E.** *From Drought to Dispute in the DRC: Climate’s Role in Resource Wars*.
 - **D’Amico, E.**, & Nutley, K. *Legislating Under Pressure: The Conditional Influence of Environmental Protest on Climate Policy*.

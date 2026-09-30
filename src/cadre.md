@@ -4,6 +4,38 @@ title: CADRE
 heading: Climate And Displacement Research Ensemble
 description: CADRE is an interdisciplinary working group at University College Dublin developing a research agenda on the measurement of climate displacement.
 interest_form: https://docs.google.com/forms/d/e/1FAIpQLScf14t9tVKI3dm04Q_Eutkou36jZDLPw8N3_lpDtUOhiY7PxQ/viewform
+team:
+  - name: Elisa D’Amico
+    role: Ad Astra Assistant Professor
+    unit: School of Politics and International Relations (SPIRe)
+    lead: true
+  - name: Chloé ten Brink
+    role: PhD Candidate
+    unit: UCD Centre for Humanitarian Action
+  - name: Sara Dada
+    role: Ad Astra Fellow
+    unit: School of Nursing, Midwifery and Health Systems
+  - name: Michael Fop
+    role: Assistant Professor in Statistics
+    unit: School of Mathematics and Statistics
+  - name: Isabella Gollini
+    role: Assistant Professor in Statistics
+    unit: School of Mathematics and Statistics
+  - name: Madhusanka Liyanage
+    role: Professor and Ad Astra Fellow
+    unit: School of Computer Science
+  - name: Ronan McDermott
+    role: Earth Institute Climate Fellow
+    unit: UCD Centre for Humanitarian Action
+  - name: Ravi Rastogi
+    role: MSc Student, Information Systems
+    unit: School of Computer Science
+  - name: Ranul Thantilage
+    role: Assistant Professor
+    unit: School of Computer Science
+  - name: Manuel Saviane
+    role: Undergraduate Student
+    unit: Philosophy, Politics and Economics (PPE)
 strands:
   - title: Computational social science and political science
     detail: Scoping how climate displacement is currently measured, mapping existing approaches, definitions, and gaps.
@@ -37,6 +69,14 @@ CADRE is a UCD Earth Institute Strategic Priority for 2026–27. Ten researchers
 
 ---
 
+## Team
+
+<ul class="team">
+{% for person in team %}<li><strong>{{ person.name }}</strong>{% if person.lead %} (lead){% endif %}<br>{{ person.role }}, {{ person.unit }}</li>
+{% endfor %}</ul>
+
+---
+
 ## Planned Outputs
 
 The working group meets monthly from October 2026 to September 2027. Over that period the group plans to produce the following.
@@ -50,7 +90,7 @@ The working group meets monthly from October 2026 to September 2027. Over that p
 
 ## Get Involved
 
-The group wants to grow, and anyone curious is welcome, whatever their field. Meetings are on the second Monday of each month at 11:30, with lunch, in Room E4.46, Science East, UCD Belfield.
+The group wants to grow, and anyone curious is welcome, whatever their field.
 
 <p class="btn-row"><a class="btn" href="{{ interest_form }}">Register your interest</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=CADRE">Email me about CADRE</a></p>
 

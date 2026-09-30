@@ -21,9 +21,5 @@ Furthermore, I am trained in several languages including Arabic, Turkish, and Sp
 </div>
 </div>
 
-<div class="media-center">
-<blockquote class="twitter-tweet" data-theme="dark" data-dnt="true" data-media-max-width="560"><p lang="en" dir="ltr">What do you know about the geography of conflict mediation?<a href="https://twitter.com/ElisaADAmico?ref_src=twsrc%5Etfw">@ElisaADAmico</a> from University of St Andrews shares her research poster from PolMeth Europe 2025⤵️ <a href="https://t.co/RwSFBkXe2W">pic.twitter.com/RwSFBkXe2W</a></p>— LSE Methodology (@LSEMethodology) <a href="https://twitter.com/LSEMethodology/status/1914643173000753332?ref_src=twsrc%5Etfw">April 22, 2025</a></blockquote>
-</div>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </div></div>

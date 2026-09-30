@@ -424,6 +424,16 @@ blockquote.twitter-tweet {
   border-top: 1px solid var(--rule);
 }
 .strands li:first-child { border-top: 0; }
+.prose .team {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.75rem 2rem;
+}
+.prose .team li { margin: 0; padding: 0.6rem 0; border-top: 1px solid var(--rule); }
+
 .strands li::before {
   content: counter(strand);
   position: absolute;

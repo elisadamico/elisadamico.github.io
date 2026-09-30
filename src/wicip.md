@@ -4,7 +4,6 @@ title: WICIP Network
 heading: Women in Comparative & International Politics
 description: The Women in Comparative & International Politics (WICIP) Network is a community for mentorship and collaboration among women working on comparative and international politics.
 google_group: https://groups.google.com/g/wicip
-group_email: wicip@googlegroups.com
 # Meeting list. Set done to true once a session has taken place.
 meetings:
   - date: February 18, 2026
@@ -57,7 +56,7 @@ Members also share an international job and funding board and a co-authorship sh
 
 To join, sign up through the WICIP Google Group, which adds you to the network's mailing list.
 
-<p class="btn-row"><a class="btn" href="{{ google_group }}">Join the WICIP Google Group</a> <a class="btn btn-outline" href="mailto:{{ group_email }}">{{ group_email }}</a></p>
+<p class="btn-row"><a class="btn" href="{{ google_group }}">Join the WICIP Google Group</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=WICIP%20Network">Email me with questions</a></p>
 
 ---
 
