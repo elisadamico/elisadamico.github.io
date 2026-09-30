@@ -3,18 +3,28 @@ layout: base.njk
 title: Teaching
 heading: Teaching Experience
 syllabi:
-  - title: "POL40950: Introduction to Statistics (Graduate Module)"
-    file: /assets/files/syllabus-pol40950.pdf
-  - title: "Political Science 102: International Relations in an Age of Globalization"
-    file: /assets/files/syllabus-plsc-102.pdf
-  - title: "Climate Change, Conflict, & Economic Adaptation: Perspectives on Migration & Sustainable Development (Graduate Module)"
-    file: /assets/files/syllabus-basel-climate-conflict.pdf
-  - title: "Climate Change & Human Migration: Impacts, Challenges, and Opportunities"
-    file: /assets/files/syllabus-climate-migration.pdf
-  - title: "Computational Social Science: Exploring Big Data Insights and Applications"
-    file: /assets/files/syllabus-computational-social-science.pdf
-  - title: "ISCM. From Structural Violence to ‘Resource Wars’: The Climate Change, Conflict and Displacement Nexus"
-    file: /assets/files/syllabus-soas-iscm.pdf
+  - level: Graduate
+    courses:
+      - title: "POL40950: Introduction to Statistics"
+        where: University College Dublin, 2026
+        file: /assets/files/syllabus-pol40950.pdf
+      - title: "From Structural Violence to ‘Resource Wars’: The Climate Change, Conflict, and Displacement Nexus"
+        where: SOAS University of London, International Summer Course on (Im)mobilities, 2025
+        file: /assets/files/syllabus-soas-iscm.pdf
+      - title: "Climate Change, Conflict, and Economic Adaptation: Perspectives on Migration and Sustainable Development"
+        where: Universität Basel, 2024
+        file: /assets/files/syllabus-basel-climate-conflict.pdf
+  - level: Undergraduate
+    courses:
+      - title: "Political Science 102: International Relations in an Age of Globalization"
+        where: Loyola University Chicago, 2021
+        file: /assets/files/syllabus-plsc-102.pdf
+      - title: "Climate Change and Human Migration: Impacts, Challenges, and Opportunities"
+        where: Sample syllabus, upper-level course
+        file: /assets/files/syllabus-climate-migration.pdf
+      - title: "Computational Social Science: Exploring Big Data Insights and Applications"
+        where: Sample syllabus, upper-level course
+        file: /assets/files/syllabus-computational-social-science.pdf
 ---
 
 <div class="section"><div class="container split wide-left">
@@ -24,17 +34,15 @@ syllabi:
 
 ### 2025–2027 – University College Dublin, School of Politics and International Relations
 
-**Module Supervisor** (2027)<br>
-*Politics of Climate Change: Political Theory, Political Ecology, and Praxis* (Ciaran O’Brien)
-
-**Project Supervisor** (2026–2027)<br>
-*“Who Gets to Leave? Displacement after the Valencia Floods,”* Connected_Politics, MSc Politics and Data Science
-
 **Lecturer (Instructor of Record)** (2026)<br>
 *POL40950: Introduction to Statistics* (graduate level)
 
-**Project Supervisor** (2025–2026)<br>
-*“Climate Law Framing and Legislative Success in Ireland,”* Connected_Politics, MSc Politics and Data Science
+**Project Supervisor**, Connected_Politics, MSc Politics and Data Science<br>
+2026–2027: *“Who Gets to Leave? Displacement after the Valencia Floods”*<br>
+2025–2026: *“Climate Law Framing and Legislative Success in Ireland”*
+
+**Module Supervisor** (2027)<br>
+*Politics of Climate Change: Political Theory, Political Ecology, and Praxis* (Ciaran O’Brien)
 
 </div>
 <div class="entry">
@@ -101,9 +109,12 @@ Responsibilities included leading lab sections, assisting with R/statistics assi
 
 <img class="bw" src="/assets/img/teaching.jpeg" alt="Elisa D’Amico teaching in a seminar room" width="750" height="871">
 
-<h2 class="side-heading">Syllabi</h2>
-
-{% for syllabus in syllabi %}<a class="btn btn-block" href="{{ syllabus.file }}">{{ syllabus.title }}</a>
+<h2 class="side-heading">Course Syllabi</h2>
+<p class="side-note">Full syllabi for courses I have taught or designed, as PDF downloads.</p>
+{% for group in syllabi %}<h3 class="syllabus-level">{{ group.level }}</h3>
+<ul class="syllabus-list">
+{% for course in group.courses %}<li><a href="{{ course.file }}"><span class="syllabus-title">{{ course.title }}</span><span class="syllabus-meta">{{ course.where }}</span></a></li>
+{% endfor %}</ul>
 {% endfor %}
 
 ---

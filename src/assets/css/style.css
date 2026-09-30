@@ -345,7 +345,43 @@ blockquote.twitter-tweet {
 .entry h3 { font-size: 1.2rem; font-weight: 600; font-style: normal; margin: 0 0 0.9rem; }
 .entry p { margin-bottom: 0.9rem; }
 
-.side-heading { font-size: 1rem; text-decoration: underline; text-underline-offset: 0.2em; margin: 1.5rem 0 0.75rem; }
+.side-heading { font-size: 1.35rem; margin: 0.5rem 0 0.4rem; }
+.side-note { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.25rem; }
+.prose h3.syllabus-level {
+  font-family: var(--font-head);
+  font-style: normal;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: 1.5rem 0 0.5rem;
+}
+.prose .syllabus-list { list-style: none; padding: 0; margin: 0 0 0.5rem; }
+.prose .syllabus-list li { margin: 0 0 0.6rem; }
+.syllabus-list a {
+  display: block;
+  padding: 0.8rem 2.6rem 0.8rem 1rem;
+  border: 1px solid var(--rule);
+  background: var(--surface-raised);
+  position: relative;
+  line-height: 1.35;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+.syllabus-list a::after {
+  content: "PDF";
+  position: absolute;
+  right: 0.8rem;
+  top: 0.9rem;
+  font-family: var(--font-head);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+.syllabus-list a:hover { border-color: #fff; background: #403d3a; text-decoration: none; }
+.syllabus-title { display: block; font-family: var(--font-head); font-weight: 500; color: #fff; }
+.syllabus-meta { display: block; margin-top: 0.25rem; font-size: 0.85rem; color: var(--text-muted); }
 
 .cards {
   display: grid;
