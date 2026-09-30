@@ -8,11 +8,11 @@ templates:
   - name: Job Applications
     about: A Notion database for tracking every application in one place, with position type, field, deadline, location, posting link, and notes, plus whether you interviewed and the outcome. Separate views show academic jobs, non-academic jobs, and interviews.
     url: "https://robust-force-efe.notion.site/30a4de742e9e8165bf1cce0a0d05e5c7?v=30a4de742e9e8182923c000cfc2e963a&pvs=74"
-    image:
+    image: /assets/img/jobmarket-applications.jpg
   - name: Project & Paper Management
     about: A Notion page for keeping a research pipeline in view, with a project and paper status board, project categories, and upcoming presentations.
     url: "https://robust-force-efe.notion.site/Project-Paper-Management-Template-1814de742e9e8085b47dda48e87bb003?pvs=74"
-    image:
+    image: /assets/img/jobmarket-projects.jpg
 ---
 
 <div class="section"><div class="container">
@@ -20,10 +20,10 @@ templates:
 <p class="lede">Notion templates I built to manage my own job search and research pipeline.</p>
 <p>Open a template and use the Duplicate button in the top-right corner to copy it into your own Notion workspace.</p>
 </div>
-<div class="post-grid">
-{% for template in templates %}<article class="post-card">
-{% if template.image %}<a class="post-thumb" href="{{ template.url }}" tabindex="-1" aria-hidden="true"><img src="{{ template.image }}" alt="Screenshot of the {{ template.name }} template in Notion" loading="lazy"></a>{% endif %}
-<div class="post-body"><p class="post-tag">Notion template</p><h2>{% if template.url %}<a href="{{ template.url }}">{{ template.name }}</a>{% else %}{{ template.name }}{% endif %}</h2><p class="source">{{ template.about }}</p><p class="source">{% if template.url %}<a href="{{ template.url }}">Open the template</a>{% else %}Link coming soon{% endif %}</p></div>
+<div class="template-list">
+{% for template in templates %}<article class="template-card">
+{% if template.image %}<a class="template-shot" href="{{ template.image }}"><img src="{{ template.image }}" alt="Screenshot of my {{ template.name }} setup in Notion, with some details blurred" loading="lazy"></a>{% endif %}
+<div class="post-body"><p class="post-tag">Notion template</p><h2>{% if template.url %}<a href="{{ template.url }}">{{ template.name }}</a>{% else %}{{ template.name }}{% endif %}</h2><p>{{ template.about }}</p>{% if template.url %}<p><a class="btn" href="{{ template.url }}">Open the template</a></p>{% else %}<p class="source">Link coming soon</p>{% endif %}</div>
 </article>
 {% endfor %}</div>
 </div></div>
