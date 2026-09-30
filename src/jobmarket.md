@@ -5,6 +5,7 @@ heading: Job Market Resources
 description: Notion templates for managing academic job applications and a research pipeline.
 # Fill in url and image for each template. A card with no url shows "Link coming soon".
 wicip_notion: "https://robust-force-efe.notion.site/Women-in-Comparative-International-Politics-30a4de742e9e8015ae15f6d7b0725ad3?pvs=74"
+materials_overleaf: "https://www.overleaf.com/read/cddqtqcrhmfh#26832e"
 templates:
   - name: Job Applications
     about: A Notion database for tracking every application in one place, with position type, field, deadline, location, posting link, and notes, plus whether you interviewed and the outcome. Separate views show academic jobs, non-academic jobs, and interviews.
@@ -27,6 +28,12 @@ templates:
 <div class="post-body"><p class="post-tag">Notion template</p><h2>{% if template.url %}<a href="{{ template.url }}">{{ template.name }}</a>{% else %}{{ template.name }}{% endif %}</h2><p>{{ template.about }}</p>{% if template.url %}<p><a class="btn" href="{{ template.url }}">Open the template</a></p>{% else %}<p class="source">Link coming soon</p>{% endif %}</div>
 </article>
 {% endfor %}</div>
+
+<div class="prose" style="margin-top:2.5rem">
+<h2 class="no-caps">My Application Materials</h2>
+<p>The documents I used on the academic job market, in LaTeX on Overleaf: my CV, a general cover letter, teaching portfolio (with service and diversity statements and syllabi), research statement, a research proposal, book prospectus, and the case I made for a salary adjustment, with the figures removed. Open the project to read them, or use Menu, then Copy Project, to adapt them for your own applications.</p>
+<p><a class="btn" href="{{ materials_overleaf }}">Open the materials on Overleaf</a></p>
+</div>
 
 <div class="prose" style="margin-top:2.5rem">
 <h2 class="no-caps">Session Recordings and Slides</h2>
