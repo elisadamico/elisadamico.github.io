@@ -57,7 +57,7 @@ heading: Research
 - Miranda, D., Hooda, D., Paleczny, K., & **D’Amico, E.** *Climate Law Framing and Legislative Success in Ireland*.
 - Hoepner, A., Guisande, D., & **D’Amico, E.** *Corporate Lobbying and Environmental Policy Under Crisis*.
 - Liang, K., Mutoni, I., Schlittke, Z., & **D’Amico, E.** *Who Gets to Leave? Displacement after the Valencia Floods*.
-- **D’Amico, E.** *The Geography of Conflict Mediation: Proximity and Success in Armed Conflict Resolutions*. [Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology, PolMeth Europe 2025).
+- **D’Amico, E.** *The Geography of Conflict Mediation: Proximity and Success in Armed Conflict Resolutions*. [Read the interactive summary](https://tvancisin.github.io/elisa_damico/) or [watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology, PolMeth Europe 2025).
 
 ### Policy Engagement
 
