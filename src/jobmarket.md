@@ -31,7 +31,7 @@ templates:
 
 <div class="prose" style="margin-top:2.5rem">
 <h2 class="no-caps">My Application Materials</h2>
-<p>The documents I used on the academic job market, in LaTeX on Overleaf: my CV, a general cover letter, teaching portfolio (with service and diversity statements and syllabi), research statement, a research proposal, book prospectus, and the case I made for a salary adjustment, with the figures removed. Open the project to read them, or use Menu, then Copy Project, to adapt them for your own applications.</p>
+<p>The documents I used on the academic job market, in LaTeX on Overleaf: my CV, a general cover letter, teaching portfolio (with service and diversity statements and syllabi), research statement, a research proposal, book prospectus, and the case I made for a salary adjustment. Open the project to read them, or use Menu, then Copy Project, to adapt them for your own applications.</p>
 <p><a class="btn" href="{{ materials_overleaf }}">Open the materials on Overleaf</a></p>
 </div>
 
