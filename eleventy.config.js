@@ -1,5 +1,8 @@
 import fs from "node:fs";
 import path from "node:path";
+import markdownIt from "markdown-it";
+
+const md = markdownIt({ html: true });
 
 const CV_SOURCE = "src/assets/files/DAmico_CV.pdf";
 
@@ -19,6 +22,26 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("containsUrl", (items, url) => items.some((item) => item.url === url));
+  // {% yearlist %} turns lines written as "2026 | text" into a tidy list with
+  // the year in a left-hand column. A line with no "|" gets no year.
+  eleventyConfig.addPairedShortcode("yearlist", (content) => {
+    const rows = content
+      .split("\n")
+      .map((line) => line.trim())
+      .filter(Boolean)
+      .map((line) => {
+        const bar = line.indexOf("|");
+        return bar === -1
+          ? { label: "", text: line }
+          : { label: line.slice(0, bar).trim(), text: line.slice(bar + 1).trim() };
+      });
+    const plain = rows.every((row) => !row.label);
+    const items = rows.map(
+      (row) => `<li><span class="yl-label">${row.label}</span><span class="yl-text">${md.renderInline(row.text)}</span></li>`
+    );
+    return `<ul class="yearlist${plain ? " no-label" : ""}">${items.join("")}</ul>`;
+  });
+
   eleventyConfig.addShortcode("year", () => String(new Date().getFullYear()));
 
   return {

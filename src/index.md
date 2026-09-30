@@ -14,3 +14,11 @@ I am a political scientist whose primary research interests lie at the intersect
 
 </div>
 </div></div>
+
+<div class="section"><div class="container">
+<div class="link-cards">
+<a class="link-card" href="/research/"><h3>Research</h3><p>My book, articles, and work in progress on climate, conflict, and migration.</p><span class="more">View research</span></a>
+<a class="link-card" href="/teaching/"><h3>Teaching &amp; Mentoring</h3><p>Courses, syllabi, and student supervision.</p><span class="more">View teaching</span></a>
+<div class="link-card"><h3>Groups</h3><p>Research groups and networks I lead or help run.</p><ul><li><a href="/cadre/">CADRE</a></li><li><a href="/wicip/">WICIP</a></li><li><a href="/mend/">MEND</a></li></ul></div>
+</div>
+</div></div>

@@ -37,11 +37,4 @@ heading: Mentoring & Supervision
 
 **Leadership Statement:** As a leader, I am committed to fostering positive change through empathetic guidance, leveraging teaching and mentorship to inspire others. My approach includes driving innovation through rigorous quantitative research, particularly addressing pressing global issues like climate change and migration. I believe in purposeful action that not only leads to personal growth but also contributes to a better, more sustainable and compassionate world.
 
-<div class="cards">
-<div class="card"><h3>Values</h3><ul><li>Compassion and Empathy</li><li>Resilience</li><li>Learning and Growth</li><li>Integrity and Self-Reflection</li><li>Community and Contribution</li></ul></div>
-<div class="card"><h3>Strengths</h3><ul><li>Achiever</li><li>Discipline</li><li>Learner</li><li>Harmony</li><li>Input</li></ul></div>
-<div class="card"><h3>Passions</h3><ul><li>Mindfulness</li><li>Yoga</li><li>Research</li><li>Reading</li><li>Games</li></ul></div>
-<div class="card"><h3>Needs</h3><ul><li>Intellectual Engagement</li><li>Meaningful Connection</li><li>Personal Growth</li><li>Contribution and Impact</li><li>Autonomy and Affirmation</li></ul></div>
-</div>
-
 </div></div>

@@ -5,7 +5,8 @@ heading: Policy Engagement
 # To add a post, copy one of the blocks below and put it at the top of the list.
 posts:
   - title: "Bridging the Distance: New Insights on Geography in Conflict Mediation"
-    source: Interactive data story
+    type: Interactive
+    source: Based on The Geography of Conflict Mediation
     note: Web and visualizations by Tomas Vancisin.
     url: https://tvancisin.github.io/elisa_damico/
     image: /assets/img/blog-bridging-the-distance.jpg
@@ -13,54 +14,74 @@ posts:
     extra_label: Watch the poster walkthrough from PolMeth Europe 2025 (LSE Methodology)
     extra_url: https://x.com/LSEMethodology/status/1914643173000753332
   - title: "Implementation Over Urgency: What 2,170 Parliamentary Speeches Reveal About Climate Law in Ireland"
+    type: Blog
+    year: 2026
+    fit: contain
     source: Connected_Politics Lab Blog, University College Dublin
     note: By D. Hooda, D. Miranda, and K. Paleczny. Project designed and supervised by Elisa D’Amico.
     url: https://www.ucd.ie/connected_politics/blog/implementationoverurgencywhat2170parliamentaryspeechesrevealaboutclimatelawinireland/
     image: /assets/img/blog-climate-law-ireland.jpg
     alt: Timeline chart of Irish climate legislation by parliamentary debate intensity, 1998 to 2024
   - title: "Mediation in 2025: Navigating Overlapping Conflict Systems"
+    type: Report
+    year: 2026
+    fit: contain
     source: PeaceRep, MEND Data Series
     note: With M. Peter, K. Houghton, and S. Badanjak.
     url: https://peacerep.org/publication/mediation-in-2025-navigating-overlapping-conflict-systems/
     image: /assets/img/blog-mediation-2025.jpg
     alt: Mediation Event and Negotiators Database (MEND) logo
   - title: "Semi-Automated Coding for Conflict Mediation Research: Database Development"
+    type: Report
+    year: 2024
     source: PeaceRep, Peace Analytics
     url: https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/
     image: /assets/img/blog-mend-coding.jpg
     alt: Abstract visualization of rows of data
   - title: How Climate Shocks Impact Rebel Demands and Peace Agreement Outcomes
+    type: Policy Brief
+    year: 2024
     source: PeaceRep, Climate & Natural Resources
     url: https://peacerep.org/publication/conflict-in-a-warming-world/
     image: /assets/img/blog-climate-shocks.jpg
     alt: Aerial view of a displacement camp in an arid landscape
   - title: "Stitching a Sustainable Future: Policy Interventions for Youth, Migration, and Climate Change in Bangladesh’s Garment Industry"
+    type: Blog
+    year: 2024
     source: International Organization for Migration (IOM)
     url: https://environmentalmigration.iom.int/blogs/stitching-sustainable-future-policy-interventions-youth-migration-and-climate-change-bangladeshs-garment-industry
     image: /assets/img/blog-garment.jpg
     alt: Climate justice demonstrators in Bangladesh
   - title: Montenegro v. Ashcroft, 16-May 2002
+    type: Legal Case
+    year: 2023
+    fit: contain
     source: Earth Refuge
     url: https://legal.earthrefuge.org/montenegro-v-ashcroft/
     image: /assets/img/blog-earth-refuge.jpg
     alt: Earth Refuge logo
   - title: "Rising Tides and Sudden Surprises: The Two Faces of Climate Displacement"
+    type: Op-Ed
+    year: 2023
     source: Medium
     url: https://medium.com/@elisadamico95/rising-tides-and-sudden-surprises-the-two-faces-of-climate-displacement-d4c594ea053f
     image: /assets/img/blog-rising-tides.jpg
     alt: Debris washed up on a polluted shoreline
 ---
 
-{% for post in posts %}
 <div class="section"><div class="container">
-  <article class="post{% if not post.image %} no-image{% endif %}">
-    <div>
+<div class="post-grid">
+{% for post in posts %}
+  <article class="post-card">
+    {% if post.image %}<a class="post-thumb{% if post.fit == 'contain' %} contain{% endif %}" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image }}" alt="{{ post.alt }}" loading="lazy"></a>{% endif %}
+    <div class="post-body">
+      <p class="post-tag">{{ post.type }}{% if post.year %}<span aria-hidden="true"> · </span>{{ post.year }}{% endif %}</p>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p class="source">{{ post.source }}</p>
       {% if post.note %}<p class="source">{{ post.note }}</p>{% endif %}
-      {% if post.extra_url %}<p class="source"><a class="extra-link" href="{{ post.extra_url }}">{{ post.extra_label }}</a></p>{% endif %}
+      {% if post.extra_url %}<p class="source"><a href="{{ post.extra_url }}">{{ post.extra_label }}</a></p>{% endif %}
     </div>
-    {% if post.image %}<a href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image }}" alt="{{ post.alt }}" loading="lazy"></a>{% endif %}
   </article>
-</div></div>
 {% endfor %}
+</div>
+</div></div>

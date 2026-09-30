@@ -2,6 +2,36 @@
 layout: base.njk
 title: Data Science
 heading: Data Work and Experience
+# Cards at the bottom of the page. Leave url out for a card with no link.
+projects:
+  - name: Drivers of Fishery-Related Militarized Disputes
+    kind: Shiny app
+    about: A dynamic global annual map of temperature anomalies, fish stock, and fishery-related MID dyads.
+    url: https://elisadamico.shinyapps.io/FishyMIDsApp/
+    link_label: Open the app
+  - name: BreakFinder
+    kind: R package
+    about: Change point analysis that iterates through all variables in a dataset to reveal abrupt transitions in aggregate.
+  - name: Climate Data Central
+    kind: Data resource
+    about: A repository to centralize and preserve climate data resources.
+    url: https://github.com/elisadamico/climate-data-central
+    link_label: View on GitHub
+  - name: Nighttime Lights to Country-Year Data
+    kind: QGIS and Python guide
+    about: Extracting nighttime lights raster files, pulling statistics by country borders in QGIS, and exporting country-level data to CSV.
+    url: https://github.com/elisadamico/Nighttime-Lights-Raster-Data-to-Country-Year-CSV---QGIS-Python
+    link_label: View on GitHub
+  - name: Updated GDELT Data Extraction
+    kind: SQL guide
+    about: A working sample of the query format the updated GDELT SQL interface requires, replacing older help files that no longer run.
+    url: https://github.com/elisadamico/Updated-GDELT-Data-Extraction
+    link_label: View on GitHub
+  - name: Country Name Standardization
+    kind: Stata and Excel tools
+    about: Tools for merging data on country names across differences in spelling, abbreviations, country codes, and languages.
+    url: https://github.com/elisadamico/Country-Name-Standardization-Stata-and-Excel
+    link_label: View on GitHub
 ---
 
 <div class="section"><div class="container split wide-left">
@@ -36,13 +66,7 @@ heading: Data Work and Experience
 </div></div>
 <div class="prose"><div class="plain-heads">
 
-<a class="btn btn-outline" href="https://github.com/elisadamico">Click to view my GitHub</a>
-
-<div class="gallery">
-<a href="https://github.com/elisadamico"><img src="/assets/img/github-1.png" alt="GitHub profile of Elisa D’Amico" width="688" height="984" loading="lazy"></a>
-<a href="https://github.com/elisadamico"><img src="/assets/img/github-2.png" alt="Public GitHub repositories on nighttime lights data, country name standardization, and GDELT extraction" width="894" height="1110" loading="lazy"></a>
-<a href="https://github.com/elisadamico"><img src="/assets/img/github-3.png" alt="More public GitHub repositories by Elisa D’Amico" width="900" height="1116" loading="lazy"></a>
-</div>
+<a class="profile-card" href="https://github.com/elisadamico"><img src="/assets/img/github-profile.png" alt="GitHub profile of Elisa D’Amico" width="538" height="822" loading="lazy"><span class="btn btn-outline">View my GitHub</span></a>
 
 ---
 
@@ -54,4 +78,12 @@ heading: Data Work and Experience
 - **Created Dynamic Visualizations**: [Drivers of Fishery-Related Militarized Disputes ShinyApp](https://elisadamico.shinyapps.io/FishyMIDsApp/) — Shows dynamic global annual map of temperature anomalies, fish stock, and fishery-related MID dyads.
 
 </div></div>
+</div></div>
+
+<div class="page-title"><h2>Selected Projects and Tools</h2></div>
+
+<div class="section"><div class="container">
+<div class="link-cards">
+{% for project in projects %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3><p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
+{% endfor %}</div>
 </div></div>
