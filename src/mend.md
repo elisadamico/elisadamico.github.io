@@ -44,6 +44,14 @@ I am the Data Manager for MEND. I run the semi-automated pipeline that detects c
 ### Related Research on Mediation
 
 - Houghton, K., & **D’Amico, E.** (2026). [Financial Dependencies and Conflict Resolution: The Role of Militarized Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*.
+- **D’Amico, E.** (2025). [Bridging the Distance: New Insights on Geography in Conflict Mediation](https://tvancisin.github.io/elisa_damico/). Interactive data story based on *The Geography of Conflict Mediation*. Web and visualizations by Tomas Vancisin.
+
+<p>I presented the poster for <em>The Geography of Conflict Mediation</em> at PolMeth Europe 2025. LSE Methodology recorded the walkthrough below.</p>
+
+<div class="embed-post">
+<blockquote class="twitter-tweet" data-dnt="true" data-media-max-width="560"><p lang="en" dir="ltr">What do you know about the geography of conflict mediation? <a href="https://x.com/ElisaADAmico">@ElisaADAmico</a> from University of St Andrews shares her research poster from PolMeth Europe 2025 <a href="https://t.co/RwSFBkXe2W">pic.twitter.com/RwSFBkXe2W</a></p>&mdash; LSE Methodology (@LSEMethodology) <a href="https://x.com/LSEMethodology/status/1914643173000753332">April 22, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 ---
 

@@ -9,9 +9,6 @@ projects:
     about: A dynamic global annual map of temperature anomalies, fish stock, and fishery-related MID dyads.
     url: https://elisadamico.shinyapps.io/FishyMIDsApp/
     link_label: Open the app
-  - name: BreakFinder
-    kind: R package
-    about: Change point analysis that iterates through all variables in a dataset to reveal abrupt transitions in aggregate.
   - name: Climate Data Central
     kind: Data resource
     about: A repository to centralize and preserve climate data resources.

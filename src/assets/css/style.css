@@ -568,3 +568,7 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 
 .footer-meta { margin: 2rem 0 0; font-size: 0.85rem; color: var(--text-muted); }
 .footer-meta .sep { margin: 0 0.6em; }
+
+/* Embedded social post (MEND page) */
+.embed-post { display: flex; justify-content: center; margin: 1.5rem 0; }
+.embed-post .twitter-tweet { margin: 0 auto !important; }
