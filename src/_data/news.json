@@ -1,0 +1,26 @@
+{
+  "_note": "Recent news on the home page, newest first. Keep three or four items. url can be a page on this site or a full link.",
+  "items": [
+    {
+      "date": "October 2026",
+      "title": "Introducing CADRE at the UCD Earth Institute",
+      "text": "I presented CADRE, my new working group on measuring climate displacement, at the Earth Institute’s coffee morning for its 2026 Strategic Interdisciplinary Award projects.",
+      "url": "/cadre/",
+      "link_label": "About CADRE"
+    },
+    {
+      "date": "September 2026",
+      "title": "New article in Civil Wars",
+      "text": "Kasia Houghton and I examine how militarized mediators shape conflict resolution in modern insurgencies.",
+      "url": "https://doi.org/10.1080/13698249.2026.2718659",
+      "link_label": "Read the article"
+    },
+    {
+      "date": "May 2026",
+      "title": "MEND data release and policy brief",
+      "text": "Our team released “Mediation in 2025: Navigating overlapping conflict systems” and a policy brief on current trends in mediation.",
+      "url": "/mend/",
+      "link_label": "About MEND"
+    }
+  ]
+}

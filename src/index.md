@@ -22,3 +22,11 @@ I am a political scientist whose primary research interests lie at the intersect
 <div class="link-card"><h3>Groups</h3><p>Research groups and networks I lead or help run.</p><ul><li><a href="/cadre/">CADRE</a></li><li><a href="/wicip/">WICIP</a></li><li><a href="/mend/">MEND</a></li></ul></div>
 </div>
 </div></div>
+
+<div class="page-title"><h2>Recent News</h2></div>
+
+<div class="section"><div class="container">
+<div class="link-cards">
+{% for item in news.items %}<a class="link-card" href="{{ item.url }}"><p class="post-tag">{{ item.date }}</p><h3>{{ item.title }}</h3><p>{{ item.text }}</p><span class="more">{{ item.link_label }}</span></a>
+{% endfor %}</div>
+</div></div>

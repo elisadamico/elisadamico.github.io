@@ -57,6 +57,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 **D’Amico, E.**, & Mullen, T. *From Peace to Policy: How Institutional Linkages Drive Climate Law Adoption*.
 **D’Amico, E.**, & Nutley, K. *Legislating Under Pressure: The Conditional Influence of Environmental Protest on Climate Policy*.
 **D’Amico, E.**, & Houghton, K. *Peace and Profits: How Third Parties Militarize and Mediate Conflicts*.
+Houghton, K., & **D’Amico, E.** *Profit through Peace: Energy Transitions and the Political Economy of Sustainable Peace*. Special issue, *PNAS*.
 Maboudi, T., **D’Amico, E.**, & Burge, K. *Judging the Climate: Political Ideology and Climate Lawsuits*.
 **D’Amico, E.**, & Lujala, P. *Minerals, Markets, and Armed Conflict: Rare Earths in the Modern Green Economy*.
 {% endyearlist %}
