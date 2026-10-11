@@ -13,6 +13,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 
 {% yearlist %}
 2026 | **Agentic Business AIs for Sustainability Workshop**, University College Dublin, 1 May 2026<br>Invited Speaker, *“OMG Chat GPT, Chill Claude, Decide Gemini: Agentic Business AIs for Sustainability?!?”*
+2026 | **[Connected_Politics Lab Seminar](https://www.ucd.ie/connected_politics/events/politicaleconomyofclimatefinancedisasterslobbyingandmarketresponses/)**, University College Dublin, 1 April 2026<br>Invited Speaker (with Andreas Hoepner and Diego P. Guisande), *“Political Economy of Climate Finance: Disasters, Lobbying, and Market Responses”*
 2026 | **[PeaceRep Closing Conference](https://peacerep.org/2026/03/18/time-to-make-a-change-peacerep-hosts-closing-events/)**, *Time to Make a Change: Reimagining Peace Processes in a Fragmented World*, Edinburgh Law School, University of Edinburgh, 11–12 March 2026<br>Invited Speaker, panel on Mediation Futures and PeaceTech
 2026 | **Edinburgh Climate Coalition**<br>Invited Speaker (with Extinction Rebellion, Greenpeace, Friends of the Earth, and ScotE3), *“Environmental Protest and Climate Policy Strategy”*
 2026 | **Working Across the Pond: Applying to Academic Positions in Europe**, International Studies Association Annual Convention, Columbus, Ohio<br>Panelist
@@ -24,7 +25,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 2025 | **Junior Scholars in Quantitative Conflict Workshop Series**<br>Invited Talk, *“Geography of Peace: Proximity and Success in Conflict Resolution”*
 2025 | **Rebel Financing and Rebels’ Use of Economic Instruments for Rebel Governance Pre-Conference Workshop**, ISA Annual Convention, Chicago, 1 March 2025<br>Presenter, *“The Role of Militarized Mediators in Modern Insurgencies”*
 2025 | **[SPIRe Early Career Researcher Forum](https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/)**, University College Dublin, 11 November 2025<br>Invited Speaker, *“Navigating the Current Academic Job Market”*
-2025 | **SPIRe Seminar Series**, University College Dublin, 8 October 2025<br>Invited Talk, *“From Disaster to Dispute in the DRC: Climate’s Role in Resource Wars”*
+2025 | **[SPIRe Seminar Series](https://www.ucd.ie/spire/newsandevents/spireseminarseries/)**, University College Dublin, 8 October 2025<br>Invited Talk, *“From Drought to Dispute in the DRC: Climate’s Role in Resource Wars”*
 2024–2025 | **PGR Methods Café**, University of St Andrews, 14 February 2024 and 19 March 2025<br>Roundtable Discussant for Quantitative Methods
 2024 | **[“Anthropocene” Ringvorlesung Lecture Series](https://europa.unibas.ch/en/event/details/elisa-damico-university-of-st-andrews-anthropocene-mobilities-navigating-the-complexities-of-climate-induced-migration/)**, Institute for European Global Studies, Universität Basel, 19 November 2024<br>Invited Lecture, *“Anthropocene Mobilities: Navigating the Complexities of Climate-Induced Migration”*
 2024 | **Violence, Instability, and Peace (VIP) Workshop**, 25 April 2024<br>Invited workshop of a project on humanitarian-based conflict mediation after displacement shocks
@@ -46,7 +47,8 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 {% yearlist %}
 2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**, 3–6 September 2026
 2026 | **[CCEW Symposium](https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details)**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
-2026 | **Interdisciplinary Workshop on Climate Change, Natural Resources, and Conflict**, Politecnico di Milano, Italy, 5–6 March 2026
+2026 | **[WG1 Workshop on Climate Change, Natural Resources, and Conflict](https://www.peaceresearchnetwork.eu/news/newsdetails/wg1-workshop-on-climate-change-natural-resources-and-conflict)**, COST Action Peace Research Community Europe, Politecnico di Milano, Italy, 5–6 March 2026
+2026 | **[From Promise to Practice: Decoding EU Climate Policy and Politics](https://docs.google.com/document/d/1r00BsynJm5i0Wt543yNrndE1vHTdmsGXOlkzWI-ZfYE/edit?usp=sharing)**, workshop, University College Dublin, 30 January 2026
 2026 | **[Southern Political Science Association (SPSA) Annual Meeting](https://spsa.net/2026-conference-information/)**, New Orleans, 15–17 January 2026<br>Including the Conference-within-a-Conference, *Shifting Sands and Uncharted Waters: Navigating Political and Policy Changes Amid Complex Crises and Disasters*
 2025 | **[Inaugural Sustainable Social Policy Workshop](https://www.lse.ac.uk/social-policy/research/Research-clusters/Sustainable-Social-Policy/events/24-june-2025/inaugural-workshop)**, London School of Economics, 24 June 2025
 2025 | **[Political Methodology (PolMeth) Europe](https://www.ipsa.org/na/event/polmeth-europe-2025)**, London School of Economics, 7–8 April 2025<br>[Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology)

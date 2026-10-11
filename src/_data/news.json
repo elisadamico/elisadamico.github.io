@@ -93,10 +93,10 @@
     },
     {
       "date": "5–6 March 2026",
-      "title": "Interdisciplinary workshop on climate and conflict, Milan",
-      "text": "A workshop on climate change, natural resources, and conflict at the Politecnico di Milano.",
-      "url": "/talks/#conferences",
-      "link_label": "See my talks",
+      "title": "WG1 Workshop on Climate Change, Natural Resources, and Conflict, Milan",
+      "text": "I presented my paper with Päivi Lujala at this COST Action Peace Research Community Europe workshop at the Politecnico di Milano.",
+      "url": "https://www.peaceresearchnetwork.eu/news/newsdetails/wg1-workshop-on-climate-change-natural-resources-and-conflict",
+      "link_label": "Read about the workshop",
       "sort": "2026-03-05",
       "kind": "event"
     },
@@ -121,9 +121,9 @@
     {
       "date": "8 October 2025",
       "title": "SPIRe Seminar, University College Dublin",
-      "text": "I presented “From Disaster to Dispute in the DRC: Climate’s Role in Resource Wars.”",
-      "url": "/talks/",
-      "link_label": "See my talks",
+      "text": "I presented “From Drought to Dispute in the DRC: Climate’s Role in Resource Wars.”",
+      "url": "https://www.ucd.ie/spire/newsandevents/spireseminarseries/",
+      "link_label": "See the seminar series",
       "sort": "2025-10-08",
       "kind": "event"
     },
@@ -242,6 +242,33 @@
       "url": "https://peacerep.org/profile/elisa-damico/",
       "link_label": "See my PeaceRep profile",
       "sort": "2024-01-22",
+      "kind": "position"
+    },
+    {
+      "date": "1 April 2026",
+      "title": "Connected_Politics Lab seminar on climate finance",
+      "text": "With Andreas Hoepner and Diego P. Guisande, on how disasters, corporate lobbying, and climate policy shape market responses.",
+      "url": "https://www.ucd.ie/connected_politics/events/politicaleconomyofclimatefinancedisasterslobbyingandmarketresponses/",
+      "link_label": "See the seminar",
+      "sort": "2026-04-01",
+      "kind": "event"
+    },
+    {
+      "date": "30 January 2026",
+      "title": "Workshop on EU climate policy and politics, UCD",
+      "text": "Katelyn Nutley and I presented our work on environmental protest and climate policy at “From Promise to Practice: Decoding EU Climate Policy and Politics.”",
+      "url": "https://docs.google.com/document/d/1r00BsynJm5i0Wt543yNrndE1vHTdmsGXOlkzWI-ZfYE/edit?usp=sharing",
+      "link_label": "See the programme",
+      "sort": "2026-01-30",
+      "kind": "event"
+    },
+    {
+      "date": "5 September 2025",
+      "title": "Joining UCD as Assistant Professor and Ad Astra Fellow",
+      "text": "I joined UCD’s School of Politics and International Relations as Assistant Professor in Environmental Politics and Ad Astra Fellow.",
+      "url": "https://www.ucd.ie/spire/newsandevents/newsandevents2025/spirewarmlywelcomesournewcolleagues/",
+      "link_label": "Read the SPIRe welcome",
+      "sort": "2025-09-05",
       "kind": "position"
     }
   ]
