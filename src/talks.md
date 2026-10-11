@@ -43,7 +43,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 <h2 id="conferences">Conference Presentations</h2>
 
 {% yearlist %}
-2026 | **American Political Science Association (APSA) Annual Meeting**<br>*“From Peace to Policy: How Institutional Linkages Drive Law Adoption”* (with Tahlia Mullen), panel on Methodological Advances in Network Analysis<br>*“Minerals, Markets, and Armed Conflict: Rare Earths in the Modern Green Economy”* (with Päivi Lujala), panel on Natural Resources, Political Economy, and Civil War
+2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**<br>*“From Peace to Policy: How Institutional Linkages Drive Law Adoption”* (with Tahlia Mullen), panel on Methodological Advances in Network Analysis<br>*“Minerals, Markets, and Armed Conflict: Rare Earths in the Modern Green Economy”* (with Päivi Lujala), panel on Natural Resources, Political Economy, and Civil War
 2026 | **ESOC-ReCIPE Annual Meeting**, Empirical Studies of Conflict Project and CEPR ReCIPE Programme, University of Chicago in Paris and Paris School of Economics
 2026 | **CCEW Symposium**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin
 2026 | **Interdisciplinary Workshop on Climate Change, Natural Resources, and Conflict**, Milan, Italy
