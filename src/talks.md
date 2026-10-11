@@ -16,7 +16,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 2026 | **[PeaceRep Closing Conference](https://peacerep.org/2026/03/18/time-to-make-a-change-peacerep-hosts-closing-events/)**, *Time to Make a Change: Reimagining Peace Processes in a Fragmented World*, Edinburgh Law School, University of Edinburgh, 11–12 March 2026<br>Invited Speaker, panel on Mediation Futures and PeaceTech
 2026 | **Edinburgh Climate Coalition**<br>Invited Speaker (with Extinction Rebellion, Greenpeace, Friends of the Earth, and ScotE3), *“Environmental Protest and Climate Policy Strategy”*
 2026 | **Working Across the Pond: Applying to Academic Positions in Europe**, International Studies Association Annual Convention, Columbus, Ohio<br>Panelist
-2025 | **Political Economy of Climate and Environment (PECE)**, Vancouver, Canada, 10–11 September 2025<br>Invited Presenter
+2025 | **[Political Economy of Climate and Environment (PECE)](https://www.pece-conference.org/past-conferences/vancouver-2025/venue)**, Simon Fraser University, Vancouver, Canada, 10 September 2025<br>Invited Presenter
 2025 | **International Summer Course on (Im)mobilities (ISCM)**, SOAS University of London<br>Invited Seminar Convenor, *“From Structural Violence to ‘Resource Wars’: The Climate Change, Conflict and Displacement Nexus”*
 2025 | **Bridging the Gap: International Policy Summer Institute (IPSI)**, Washington, D.C., 9–12 June 2025<br>[Bridging the Distance](https://tvancisin.github.io/elisa_damico/), an interactive data story, grew out of this program.
 2025 | **EPSA LLM Pre-Conference Workshop**, Universidad Carlos III de Madrid, Spain, 25 June 2025

@@ -34,7 +34,7 @@ team:
     role: Assistant Professor
     unit: School of Computer Science
 # News and engagement, newest first. Leave url out for an item with no link.
-news:
+cadreNews:
   - date: "1 October 2026"
     title: Introducing CADRE at the Earth Institute coffee morning
     text: I introduced CADRE at the UCD Earth Institute’s weekly coffee morning, alongside BRIDGE and LEAF, the other two new Strategic Interdisciplinary Award projects for 2026.
@@ -105,7 +105,7 @@ The working group meets monthly from October 2026 to September 2027. Over that p
 ## News & Engagement
 
 <div class="link-cards news-cards">
-{% for item in news %}{% if item.url %}<a class="link-card" href="{{ item.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ item.date }}</p><h3>{{ item.title }}</h3><p>{{ item.text }}</p>{% if item.url %}<span class="more">{{ item.link_label or "Read more" }}</span></a>{% else %}</div>{% endif %}
+{% for item in cadreNews %}{% if item.url %}<a class="link-card" href="{{ item.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ item.date }}</p><h3>{{ item.title }}</h3><p>{{ item.text }}</p>{% if item.url %}<span class="more">{{ item.link_label or "Read more" }}</span></a>{% else %}</div>{% endif %}
 {% endfor %}</div>
 
 ---

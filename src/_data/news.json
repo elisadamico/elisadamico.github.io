@@ -1,5 +1,5 @@
 {
-  "_note": "Recent news on the home page. Items are sorted automatically by the sort date (YYYY-MM-DD), newest first, so new items can go anywhere in the list. The date field is what visitors see. kind is one of article, event, report, award (sets the small icon and label).",
+  "_note": "Recent news on the home page. Items sort automatically by the sort date (YYYY-MM-DD), newest first. The date field is what visitors see. kind is one of article, event, report, award, position (sets the small icon and label).",
   "items": [
     {
       "date": "1 October 2026",
@@ -120,7 +120,7 @@
     },
     {
       "date": "11 November 2025",
-      "title": "Talk on the academic job market",
+      "title": "SPIRe Early Career Researcher Forum talk",
       "text": "I spoke at UCD SPIRe’s Early Career Researcher Forum on navigating the current academic job market.",
       "url": "https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/",
       "link_label": "See the forum",
@@ -137,11 +137,11 @@
       "kind": "event"
     },
     {
-      "date": "10–11 September 2025",
+      "date": "10 September 2025",
       "title": "Presenting at PECE, Vancouver",
-      "text": "The Political Economy of Climate and Environment conference.",
-      "url": "/talks/",
-      "link_label": "See my talks",
+      "text": "The Political Economy of Climate and Environment conference, at Simon Fraser University ahead of APSA.",
+      "url": "https://www.pece-conference.org/past-conferences/vancouver-2025/venue",
+      "link_label": "See the conference",
       "sort": "2025-09-10",
       "kind": "event"
     },
@@ -202,11 +202,56 @@
     {
       "date": "7–8 April 2025",
       "title": "Poster at PolMeth Europe, LSE",
-      "text": "I presented a poster on the geography of conflict mediation.",
-      "url": "https://www.ipsa.org/na/event/polmeth-europe-2025",
-      "link_label": "See the conference",
+      "text": "LSE Methodology recorded my poster walkthrough on the geography of conflict mediation.",
+      "url": "https://x.com/LSEMethodology/status/1914643173000753332",
+      "link_label": "Watch the poster walkthrough",
       "sort": "2025-04-07",
       "kind": "event"
+    },
+    {
+      "date": "30 October 2024",
+      "title": "New article in Environmental Policy and Governance",
+      "text": "With Tofigh Maboudi, on vulnerability, climate laws, and adaptation in the Middle East and North Africa.",
+      "url": "https://doi.org/10.1002/eet.2134",
+      "link_label": "Read the article",
+      "sort": "2024-10-30",
+      "kind": "article"
+    },
+    {
+      "date": "19 November 2024",
+      "title": "Anthropocene lecture, University of Basel",
+      "text": "“Anthropocene Mobilities: Navigating the Complexities of Climate-Induced Migration,” in the Institute for European Global Studies lecture series.",
+      "url": "https://europa.unibas.ch/en/event/details/elisa-damico-university-of-st-andrews-anthropocene-mobilities-navigating-the-complexities-of-climate-induced-migration/",
+      "link_label": "See the event",
+      "sort": "2024-11-19",
+      "kind": "event"
+    },
+    {
+      "date": "27 June 2024",
+      "title": "Presenting at CARMA 2024, Valencia",
+      "text": "The 6th International Conference on Advanced Research Methods and Analytics.",
+      "url": "https://carmaconf.org/",
+      "link_label": "See the conference",
+      "sort": "2024-06-27",
+      "kind": "event"
+    },
+    {
+      "date": "18–21 June 2024",
+      "title": "CEEISA-ISA Joint Conference, Rijeka",
+      "text": "The joint CEEISA and International Studies Association conference, “Knowing the Global-Local.”",
+      "url": "https://www.isanet.org/Conferences/ISA-Rijeka-2024",
+      "link_label": "See the conference",
+      "sort": "2024-06-18",
+      "kind": "event"
+    },
+    {
+      "date": "22 January 2024",
+      "title": "Joining PeaceRep as a postdoctoral fellow",
+      "text": "I started as a Postdoctoral Research Fellow with PeaceRep at the University of St Andrews.",
+      "url": "https://peacerep.org/profile/elisa-damico/",
+      "link_label": "See my PeaceRep profile",
+      "sort": "2024-01-22",
+      "kind": "position"
     }
   ]
 }
