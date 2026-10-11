@@ -49,6 +49,16 @@ projects:
     about: Macros that build the unit-by-date shell for large panel datasets, useful for spatial data with thousands of units.
     url: https://github.com/elisadamico/Useful-Macros-for-creating-large-unit-date-Panel-datasets
     link_label: View on GitHub
+  - name: CherryBlossom
+    kind: RStudio theme
+    about: A dark RStudio theme inspired by cherry blossoms, with soft pink and green syntax highlighting and styled panes.
+    url: https://github.com/elisadamico/CherryBlossom-rstheme
+    link_label: View on GitHub
+  - name: Holiday Cheer
+    kind: RStudio theme
+    about: A festive dark RStudio theme in holiday reds, greens, and gold.
+    url: https://github.com/elisadamico/holiday-cheer-rstudio-theme
+    link_label: View on GitHub
 ---
 
 <div class="section"><div class="container split wide-left">

@@ -26,6 +26,10 @@
           "url": "/mentoring/"
         },
         {
+          "label": "Student Resources",
+          "url": "/resources/"
+        },
+        {
           "label": "Job Market Resources",
           "url": "/jobmarket/"
         }
