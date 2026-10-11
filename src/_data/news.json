@@ -2,11 +2,11 @@
   "_note": "Recent news on the home page. Items are sorted automatically by the sort date (YYYY-MM-DD), newest first, so new items can go anywhere in the list. The date field is what visitors see.",
   "items": [
     {
-      "date": "October 2026",
-      "title": "Introducing CADRE at the Earth Institute",
-      "text": "I presented CADRE at the UCD Earth Institute’s coffee morning for its new Strategic Interdisciplinary Award projects.",
-      "url": "/cadre/",
-      "link_label": "About CADRE",
+      "date": "1 October 2026",
+      "title": "CADRE at the Earth Institute coffee morning",
+      "text": "I introduced CADRE at the UCD Earth Institute’s coffee morning for its new Strategic Interdisciplinary Award projects, alongside BRIDGE and LEAF.",
+      "url": "https://www.ucd.ie/earth/events/2026/1octobernewsiaprojectscoffeemorning/",
+      "link_label": "See the event",
       "sort": "2026-10-01"
     },
     {
@@ -44,9 +44,9 @@
     {
       "date": "August 2026",
       "title": "CADRE named an Earth Institute Strategic Priority",
-      "text": "CADRE won a UCD Earth Institute Strategic Interdisciplinary Award for 2026–27.",
-      "url": "/cadre/",
-      "link_label": "About CADRE",
+      "text": "CADRE won a UCD Earth Institute Strategic Interdisciplinary Award and was named a Strategic Priority for 2026–27.",
+      "url": "https://www.ucd.ie/earth/programmes/projects/",
+      "link_label": "See the Earth Institute profile",
       "sort": "2026-08-10"
     },
     {
