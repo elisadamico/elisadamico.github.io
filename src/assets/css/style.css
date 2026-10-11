@@ -574,3 +574,8 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 /* Embedded social post (MEND page) */
 .embed-post { display: flex; justify-content: center; margin: 1.5rem 0; }
 .embed-post .twitter-tweet { margin: 0 auto !important; }
+
+/* News list (CADRE page) */
+.news-list { list-style: none; padding: 0; margin: 0; }
+.news-list li { padding: 0.9rem 0 0.9rem 1rem; border-left: 3px solid var(--accent); margin-bottom: 0.9rem; }
+.news-date { display: block; font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; color: #a8a29e; margin-bottom: 0.2rem; }

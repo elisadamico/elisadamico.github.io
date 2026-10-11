@@ -33,6 +33,13 @@ team:
   - name: Ranul Thantilage
     role: Assistant Professor
     unit: School of Computer Science
+# News and engagement, newest first. Leave url out for an item with no link.
+news:
+  - date: "2026"
+    title: CADRE featured by the UCD Earth Institute
+    text: The Earth Institute profiles CADRE on its Projects page, under Climate Displacement, as one of its Strategic Priority projects.
+    url: https://www.ucd.ie/earth/programmes/projects/
+    link_label: Read the Earth Institute profile
 strands:
   - title: Computational social science and political science
     detail: Scoping how climate displacement is currently measured, mapping existing approaches, definitions, and gaps.
@@ -52,7 +59,7 @@ strands:
 
 <p class="lede">The Climate And Displacement Research Ensemble (CADRE) is an interdisciplinary working group at University College Dublin. Estimates of climate displacement vary a lot, because there is not much validation. CADRE works the other way round and validates first, in EU countries where the data exists.</p>
 
-CADRE is a UCD Earth Institute Strategic Priority for 2026–27. Ten researchers across five UCD Schools bring together political science and computational social science, computer science, statistics, public health, and humanitarian action, with faculty, fellows, and postgraduate students at MSc and PhD level. I lead the group, which is scoping a research agenda on the measurement of climate displacement and laying the groundwork for a larger externally funded program.
+CADRE is a UCD Earth Institute Strategic Priority for 2026–27. Nine researchers across five UCD Schools bring together political science and computational social science, computer science, statistics, public health, and humanitarian action, with faculty, fellows, and postgraduate students at MSc and PhD level. I lead the group, which is scoping a research agenda on the measurement of climate displacement and laying the groundwork for a larger externally funded program.
 
 <p><a class="btn" href="{{ interest_form }}">Register your interest</a></p>
 
@@ -82,6 +89,14 @@ The working group meets monthly from October 2026 to September 2027. Over that p
 - A position paper synthesizing the five strands
 - A student outreach event
 - A final stakeholder workshop
+
+---
+
+## News & Engagement
+
+<ul class="news-list">
+{% for item in news %}<li><span class="news-date">{{ item.date }}</span><strong>{{ item.title }}</strong><br>{{ item.text }}{% if item.url %} <a href="{{ item.url }}">{{ item.link_label or "Read more" }}</a>{% endif %}</li>
+{% endfor %}</ul>
 
 ---
 
