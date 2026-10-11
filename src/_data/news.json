@@ -1,5 +1,5 @@
 {
-  "_note": "Recent news on the home page. Items sort automatically by the sort date (YYYY-MM-DD), newest first. The date field is what visitors see. kind is one of article, event, report, award, position (sets the small icon and label).",
+  "_note": "Recent news on the home page. Items sort automatically by the sort date (YYYY-MM-DD), newest first. The date field is what visitors see. kind is one of article, event, report, award, position, book (sets the small icon and label).",
   "items": [
     {
       "date": "1 October 2026",
@@ -279,6 +279,15 @@
       "link_label": "See my CGLG profile",
       "sort": "2025-07-22",
       "kind": "position"
+    },
+    {
+      "date": "24 July 2026",
+      "title": "Book contract with Cambridge University Press",
+      "text": "The Press Syndicate approved my book, *The Effects of Climate Change We Don’t Count: Migration, Cities, and Hidden Instability*.",
+      "url": "/research/#book",
+      "link_label": "See the book",
+      "sort": "2026-07-24",
+      "kind": "book"
     }
   ]
 }
