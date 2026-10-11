@@ -76,7 +76,7 @@
     {
       "date": "13–14 October 2026",
       "title": "Presenting at the CCEW Symposium, Berlin",
-      "text": "I’m presenting at the Center for Crisis Early Warning symposium, “Conflict Early Warning in Times of Power Competition: Limits and Challenges.”",
+      "text": "Kasia Houghton and I are presenting “Profit through Peace” at the Center for Crisis Early Warning symposium, “Conflict Early Warning in Times of Power Competition: Limits and Challenges.”",
       "url": "https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details",
       "link_label": "See the symposium",
       "sort": "2026-10-13",
@@ -414,6 +414,15 @@
       "link_label": "About eEarth",
       "sort": "2026-07-15",
       "kind": "position"
+    },
+    {
+      "date": "11 October 2023",
+      "title": "Funding to forecast fisheries conflict ($20,800)",
+      "text": "With the University of Denver and World Wildlife Fund, on a Minerva Research Initiative-funded project forecasting fishery-related conflict under climate change.",
+      "url": "https://elisadamico.shinyapps.io/FishyMIDsApp/",
+      "link_label": "See the project app",
+      "sort": "2023-10-11",
+      "kind": "award"
     }
   ]
 }

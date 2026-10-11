@@ -19,7 +19,7 @@ description: Research grants, awards, and honors received by Elisa D’Amico.
 2025 | APSA Migration and Citizenship Section Research Award (C$300)
 2024 | Political Economy of Climate and Environment (C$400)
 2024 | [Visiting Fellow](https://europa.unibas.ch/de/newsdetails/visiting-fellow-d-amico), Institute for European Global Studies, University of Basel (₣11,985)<br>*Katekisama Program, “Natural Resources as Objects of Conflicts.” Project: Balancing the Power, hydropower development and conflict in the renewable energy transition*
-2023 | World Wildlife Fund, fishery, conflict, and climatological data and research ($20,800)
+2023–2024 | University of Denver and World Wildlife Fund, Minerva Research Initiative-funded project on fishery, conflict, and climatological data and research ($20,800)
 2023 | ISA Pay It Forward Travel Grant & Mentoring Program ($500)
 2023 | ISA Research Workshop Award (Collaborator on Proposal, $2,500)
 2023 | Box-Steffensmeier Scholarship (fully funded ICPSR methods courses for both sessions)
