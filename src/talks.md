@@ -43,15 +43,14 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 <h2 id="conferences">Conference Presentations</h2>
 
 {% yearlist %}
-2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**, 3–6 September 2026<br>*“From Peace to Policy: How Institutional Linkages Drive Law Adoption”* (with Tahlia Mullen), panel on Methodological Advances in Network Analysis<br>*“Minerals, Markets, and Armed Conflict: Rare Earths in the Modern Green Economy”* (with Päivi Lujala), panel on Natural Resources, Political Economy, and Civil War
-2026 | **ESOC-ReCIPE Annual Meeting**, Empirical Studies of Conflict Project and CEPR ReCIPE Programme, University of Chicago in Paris and Paris School of Economics
-2026 | **CCEW Symposium**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
+2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**, 3–6 September 2026
+2026 | **[ESOC-ReCIPE Annual Meeting](https://grp.cepr.org/events/esoc-recipe-annual-meeting-2026)**, Empirical Studies of Conflict Project and CEPR ReCIPE Programme, University of Chicago in Paris and Paris School of Economics, 6–7 November 2026
+2026 | **[CCEW Symposium](https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details)**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
 2026 | **Interdisciplinary Workshop on Climate Change, Natural Resources, and Conflict**, Politecnico di Milano, Italy, 5–6 March 2026
-2026 | **[Southern Political Science Association (SPSA)](https://spsa.net/2026-conference-information/)**, New Orleans, 15–17 January 2026<br>*“From Peace to Policy: How Resource Provisions in Peace Agreements Drive Climate Legislation in Post-Conflict Societies”* (with Tahlia Mullen), panel on Regulation and the Environment<br>*“Profit through Peace: Why Third Parties Militarize and Mediate Conflicts”* (with Kasia Houghton), panel on Third Party Intervention
-2026 | **Conference-within-a-Conference**, *Shifting Sands and Uncharted Waters: Navigating Political and Policy Changes Amid Complex Crises and Disasters*, SPSA<br>*“Migration in Conflict: The Empirical Roots of Strategic State Violence”* (with Nguyen Ha, Dagmar Heintze, and Jingding Wang), panel on Disasters, Violence, and Repression<br>Discussant, panel on Effectiveness and Implementation of Climate Policy and Plans
-2025 | **Political Methodology (PolMeth) Europe**, London School of Economics, 7–8 April 2025<br>[Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology)
+2026 | **[Southern Political Science Association (SPSA) Annual Meeting](https://spsa.net/2026-conference-information/)**, New Orleans, 15–17 January 2026<br>Including the Conference-within-a-Conference, *Shifting Sands and Uncharted Waters: Navigating Political and Policy Changes Amid Complex Crises and Disasters*
+2025 | **[Political Methodology (PolMeth) Europe](https://www.ipsa.org/na/event/polmeth-europe-2025)**, London School of Economics, 7–8 April 2025<br>[Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology)
 2024 | **Causal Data Science Meeting (CDSM)**, 5–6 November 2024
-2024 | **Conference on Advanced Research Methods and Analytics (CARMA)**, 6th Meeting on Internet & Big Data in Economics & Social Sciences, 27 June 2024
+2024 | **[Conference on Advanced Research Methods and Analytics (CARMA)](https://carmaconf.org/)**, 6th Meeting on Internet & Big Data in Economics & Social Sciences, 27 June 2024
 2022– | **American Political Science Association (APSA)**, 2022, 2023, 2024 (virtual and in person), 2025 (virtual and in person), 2026
 2024– | **European Political Science Association (EPSA) & European Political Science Society (EPSS)**, 2024, 2025, 2026
 2023, 2026 | **Empirical Studies of Conflict (ESOC) Annual Meeting**
