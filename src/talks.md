@@ -43,11 +43,12 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 <h2 id="conferences">Conference Presentations</h2>
 
 {% yearlist %}
+2026 | **American Political Science Association (APSA) Annual Meeting**<br>*“From Peace to Policy: How Institutional Linkages Drive Law Adoption”* (with Tahlia Mullen), panel on Methodological Advances in Network Analysis<br>*“Minerals, Markets, and Armed Conflict: Rare Earths in the Modern Green Economy”* (with Päivi Lujala), panel on Natural Resources, Political Economy, and Civil War
 2026 | **ESOC-ReCIPE Annual Meeting**, Empirical Studies of Conflict Project and CEPR ReCIPE Programme, University of Chicago in Paris and Paris School of Economics
 2026 | **CCEW Symposium**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin
 2026 | **Interdisciplinary Workshop on Climate Change, Natural Resources, and Conflict**, Milan, Italy
-2026 | **Southern Political Science Association (SPSA)**
-2026 | **Conference-within-a-Conference**, *Shifting Sands and Uncharted Waters: Navigating Political and Policy Changes Amid Complex Crises and Disasters*, SPSA
+2026 | **Southern Political Science Association (SPSA)**, New Orleans<br>*“Profit through Peace: Why Third Parties Militarize and Mediate Conflicts”* (with Kasia Houghton)
+2026 | **Conference-within-a-Conference**, *Shifting Sands and Uncharted Waters: Navigating Political and Policy Changes Amid Complex Crises and Disasters*, SPSA<br>*“From Peace to Policy: How Resource Provisions in Peace Agreements Drive Climate Legislation in Post-Conflict Societies”* (with Tahlia Mullen)
 2025 | **Political Methodology (PolMeth) Europe**<br>[Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology)
 2024 | **Causal Data Science Meeting (CDSM)**
 2024 | **Conference on Advanced Research Methods and Analytics (CARMA)**, 6th Meeting on Internet & Big Data in Economics & Social Sciences
