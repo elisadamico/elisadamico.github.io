@@ -52,6 +52,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 2025 | **[Political Methodology (PolMeth) Europe](https://www.ipsa.org/na/event/polmeth-europe-2025)**, London School of Economics, 7–8 April 2025<br>[Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology)
 2024 | **Causal Data Science Meeting (CDSM)**, 5–6 November 2024
 2024 | **[Conference on Advanced Research Methods and Analytics (CARMA)](https://carmaconf.org/)**, 6th Meeting on Internet & Big Data in Economics & Social Sciences, 27 June 2024
+2024 | **[CEEISA-ISA Joint International Conference](https://www.isanet.org/Conferences/ISA-Rijeka-2024)**, *Knowing the Global-Local*, Rijeka, Croatia, 18–21 June 2024
 2022– | **American Political Science Association (APSA)**, 2022, 2023, 2024 (virtual and in person), 2025 (virtual and in person), 2026
 2024– | **European Political Science Association (EPSA) & European Political Science Society (EPSS)**, 2024, 2025, 2026
 2023, 2026 | **Empirical Studies of Conflict (ESOC) Annual Meeting**
