@@ -46,7 +46,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 
 {% yearlist %}
 2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**, 3–6 September 2026
-2026 | **Peace and Sustainability Working Group**, *PNAS* special issue workshop, Notre Dame Dublin, O’Connell House, 19–20 October 2026
+2026 | **[Peace and Sustainability Working Group](https://docs.google.com/document/d/1Td7eM6OrPb3Du9LnkKucL7FrzpxlvbkkGmAT4PeEhv0/edit?usp=sharing)**, *PNAS* special issue workshop, Notre Dame Dublin, O’Connell House, 19–20 October 2026
 2026 | **[CCEW Symposium](https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details)**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
 2026 | **[WG1 Workshop on Climate Change, Natural Resources, and Conflict](https://www.peaceresearchnetwork.eu/news/newsdetails/wg1-workshop-on-climate-change-natural-resources-and-conflict)**, COST Action Peace Research Community Europe, Politecnico di Milano, Italy, 5–6 March 2026
 2026 | **[From Promise to Practice: Decoding EU Climate Policy and Politics](https://docs.google.com/document/d/1r00BsynJm5i0Wt543yNrndE1vHTdmsGXOlkzWI-ZfYE/edit?usp=sharing)**, workshop, University College Dublin, 30 January 2026
