@@ -1,5 +1,5 @@
 {
-  "_note": "Recent news on the home page. Items sort automatically by the sort date (YYYY-MM-DD), newest first. The date field is what visitors see. kind is one of article, event, report, award, position, book (sets the small icon and label).",
+  "_note": "Recent news on the home page. Items sort automatically by the sort date (YYYY-MM-DD), newest first. The date field is what visitors see. kind is one of article, event, report, award, position, book, blog (sets the small icon and label).",
   "items": [
     {
       "date": "1 October 2026",
@@ -324,6 +324,60 @@
       "link_label": "Read the report",
       "sort": "2024-11-15",
       "kind": "report"
+    },
+    {
+      "date": "13 May 2026",
+      "title": "MEND policy brief: *Current Trends in Mediation*",
+      "text": "Key findings from MEND on crowded mediation environments, with Mateja Peter, Kasia Houghton, and Sanja Badanjak.",
+      "url": "https://doi.org/10.7488/era/7212",
+      "link_label": "Read the brief",
+      "sort": "2026-05-12",
+      "kind": "report"
+    },
+    {
+      "date": "August 2026",
+      "title": "Student blog: *Implementation Over Urgency*",
+      "text": "What 2,170 parliamentary speeches reveal about climate law in Ireland, a Connected_Politics Lab project I designed and supervised.",
+      "url": "https://www.ucd.ie/connected_politics/blog/implementationoverurgencywhat2170parliamentaryspeechesrevealaboutclimatelawinireland/",
+      "link_label": "Read the blog",
+      "sort": "2026-08-14",
+      "kind": "blog"
+    },
+    {
+      "date": "2025",
+      "title": "Interactive: *Bridging the Distance*",
+      "text": "An interactive data story on geography and conflict mediation, with web and visualizations by Tomas Vancisin.",
+      "url": "https://tvancisin.github.io/elisa_damico/",
+      "link_label": "Explore the interactive",
+      "sort": "2025-07-11",
+      "kind": "blog"
+    },
+    {
+      "date": "5 June 2024",
+      "title": "IOM blog: *Stitching a Sustainable Future*",
+      "text": "Policy for youth, migration, and climate change in Bangladesh’s garment industry, for IOM UN Migration.",
+      "url": "https://environmentalmigration.iom.int/blogs/stitching-sustainable-future-policy-interventions-youth-migration-and-climate-change-bangladeshs-garment-industry",
+      "link_label": "Read the blog",
+      "sort": "2024-06-05",
+      "kind": "blog"
+    },
+    {
+      "date": "2023",
+      "title": "Case summary: *Montenegro v. Ashcroft*",
+      "text": "A case summary for the Earth Refuge Legal Database.",
+      "url": "https://legal.earthrefuge.org/montenegro-v-ashcroft/",
+      "link_label": "Read the summary",
+      "sort": "2023-08-27",
+      "kind": "blog"
+    },
+    {
+      "date": "2023",
+      "title": "Op-ed: *Rising Tides and Sudden Surprises*",
+      "text": "The two faces of climate displacement, on Medium.",
+      "url": "https://medium.com/@elisadamico95/rising-tides-and-sudden-surprises-the-two-faces-of-climate-displacement-d4c594ea053f",
+      "link_label": "Read the op-ed",
+      "sort": "2023-06-01",
+      "kind": "blog"
     }
   ]
 }
