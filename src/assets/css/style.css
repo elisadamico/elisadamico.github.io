@@ -575,9 +575,6 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 .embed-post { display: flex; justify-content: center; margin: 1.5rem 0; }
 .embed-post .twitter-tweet { margin: 0 auto !important; }
 
-/* News list (CADRE page) */
-.prose ul.news-list { list-style: none; padding: 0; margin: 0 0 1.5rem; }
-.prose ul.news-list li { padding: 0.25rem 0 0.25rem 1rem; border-left: 3px solid var(--accent); margin-bottom: 1.5rem; }
-.prose ul.news-list p { margin: 0 0 0.35rem; }
-.prose ul.news-list .news-date { font-size: 0.85rem; letter-spacing: 0.04em; text-transform: uppercase; color: #a8a29e; margin-bottom: 0.15rem; }
-.prose ul.news-list .news-title { margin-bottom: 0.25rem; }
+/* News cards (CADRE page) sit inside .prose, so undo its link and heading styles. */
+.prose .news-cards { margin: 0 0 1.5rem; }
+.prose .news-cards .link-card h3 { margin-top: 0; }
