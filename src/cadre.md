@@ -35,6 +35,11 @@ team:
     unit: School of Computer Science
 # News and engagement, newest first. Leave url out for an item with no link.
 news:
+  - date: "1 October 2026"
+    title: Introducing CADRE at the Earth Institute coffee morning
+    text: I introduced CADRE at the UCD Earth Institute’s weekly coffee morning, alongside BRIDGE and LEAF, the other two new Strategic Interdisciplinary Award projects for 2026.
+    url: https://www.ucd.ie/earth/events/2026/1octobernewsiaprojectscoffeemorning/
+    link_label: See the event
   - date: "2026"
     title: CADRE featured by the UCD Earth Institute
     text: The Earth Institute profiles CADRE on its Projects page, under Climate Displacement, as one of its Strategic Priority projects.
