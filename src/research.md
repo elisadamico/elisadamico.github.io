@@ -25,16 +25,16 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 <h3>Peer-Reviewed Articles</h3>
 
 {% yearlist %}
-2026 | **D’Amico, E.** (forthcoming). [A Quasi-Experimental Approach to Sustainable Development Shocks: Hydropower’s Role in Conflict](https://doi.org/10.7910/DVN/FGCPNU). *Global Environmental Politics*.
-2026 | **D’Amico, E.** [Regional El Niño Patterns Shape Wheat-Flour Price Responses to Climate Disasters](https://doi.org/10.1088/1748-9326/aea4c6). *Environmental Research Letters*. [Replication data](https://doi.org/10.7910/DVN/4QHFA1).
-2026 | **D’Amico, E.** [The Price of Instability: Hydrological Disasters, Food Prices, and Violent Conflict](https://doi.org/10.1057/s41599-026-08590-1). *Humanities and Social Sciences Communications* (Nature Portfolio). [Replication data](https://doi.org/10.7910/DVN/917DMH).
-2026 | Houghton, K., & **D’Amico, E.** [Financial Dependencies and Conflict Resolution: The Role of Militarized Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*.
-2025 | **D’Amico, E.**, Melin, M., & Sosa, S. [Private Goods for Peace: Economic Provisions of Peace Agreements and the Durability of Peace](https://journals.sagepub.com/doi/10.1177/00223433251345382). *Journal of Peace Research*.
-2025 | **D’Amico, E.** [Unrest in Urbanity: Unraveling the Impact of Economic Shocks on Migration and Urban Dynamics](https://www.tandfonline.com/doi/full/10.1080/09692290.2025.2515136). *Review of International Political Economy*. [Replication data](https://doi.org/10.7910/DVN/XE1MQE).
-2025 | Maboudi, T., & **D’Amico, E.** [Life, Liberty, and Litigation: The Impact of Environmental Laws and Constitutional Rights on Climate Change Litigation](https://doi.org/10.1177/10659129251380572). *Political Research Quarterly*.
-2025 | **D’Amico, E.** [Resilient by Design: An Investigation of Climate Adaptation Laws in New England](https://doi.org/10.1038/s44168-025-00275-w). *npj Climate Action*. [Replication data](https://doi.org/10.7910/DVN/GBWZEC).
-2025 | **D’Amico, E.**, & Maboudi, T. [Timing Matters: Analyzing Climate Policies and Adaptive Resilience](https://doi.org/10.1080/14693062.2025.2601383). *Climate Policy*. [Replication data](https://doi.org/10.7910/DVN/JYHGTF).
-2024 | Maboudi, T., & **D’Amico, E.** [Vulnerability, Climate Laws, and Adaptation in the Middle East and North Africa](https://onlinelibrary.wiley.com/doi/10.1002/eet.2134). *Environmental Policy and Governance*, 35(1), 145–158.
+2026 | **D’Amico, E.** [Difference-in-Differences Estimation: A Quasi-Experimental Approach to Sustainable Development Interventions](https://doi.org/10.1162/glep.a.795). *Global Environmental Politics*. Published 20 September 2026. [Replication data](https://doi.org/10.7910/DVN/FGCPNU).
+2026 | **D’Amico, E.** [Regional El Niño Patterns Shape Wheat-Flour Price Responses to Climate Disasters](https://doi.org/10.1088/1748-9326/aea4c6). *Environmental Research Letters*. Published 25 September 2026. [Replication data](https://doi.org/10.7910/DVN/4QHFA1).
+2026 | **D’Amico, E.** [The Price of Instability: Hydrological Disasters, Food Prices, and Violent Conflict](https://doi.org/10.1057/s41599-026-08590-1). *Humanities and Social Sciences Communications* (Nature Portfolio). Published 20 August 2026. [Replication data](https://doi.org/10.7910/DVN/917DMH).
+2026 | Houghton, K., & **D’Amico, E.** [Financial Dependencies and Conflict Resolution: The Role of Militarized Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*. Published 10 September 2026.
+2025 | **D’Amico, E.**, Sosa, S., & Melin, M. [Private Goods for Peace: Economic Provisions of Peace Agreements and the Durability of Peace](https://doi.org/10.1177/00223433251345382). *Journal of Peace Research*, 62(6), 2001–2019. Published 22 September 2025. [Replication data](https://doi.org/10.7910/DVN/I4NXPL).
+2025 | **D’Amico, E.** [From Garments to Grievances: The Dynamics of Urban Growth and Economic Shocks in Rapidly Industrialising Economies](https://doi.org/10.1080/09692290.2025.2515136). *Review of International Political Economy*, 32(6), 1953–1990. Published 11 June 2025. [Replication data](https://doi.org/10.7910/DVN/XE1MQE).
+2025 | Maboudi, T., & **D’Amico, E.** [Life, Liberty, and Litigation: Do Constitutional Rights Impact Climate Litigation Outcome?](https://doi.org/10.1177/10659129251380572). *Political Research Quarterly*, 79(1), 126–139. Published 23 September 2025.
+2025 | **D’Amico, E.** [Resilient by Design: Isolating Impactful Climate Adaptation Measures in New England](https://doi.org/10.1038/s44168-025-00275-w). *npj Climate Action*, 4. Published 26 August 2025. [Replication data](https://doi.org/10.7910/DVN/GBWZEC).
+2025 | **D’Amico, E.**, & Maboudi, T. [Timing Matters: Analyzing Climate Policies and Adaptive Resilience](https://doi.org/10.1080/14693062.2025.2601383). *Climate Policy*. Published 17 December 2025. [Replication data](https://doi.org/10.7910/DVN/JYHGTF).
+2024 | Maboudi, T., & **D’Amico, E.** [Vulnerability, Climate Laws, and Adaptation in the Middle East and North Africa](https://doi.org/10.1002/eet.2134). *Environmental Policy and Governance*, 35(1), 145–158. Published 30 October 2024.
 {% endyearlist %}
 
 <h3>Book Chapters</h3>
