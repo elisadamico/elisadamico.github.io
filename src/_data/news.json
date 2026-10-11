@@ -297,6 +297,15 @@
       "link_label": "Read the announcement",
       "sort": "2024-11-04",
       "kind": "position"
+    },
+    {
+      "date": "1 September 2025",
+      "title": "Ad Astra Fellow Research Award, UCD",
+      "text": "My UCD Ad Astra Fellowship in Environmental Politics began, with a five-year research award.",
+      "url": "https://www.ucd.ie/adastrafellows/en/",
+      "link_label": "About the Ad Astra programme",
+      "sort": "2025-09-01",
+      "kind": "award"
     }
   ]
 }
