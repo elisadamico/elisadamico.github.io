@@ -605,3 +605,11 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 /* News card type label with a small icon. */
 .news-kind { display: flex; align-items: center; gap: 0.35rem; flex-wrap: wrap; }
 .news-icon { width: 0.95rem; height: 0.95rem; flex: none; color: var(--accent); }
+
+/* News type filter buttons. */
+.news-filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1rem; }
+.news-filter { display: inline-flex; align-items: center; gap: 0.35rem; font: inherit; font-family: var(--font-head); font-size: 0.88rem; padding: 0.35rem 0.85rem; border-radius: 999px; border: 1px solid var(--rule); background: var(--surface-raised); color: var(--text); cursor: pointer; }
+.news-filter:hover { border-color: var(--accent); }
+.news-filter[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #1a1a1a; }
+.news-filter[aria-pressed="true"] .news-icon { color: #1a1a1a; }
+.news-strip .news-card[hidden] { display: none; }

@@ -41,7 +41,7 @@ document.querySelectorAll("[data-news]").forEach(function (wrap) {
   var buttons = wrap.querySelectorAll(".news-btn");
   var smooth = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   function step() {
-    var card = strip.querySelector(".news-card");
+    var card = strip.querySelector(".news-card:not([hidden])");
     return card ? card.getBoundingClientRect().width + 16 : strip.clientWidth;
   }
   function update() {
@@ -56,6 +56,19 @@ document.querySelectorAll("[data-news]").forEach(function (wrap) {
   buttons.forEach(function (b) {
     b.addEventListener("click", function () {
       strip.scrollBy({ left: Number(b.dataset.dir) * step(), behavior: smooth ? "smooth" : "auto" });
+    });
+  });
+  // Type filter: show only one kind of news, or all of it.
+  var filters = wrap.querySelectorAll(".news-filter");
+  filters.forEach(function (f) {
+    f.addEventListener("click", function () {
+      filters.forEach(function (x) { x.setAttribute("aria-pressed", x === f ? "true" : "false"); });
+      var kind = f.dataset.kind;
+      strip.querySelectorAll(".news-card").forEach(function (card) {
+        card.hidden = kind !== "all" && card.dataset.kind !== kind;
+      });
+      strip.scrollLeft = 0;
+      update();
     });
   });
   strip.addEventListener("scroll", update, { passive: true });

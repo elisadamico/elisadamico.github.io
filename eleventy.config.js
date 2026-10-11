@@ -63,6 +63,8 @@ export default function (eleventyConfig) {
   // *Journal Name* in news titles becomes italic; everything else is escaped.
   eleventyConfig.addFilter("italics", (text) =>
     String(text).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]).replace(/\*([^*]+)\*/g, "<em>$1</em>"));
+  // Distinct values of one field across a list, e.g. which news kinds exist.
+  eleventyConfig.addFilter("uniqueValues", (items, key) => [...new Set(items.map((i) => i[key]).filter(Boolean))]);
   eleventyConfig.addShortcode("year", () => String(new Date().getFullYear()));
 
   return {

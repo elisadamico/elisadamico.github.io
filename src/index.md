@@ -26,10 +26,12 @@ I am a political scientist whose primary research interests lie at the intersect
 <div class="page-title"><h2>Recent News</h2></div>
 
 <div class="section"><div class="container">
+{% set kindLabels = {"article": "Article", "event": "Event", "report": "Report", "award": "Award", "position": "New role", "book": "Book"} %}{% set filterLabels = {"article": "Articles", "event": "Events", "report": "Reports", "award": "Awards", "position": "New roles", "book": "Books"} %}{% set present = news.items | uniqueValues("kind") %}
 <div class="news-wrap" data-news>
+<div class="news-filters" role="group" aria-label="Filter news by type"><button type="button" class="news-filter" data-kind="all" aria-pressed="true">All</button>{% for k in ["article", "event", "report", "book", "award", "position"] %}{% if k in present %}<button type="button" class="news-filter" data-kind="{{ k }}" aria-pressed="false">{% set kind = k %}{% include "news-icon.njk" %}{{ filterLabels[k] }}</button>{% endif %}{% endfor %}</div>
 <div class="news-controls"><span class="news-hint">Scroll for more news <span aria-hidden="true">→</span></span><button type="button" class="news-btn" data-dir="-1" aria-label="Show newer news">‹</button><button type="button" class="news-btn" data-dir="1" aria-label="Show older news">›</button></div>
 <div class="news-strip" tabindex="0" aria-label="Recent news, scroll sideways for more">
-{% set kindLabels = {"article": "Article", "event": "Event", "report": "Report", "award": "Award", "position": "New role", "book": "Book"} %}{% for item in news.items | sort(true, false, "sort") %}{% set kind = item.kind %}<a class="link-card news-card" href="{{ item.url }}"><p class="post-tag news-kind">{% include "news-icon.njk" %}{{ kindLabels[item.kind] or "Event" }}<span aria-hidden="true"> · </span>{{ item.date }}</p><h3>{{ item.title | italics | safe }}</h3><p>{{ item.text | italics | safe }}</p><span class="more">{{ item.link_label }}</span></a>
+{% for item in news.items | sort(true, false, "sort") %}{% set kind = item.kind %}<a class="link-card news-card" data-kind="{{ item.kind }}" href="{{ item.url }}"><p class="post-tag news-kind">{% include "news-icon.njk" %}{{ kindLabels[item.kind] or "Event" }}<span aria-hidden="true"> · </span>{{ item.date }}</p><h3>{{ item.title | italics | safe }}</h3><p>{{ item.text | italics | safe }}</p><span class="more">{{ item.link_label }}</span></a>
 {% endfor %}</div>
 </div>
 </div></div>
