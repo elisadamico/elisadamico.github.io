@@ -60,6 +60,9 @@ export default function (eleventyConfig) {
     });
   });
 
+  // *Journal Name* in news titles becomes italic; everything else is escaped.
+  eleventyConfig.addFilter("italics", (text) =>
+    String(text).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]).replace(/\*([^*]+)\*/g, "<em>$1</em>"));
   eleventyConfig.addShortcode("year", () => String(new Date().getFullYear()));
 
   return {

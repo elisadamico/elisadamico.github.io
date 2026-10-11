@@ -29,7 +29,7 @@ I am a political scientist whose primary research interests lie at the intersect
 <div class="news-wrap" data-news>
 <div class="news-controls"><span class="news-hint">Scroll for more news <span aria-hidden="true">→</span></span><button type="button" class="news-btn" data-dir="-1" aria-label="Show newer news">‹</button><button type="button" class="news-btn" data-dir="1" aria-label="Show older news">›</button></div>
 <div class="news-strip" tabindex="0" aria-label="Recent news, scroll sideways for more">
-{% set kindLabels = {"article": "Article", "event": "Event", "report": "Report", "award": "Award", "position": "New role"} %}{% for item in news.items | sort(true, false, "sort") %}{% set kind = item.kind %}<a class="link-card news-card" href="{{ item.url }}"><p class="post-tag news-kind">{% include "news-icon.njk" %}{{ kindLabels[item.kind] or "Event" }}<span aria-hidden="true"> · </span>{{ item.date }}</p><h3>{{ item.title }}</h3><p>{{ item.text }}</p><span class="more">{{ item.link_label }}</span></a>
+{% set kindLabels = {"article": "Article", "event": "Event", "report": "Report", "award": "Award", "position": "New role"} %}{% for item in news.items | sort(true, false, "sort") %}{% set kind = item.kind %}<a class="link-card news-card" href="{{ item.url }}"><p class="post-tag news-kind">{% include "news-icon.njk" %}{{ kindLabels[item.kind] or "Event" }}<span aria-hidden="true"> · </span>{{ item.date }}</p><h3>{{ item.title | italics | safe }}</h3><p>{{ item.text }}</p><span class="more">{{ item.link_label }}</span></a>
 {% endfor %}</div>
 </div>
 </div></div>
