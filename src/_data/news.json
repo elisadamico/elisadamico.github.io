@@ -51,10 +51,10 @@
     },
     {
       "date": "May 2026",
-      "title": "MEND data release and policy brief",
-      "text": "Our team released “Mediation in 2025” and a policy brief on current trends in mediation.",
-      "url": "/mend/",
-      "link_label": "About MEND",
+      "title": "MEND policy brief: Mediation in 2025",
+      "text": "With Mateja Peter, Kasia Houghton, and Sanja Badanjak, I track mediation across overlapping conflict systems in 2025 using MEND data.",
+      "url": "https://peacerep.org/publication/mediation-in-2025-navigating-overlapping-conflict-systems/",
+      "link_label": "Read it on PeaceRep",
       "sort": "2026-05-13"
     },
     {
