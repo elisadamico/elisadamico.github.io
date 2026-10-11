@@ -28,7 +28,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 2026 | **D’Amico, E.** [Difference-in-Differences Estimation: A Quasi-Experimental Approach to Sustainable Development Interventions](https://doi.org/10.1162/glep.a.795). *Global Environmental Politics*. Published 20 September 2026. [Replication data](https://doi.org/10.7910/DVN/FGCPNU).
 2026 | **D’Amico, E.** [Regional El Niño Patterns Shape Wheat-Flour Price Responses to Climate Disasters](https://doi.org/10.1088/1748-9326/aea4c6). *Environmental Research Letters*. Published 25 September 2026. [Replication data](https://doi.org/10.7910/DVN/4QHFA1).
 2026 | **D’Amico, E.** [The Price of Instability: Hydrological Disasters, Food Prices, and Violent Conflict](https://doi.org/10.1057/s41599-026-08590-1). *Humanities and Social Sciences Communications* (Nature Portfolio). Published 20 August 2026. [Replication data](https://doi.org/10.7910/DVN/917DMH).
-2026 | Houghton, K., & **D’Amico, E.** [Financial Dependencies and Conflict Resolution: The Role of Militarized Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*. Published 10 September 2026.
+2026 | Houghton, K., & **D’Amico, E.** [Financial Dependencies and Conflict Resolution: The Role of Militarised Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*. Published 10 September 2026.
 2025 | **D’Amico, E.**, Sosa, S., & Melin, M. [Private Goods for Peace: Economic Provisions of Peace Agreements and the Durability of Peace](https://doi.org/10.1177/00223433251345382). *Journal of Peace Research*, 62(6), 2001–2019. Published 22 September 2025. [Replication data](https://doi.org/10.7910/DVN/I4NXPL).
 2025 | **D’Amico, E.** [From Garments to Grievances: The Dynamics of Urban Growth and Economic Shocks in Rapidly Industrialising Economies](https://doi.org/10.1080/09692290.2025.2515136). *Review of International Political Economy*, 32(6), 1953–1990. Published 11 June 2025. [Replication data](https://doi.org/10.7910/DVN/XE1MQE).
 2025 | Maboudi, T., & **D’Amico, E.** [Life, Liberty, and Litigation: Do Constitutional Rights Impact Climate Litigation Outcome?](https://doi.org/10.1177/10659129251380572). *Political Research Quarterly*, 79(1), 126–139. Published 23 September 2025.
@@ -47,7 +47,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 <h3>Conference Proceedings</h3>
 
 {% yearlist %}
-2024 | **D’Amico, E.**, & Peter, M. [Enhancing Conflict Mediation Research: Introducing the Innovative Global Peace Actors Database (GLO-PAD)](https://doi.org/10.4995/carma2024.2024.17695). *Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)*, Valencia. Published 26 June 2024.
+2024 | **D’Amico, E.**, & Peter, M. [Enhancing Conflict Mediation Research: First Steps in the Mediation and Negotiators Database (MEND)](https://doi.org/10.4995/carma2024.2024.17695). *Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)*, Valencia. Published 26 June 2024.
 {% endyearlist %}
 
 <h3>Dissertation</h3>
@@ -68,10 +68,10 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 {% yearlist %}
 **D’Amico, E.**, & Mullen, T. *From Peace to Policy: How Institutional Linkages Drive Climate Law Adoption*.
 **D’Amico, E.**, & Nutley, K. *Legislating Under Pressure: The Conditional Influence of Environmental Protest on Climate Policy*.
-**D’Amico, E.**, & Houghton, K. *Peace and Profits: How Third Parties Militarize and Mediate Conflicts*.
-Houghton, K., & **D’Amico, E.** *Profit through Peace: Energy Transitions and the Political Economy of Sustainable Peace*. Special issue, *PNAS*.
+**D’Amico, E.**, & Houghton, K. *Profit through Peace: Energy Transitions and the Political Economy of Sustainable Peace*. Special issue, *PNAS*.
 Maboudi, T., **D’Amico, E.**, & Burge, K. *Judging the Climate: Political Ideology and Climate Lawsuits*.
 **D’Amico, E.**, & Lujala, P. *Minerals, Markets, and Armed Conflict: Rare Earths in the Modern Green Economy*.
+**D’Amico, E.** *Weathering War: How Environmental Shocks Shape Rebel Strategies and Peace Outcomes*.
 {% endyearlist %}
 
 <h3>Working Projects</h3>
@@ -79,8 +79,9 @@ Maboudi, T., **D’Amico, E.**, & Burge, K. *Judging the Climate: Political Ideo
 <p class="note">NS = Near Submission</p>
 
 {% yearlist %}
+**D’Amico, E.**, Ha, N., & Heintze, D. *(NS)* *Disasters, Territorial Contestation, and the Geographic Reallocation of Civil War*.
 **D’Amico, E.**, & Somboonkittichai, K. *(NS)* *Who Governs After Disaster? Political Exclusion and Ethnic Rebel Service Provision*.
-Miranda, D., Hooda, D., Paleczny, K., & **D’Amico, E.** *Climate Law Framing and Legislative Success in Ireland*.
+Miranda, D., Hooda, D., Paleczny, K., & **D’Amico, E.** *(NS)* *Climate Law Framing and Legislative Success in Ireland*.
 Hoepner, A., Guisande, D., & **D’Amico, E.** *Corporate Lobbying and Environmental Policy Under Crisis*.
 Liang, K., Mutoni, I., Schlittke, Z., & **D’Amico, E.** *Who Gets to Leave? Displacement after the Valencia Floods*.
 **D’Amico, E.** *The Geography of Conflict Mediation: Proximity and Success in Armed Conflict Resolutions*. [Read the interactive summary](https://tvancisin.github.io/elisa_damico/) or [watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology, PolMeth Europe 2025).

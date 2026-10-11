@@ -45,7 +45,7 @@ I am the Data Manager for MEND. I run the semi-automated pipeline that detects c
 
 ### Related Research on Mediation
 
-- Houghton, K., & **D’Amico, E.** (2026). [Financial Dependencies and Conflict Resolution: The Role of Militarized Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*.
+- Houghton, K., & **D’Amico, E.** (2026). [Financial Dependencies and Conflict Resolution: The Role of Militarised Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*.
 - **D’Amico, E.**, Sosa, S., & Melin, M. (2025). [Private Goods for Peace: Economic Provisions of Peace Agreements and the Durability of Peace](https://doi.org/10.1177/00223433251345382). *Journal of Peace Research*, 62(6), 2001–2019.
 - **D’Amico, E.** (2025). [Bridging the Distance: New Insights on Geography in Conflict Mediation](https://tvancisin.github.io/elisa_damico/). Interactive data story based on *The Geography of Conflict Mediation*. Web and visualizations by Tomas Vancisin.
 
