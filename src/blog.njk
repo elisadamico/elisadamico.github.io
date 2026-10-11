@@ -26,6 +26,7 @@ posts:
   - title: "Mediation in 2025: Navigating Overlapping Conflict Systems"
     type: Report
     year: 2026
+    date: "13 May 2026"
     fit: contain
     source: PeaceRep, MEND Data Series
     note: With M. Peter, K. Houghton, and S. Badanjak.
@@ -35,13 +36,15 @@ posts:
   - title: "Semi-Automated Coding for Conflict Mediation Research: Database Development"
     type: Report
     year: 2024
+    date: "15 November 2024"
     source: PeaceRep, Peace Analytics
     url: https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/
     image: /assets/img/blog-mend-coding.jpg
     alt: Abstract visualization of rows of data
   - title: How Climate Shocks Impact Rebel Demands and Peace Agreement Outcomes
     type: Policy Brief
-    year: 2024
+    year: 2025
+    date: "16 January 2025"
     source: PeaceRep, Climate & Natural Resources
     url: https://peacerep.org/publication/conflict-in-a-warming-world/
     image: /assets/img/blog-climate-shocks.jpg
@@ -49,6 +52,7 @@ posts:
   - title: "Stitching a Sustainable Future: Policy Interventions for Youth, Migration, and Climate Change in Bangladesh’s Garment Industry"
     type: Blog
     year: 2024
+    date: "5 June 2024"
     source: International Organization for Migration (IOM)
     url: https://environmentalmigration.iom.int/blogs/stitching-sustainable-future-policy-interventions-youth-migration-and-climate-change-bangladeshs-garment-industry
     image: /assets/img/blog-garment.jpg
@@ -76,7 +80,7 @@ posts:
   <article class="post-card">
     {% if post.image %}<a class="post-thumb{% if post.fit == 'contain' %} contain{% endif %}" href="{{ post.url }}" tabindex="-1" aria-hidden="true"><img src="{{ post.image }}" alt="{{ post.alt }}" loading="lazy"></a>{% endif %}
     <div class="post-body">
-      <p class="post-tag">{{ post.type }}{% if post.year %}<span aria-hidden="true"> · </span>{{ post.year }}{% endif %}</p>
+      <p class="post-tag">{{ post.type }}{% if post.date or post.year %}<span aria-hidden="true"> · </span>{{ post.date or post.year }}{% endif %}</p>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p class="source">{{ post.source }}</p>
       {% if post.note %}<p class="source">{{ post.note }}</p>{% endif %}
