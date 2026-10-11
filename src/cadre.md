@@ -33,9 +33,6 @@ team:
   - name: Ranul Thantilage
     role: Assistant Professor
     unit: School of Computer Science
-  - name: Manuel Saviane
-    role: Undergraduate Student
-    unit: Philosophy, Politics and Economics (PPE)
 strands:
   - title: Computational social science and political science
     detail: Scoping how climate displacement is currently measured, mapping existing approaches, definitions, and gaps.
