@@ -13,7 +13,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 
 {% yearlist %}
 2026 | **Agentic Business AIs for Sustainability Workshop**, University College Dublin<br>Invited Speaker, *“OMG Chat GPT, Chill Claude, Decide Gemini: Agentic Business AIs for Sustainability?!?”*
-2026 | **PeaceRep Conference**, University of Edinburgh<br>Invited Speaker, Roundtable for PeaceTech Panel
+2026 | **[PeaceRep Closing Conference](https://peacerep.org/2026/03/18/time-to-make-a-change-peacerep-hosts-closing-events/)**, *Time to Make a Change: Reimagining Peace Processes in a Fragmented World*, Edinburgh Law School, University of Edinburgh<br>Invited Speaker, panel on Mediation Futures and PeaceTech
 2026 | **Edinburgh Climate Coalition**<br>Invited Speaker (with Extinction Rebellion, Greenpeace, Friends of the Earth, and ScotE3), *“Environmental Protest and Climate Policy Strategy”*
 2026 | **Working Across the Pond: Applying to Academic Positions in Europe**, International Studies Association Annual Convention, Columbus, Ohio<br>Panelist
 2025 | **Political Economy of Climate and Environment (PECE)**, Vancouver, Canada<br>Invited Presenter
