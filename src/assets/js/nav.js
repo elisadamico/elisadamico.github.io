@@ -34,3 +34,31 @@
     if (event.key === "Escape") closeSubs(null);
   });
 })();
+
+// Recent news row on the home page: arrow buttons, and a fade on whichever side has more to see.
+document.querySelectorAll("[data-news]").forEach(function (wrap) {
+  var strip = wrap.querySelector(".news-strip");
+  var buttons = wrap.querySelectorAll(".news-btn");
+  var smooth = !window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  function step() {
+    var card = strip.querySelector(".news-card");
+    return card ? card.getBoundingClientRect().width + 16 : strip.clientWidth;
+  }
+  function update() {
+    var left = strip.scrollLeft > 4;
+    var right = strip.scrollLeft + strip.clientWidth < strip.scrollWidth - 4;
+    wrap.classList.toggle("more-left", left);
+    wrap.classList.toggle("more-right", right);
+    wrap.classList.toggle("fits", !left && !right);
+    buttons[0].disabled = !left;
+    buttons[1].disabled = !right;
+  }
+  buttons.forEach(function (b) {
+    b.addEventListener("click", function () {
+      strip.scrollBy({ left: Number(b.dataset.dir) * step(), behavior: smooth ? "smooth" : "auto" });
+    });
+  });
+  strip.addEventListener("scroll", update, { passive: true });
+  window.addEventListener("resize", update);
+  update();
+});

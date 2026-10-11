@@ -1,54 +1,61 @@
 {
-  "_note": "Recent news on the home page, newest first. The first four show at once on a computer, and the rest scroll sideways. url can be a page on this site or a full link.",
+  "_note": "Recent news on the home page. Items are sorted automatically by the sort date (YYYY-MM-DD), newest first, so new items can go anywhere in the list. The date field is what visitors see.",
   "items": [
     {
       "date": "October 2026",
       "title": "Introducing CADRE at the Earth Institute",
       "text": "I presented CADRE at the UCD Earth Institute’s coffee morning for its new Strategic Interdisciplinary Award projects.",
       "url": "/cadre/",
-      "link_label": "About CADRE"
+      "link_label": "About CADRE",
+      "sort": "2026-10-01"
     },
     {
       "date": "September 2026",
       "title": "New article in Environmental Research Letters",
       "text": "Regional El Niño patterns shape how wheat-flour prices respond to floods, droughts, and storms.",
       "url": "https://doi.org/10.1088/1748-9326/aea4c6",
-      "link_label": "Read the article"
+      "link_label": "Read the article",
+      "sort": "2026-09-25"
     },
     {
       "date": "September 2026",
       "title": "New article in Civil Wars",
       "text": "With Kasia Houghton, on how mediators who also fund rebel groups shape conflict resolution.",
       "url": "https://doi.org/10.1080/13698249.2026.2718659",
-      "link_label": "Read the article"
+      "link_label": "Read the article",
+      "sort": "2026-09-10"
     },
     {
       "date": "September 2026",
       "title": "Two papers at APSA 2026",
       "text": "I presented work on climate law adoption (with Tahlia Mullen) and rare earths and armed conflict (with Päivi Lujala).",
       "url": "/talks/#conferences",
-      "link_label": "See my talks"
+      "link_label": "See my talks",
+      "sort": "2026-09-03"
     },
     {
       "date": "August 2026",
       "title": "New article in Humanities and Social Sciences Communications",
       "text": "Floods and storms raise battle events, and food price instability amplifies the effect.",
       "url": "https://doi.org/10.1057/s41599-026-08590-1",
-      "link_label": "Read the article"
+      "link_label": "Read the article",
+      "sort": "2026-08-20"
     },
     {
       "date": "August 2026",
       "title": "CADRE named an Earth Institute Strategic Priority",
       "text": "CADRE won a UCD Earth Institute Strategic Interdisciplinary Award for 2026–27.",
       "url": "/cadre/",
-      "link_label": "About CADRE"
+      "link_label": "About CADRE",
+      "sort": "2026-08-10"
     },
     {
       "date": "May 2026",
       "title": "MEND data release and policy brief",
       "text": "Our team released “Mediation in 2025” and a policy brief on current trends in mediation.",
       "url": "/mend/",
-      "link_label": "About MEND"
+      "link_label": "About MEND",
+      "sort": "2026-05-13"
     }
   ]
 }

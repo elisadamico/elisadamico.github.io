@@ -26,7 +26,10 @@ I am a political scientist whose primary research interests lie at the intersect
 <div class="page-title"><h2>Recent News</h2></div>
 
 <div class="section"><div class="container">
+<div class="news-wrap" data-news>
+<div class="news-controls"><span class="news-hint">Scroll for more news <span aria-hidden="true">→</span></span><button type="button" class="news-btn" data-dir="-1" aria-label="Show newer news">‹</button><button type="button" class="news-btn" data-dir="1" aria-label="Show older news">›</button></div>
 <div class="news-strip" tabindex="0" aria-label="Recent news, scroll sideways for more">
-{% for item in news.items %}<a class="link-card news-card" href="{{ item.url }}"><p class="post-tag">{{ item.date }}</p><h3>{{ item.title }}</h3><p>{{ item.text }}</p><span class="more">{{ item.link_label }}</span></a>
+{% for item in news.items | sort(true, false, "sort") %}<a class="link-card news-card" href="{{ item.url }}"><p class="post-tag">{{ item.date }}</p><h3>{{ item.title }}</h3><p>{{ item.text }}</p><span class="more">{{ item.link_label }}</span></a>
 {% endfor %}</div>
+</div>
 </div></div>
