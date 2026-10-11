@@ -67,6 +67,7 @@ projects:
 <h3>Research and Data Experience</h3>
 
 {% yearlist %}
+2026– | ESOC Lead, [eEarth](https://eearth.io/), Empirical Studies of Conflict (ESOC) and International Crisis Group collaboration<br>*Liaising between Crisis Group’s eEarth team and ESOC researchers on resource-related conflict early warning*
 2025– | Data Manager, Global PeaceHub: Mediation and Negotiators Database (MEND)
 2023–2024 | Data & Modeling Research Consultant, University of Denver and World Wildlife Fund<br>*Forecasting future fisheries conflict; leveraging big data and running prediction models*
 2023 | Automation Research Consultant, University of St Andrews, School of International Relations<br>*Global Fragmentation and Peacemaking PeaceRep Consultancy and Database Building*

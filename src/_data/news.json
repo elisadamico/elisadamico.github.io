@@ -405,6 +405,15 @@
       "link_label": "See my grants",
       "sort": "2026-04-01",
       "kind": "award"
+    },
+    {
+      "date": "15 July 2026",
+      "title": "ESOC lead for eEarth, with the International Crisis Group",
+      "text": "I was named the Empirical Studies of Conflict (ESOC) lead for eEarth, Crisis Group’s early-warning platform for resource-related conflict risk, in ESOC’s collaboration with the International Crisis Group.",
+      "url": "https://eearth.io/",
+      "link_label": "About eEarth",
+      "sort": "2026-07-15",
+      "kind": "position"
     }
   ]
 }
