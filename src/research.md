@@ -44,6 +44,18 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 2026 | Clausen, M., & **D’Amico, E.** (forthcoming). Chapter 7: Reducing Urban Violence: The Case of Chicago. In M. Melin & S. Sosa (Eds.), *The Missing Peace: Understanding Private Enterprises in Conflict Prevention and Resolution*. Oxford University Press.
 {% endyearlist %}
 
+<h3>Conference Proceedings</h3>
+
+{% yearlist %}
+2024 | **D’Amico, E.**, & Peter, M. [Enhancing Conflict Mediation Research: Introducing the Innovative Global Peace Actors Database (GLO-PAD)](https://doi.org/10.4995/carma2024.2024.17695). *Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)*, Valencia. Published 26 June 2024.
+{% endyearlist %}
+
+<h3>Dissertation</h3>
+
+{% yearlist %}
+2024 | **D’Amico, E.** [The Climate-Conflict Nexus: Urban Migration and Methodological Innovations](https://ecommons.luc.edu/luc_diss/4140/). Ph.D. dissertation, Loyola University Chicago.
+{% endyearlist %}
+
 <h3 id="in-progress">Revise &amp; Resubmit</h3>
 
 {% yearlist %}

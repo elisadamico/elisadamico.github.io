@@ -40,6 +40,11 @@ news:
     text: I introduced CADRE at the UCD Earth Institute’s weekly coffee morning, alongside BRIDGE and LEAF, the other two new Strategic Interdisciplinary Award projects for 2026.
     url: https://www.ucd.ie/earth/events/2026/1octobernewsiaprojectscoffeemorning/
     link_label: See the event
+  - date: "Summer 2026"
+    title: CADRE in the SPIRe newsletter
+    text: The UCD School of Politics and International Relations newsletter reported on CADRE’s Earth Institute funding.
+    url: https://www.ucd.ie/spire/filestore/SPIRe_Newsletter_Summer_2026.pdf
+    link_label: Read the newsletter
   - date: "2026"
     title: CADRE featured by the UCD Earth Institute
     text: The Earth Institute profiles CADRE on its Projects page, under Climate Displacement, as one of its Strategic Priority projects.

@@ -23,6 +23,11 @@ heading: Mentoring & Supervision
 - **2026–2027 · B.A. Dissertation Supervisor (Advanced Seminar)**<br>Andrea Bjornsdottir, *Small-State Climate Diplomacy & Climate Change*, University College Dublin
 - **2026 · B.Sc. Thesis Assessor**<br>Nabilah Mohammad, *Economic & Environmental Crises*<br>Camilla Gazzola, *Parliamentary Framing of Protest in Italy*<br>University College Dublin
 
+### Early Career and Doctoral Development
+
+- **2025– · Organizer, [SPIRe Early Career Researcher Forum](https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/)**<br>University College Dublin
+- **2026– · Organizer, SPIRe PhD Workshop**<br>University College Dublin
+
 <p><a class="btn btn-outline" href="/teaching/">Teaching Experience</a></p>
 
 </div></div></div>

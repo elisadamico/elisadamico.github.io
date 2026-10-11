@@ -18,6 +18,8 @@ My research has been supported by the Ad Astra Fellow Research Award at Universi
 
 At UCD I lead [CADRE](/cadre/), an interdisciplinary working group on measuring climate displacement, and I founded the [WICIP Network](/wicip/) for women working in comparative and international politics.
 
+You can also find me on the [Centre for Global Law and Governance](https://cglg.wp.st-andrews.ac.uk/elisa-damico/), [PeaceRep](https://peacerep.org/profile/elisa-damico/), and [Global PeaceHub](https://peacehub.st-andrews.ac.uk/about/) team pages.
+
 Through volunteer work with RefugeeOne and Project Elea, I have tutored refugees of many ages and countries of origin. In my free time, I enjoy meditation, yoga, reading, playing video games, and playing with data!
 
 </div>

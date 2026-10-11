@@ -1,5 +1,5 @@
 {
-  "_note": "Recent news on the home page. Items are sorted automatically by the sort date (YYYY-MM-DD), newest first, so new items can go anywhere in the list. The date field is what visitors see.",
+  "_note": "Recent news on the home page. Items are sorted automatically by the sort date (YYYY-MM-DD), newest first, so new items can go anywhere in the list. The date field is what visitors see. kind is one of article, event, report, award (sets the small icon and label).",
   "items": [
     {
       "date": "1 October 2026",
@@ -7,7 +7,8 @@
       "text": "I introduced CADRE at the UCD Earth Institute’s coffee morning for its new Strategic Interdisciplinary Award projects, alongside BRIDGE and LEAF.",
       "url": "https://www.ucd.ie/earth/events/2026/1octobernewsiaprojectscoffeemorning/",
       "link_label": "See the event",
-      "sort": "2026-10-01"
+      "sort": "2026-10-01",
+      "kind": "event"
     },
     {
       "date": "25 September 2026",
@@ -15,7 +16,8 @@
       "text": "Regional El Niño patterns shape how wheat-flour prices respond to floods, droughts, and storms.",
       "url": "https://doi.org/10.1088/1748-9326/aea4c6",
       "link_label": "Read the article",
-      "sort": "2026-09-25"
+      "sort": "2026-09-25",
+      "kind": "article"
     },
     {
       "date": "10 September 2026",
@@ -23,7 +25,8 @@
       "text": "With Kasia Houghton, on how mediators who also fund rebel groups shape conflict resolution.",
       "url": "https://doi.org/10.1080/13698249.2026.2718659",
       "link_label": "Read the article",
-      "sort": "2026-09-10"
+      "sort": "2026-09-10",
+      "kind": "article"
     },
     {
       "date": "3–6 September 2026",
@@ -31,7 +34,8 @@
       "text": "I presented work on climate law adoption (with Tahlia Mullen) and rare earths and armed conflict (with Päivi Lujala).",
       "url": "https://connect.apsanet.org/apsa2026/",
       "link_label": "See the APSA meeting",
-      "sort": "2026-09-03"
+      "sort": "2026-09-03",
+      "kind": "event"
     },
     {
       "date": "20 August 2026",
@@ -39,7 +43,8 @@
       "text": "Floods and storms raise battle events, and food price instability amplifies the effect.",
       "url": "https://doi.org/10.1057/s41599-026-08590-1",
       "link_label": "Read the article",
-      "sort": "2026-08-20"
+      "sort": "2026-08-20",
+      "kind": "article"
     },
     {
       "date": "August 2026",
@@ -47,7 +52,8 @@
       "text": "CADRE won a UCD Earth Institute Strategic Interdisciplinary Award and was named a Strategic Priority for 2026–27.",
       "url": "https://www.ucd.ie/earth/programmes/projects/",
       "link_label": "See the Earth Institute profile",
-      "sort": "2026-08-10"
+      "sort": "2026-08-10",
+      "kind": "award"
     },
     {
       "date": "13 May 2026",
@@ -55,7 +61,8 @@
       "text": "With Mateja Peter, Kasia Houghton, and Sanja Badanjak, I track mediation across overlapping conflict systems in 2025 using MEND data.",
       "url": "https://peacerep.org/publication/mediation-in-2025-navigating-overlapping-conflict-systems/",
       "link_label": "Read it on PeaceRep",
-      "sort": "2026-05-13"
+      "sort": "2026-05-13",
+      "kind": "report"
     },
     {
       "date": "12 March 2026",
@@ -63,7 +70,8 @@
       "text": "I spoke on the Mediation Futures and PeaceTech panel at “Time to Make a Change” in Edinburgh, marking five years of PeaceRep research.",
       "url": "https://peacerep.org/2026/03/18/time-to-make-a-change-peacerep-hosts-closing-events/",
       "link_label": "Read about the event",
-      "sort": "2026-03-12"
+      "sort": "2026-03-12",
+      "kind": "event"
     },
     {
       "date": "13–14 October 2026",
@@ -71,7 +79,134 @@
       "text": "I’m presenting at the Center for Crisis Early Warning symposium, “Conflict Early Warning in Times of Power Competition: Limits and Challenges.”",
       "url": "https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details",
       "link_label": "See the symposium",
-      "sort": "2026-10-13"
+      "sort": "2026-10-13",
+      "kind": "event"
+    },
+    {
+      "date": "20 September 2026",
+      "title": "New article in Global Environmental Politics",
+      "text": "A difference-in-differences study of how hydropower development shapes conflict.",
+      "url": "https://doi.org/10.1162/glep.a.795",
+      "link_label": "Read the article",
+      "sort": "2026-09-20",
+      "kind": "article"
+    },
+    {
+      "date": "6–7 November 2026",
+      "title": "Presenting at ESOC-ReCIPE, Paris",
+      "text": "The Empirical Studies of Conflict and CEPR ReCIPE annual meeting, at the University of Chicago in Paris and the Paris School of Economics.",
+      "url": "https://grp.cepr.org/events/esoc-recipe-annual-meeting-2026",
+      "link_label": "See the meeting",
+      "sort": "2026-11-06",
+      "kind": "event"
+    },
+    {
+      "date": "5–6 March 2026",
+      "title": "Interdisciplinary workshop on climate and conflict, Milan",
+      "text": "A workshop on climate change, natural resources, and conflict at the Politecnico di Milano.",
+      "url": "/talks/#conferences",
+      "link_label": "See my talks",
+      "sort": "2026-03-05",
+      "kind": "event"
+    },
+    {
+      "date": "15–17 January 2026",
+      "title": "Presenting at SPSA, New Orleans",
+      "text": "The Southern Political Science Association annual meeting, including its Conference-within-a-Conference on crises and disasters.",
+      "url": "https://spsa.net/2026-conference-information/",
+      "link_label": "See the meeting",
+      "sort": "2026-01-15",
+      "kind": "event"
+    },
+    {
+      "date": "11 November 2025",
+      "title": "Talk on the academic job market",
+      "text": "I spoke at UCD SPIRe’s Early Career Researcher Forum on navigating the current academic job market.",
+      "url": "https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/",
+      "link_label": "See the forum",
+      "sort": "2025-11-11",
+      "kind": "event"
+    },
+    {
+      "date": "8 October 2025",
+      "title": "SPIRe Seminar, University College Dublin",
+      "text": "I presented “From Disaster to Dispute in the DRC: Climate’s Role in Resource Wars.”",
+      "url": "/talks/",
+      "link_label": "See my talks",
+      "sort": "2025-10-08",
+      "kind": "event"
+    },
+    {
+      "date": "10–11 September 2025",
+      "title": "Presenting at PECE, Vancouver",
+      "text": "The Political Economy of Climate and Environment conference.",
+      "url": "/talks/",
+      "link_label": "See my talks",
+      "sort": "2025-09-10",
+      "kind": "event"
+    },
+    {
+      "date": "17 December 2025",
+      "title": "New article in Climate Policy",
+      "text": "With Tofigh Maboudi, on when climate policies are adopted and how timing shapes adaptive resilience.",
+      "url": "https://doi.org/10.1080/14693062.2025.2601383",
+      "link_label": "Read the article",
+      "sort": "2025-12-17",
+      "kind": "article"
+    },
+    {
+      "date": "23 September 2025",
+      "title": "New article in Political Research Quarterly",
+      "text": "With Tofigh Maboudi, on whether constitutional rights shape climate litigation outcomes.",
+      "url": "https://doi.org/10.1177/10659129251380572",
+      "link_label": "Read the article",
+      "sort": "2025-09-23",
+      "kind": "article"
+    },
+    {
+      "date": "22 September 2025",
+      "title": "New article in the Journal of Peace Research",
+      "text": "With Santiago Sosa and Molly Melin, on economic provisions in peace agreements and the durability of peace.",
+      "url": "https://doi.org/10.1177/00223433251345382",
+      "link_label": "Read the article",
+      "sort": "2025-09-22",
+      "kind": "article"
+    },
+    {
+      "date": "26 August 2025",
+      "title": "New article in npj Climate Action",
+      "text": "Isolating the climate adaptation measures that matter in New England.",
+      "url": "https://doi.org/10.1038/s44168-025-00275-w",
+      "link_label": "Read the article",
+      "sort": "2025-08-26",
+      "kind": "article"
+    },
+    {
+      "date": "24 June 2025",
+      "title": "LSE Sustainable Social Policy Workshop",
+      "text": "The inaugural workshop of LSE’s Sustainable Social Policy cluster.",
+      "url": "https://www.lse.ac.uk/social-policy/research/Research-clusters/Sustainable-Social-Policy/events/24-june-2025/inaugural-workshop",
+      "link_label": "See the workshop",
+      "sort": "2025-06-24",
+      "kind": "event"
+    },
+    {
+      "date": "11 June 2025",
+      "title": "New article in the Review of International Political Economy",
+      "text": "From garments to grievances: urban growth and economic shocks in rapidly industrialising economies.",
+      "url": "https://doi.org/10.1080/09692290.2025.2515136",
+      "link_label": "Read the article",
+      "sort": "2025-06-11",
+      "kind": "article"
+    },
+    {
+      "date": "7–8 April 2025",
+      "title": "Poster at PolMeth Europe, LSE",
+      "text": "I presented a poster on the geography of conflict mediation.",
+      "url": "https://www.ipsa.org/na/event/polmeth-europe-2025",
+      "link_label": "See the conference",
+      "sort": "2025-04-07",
+      "kind": "event"
     }
   ]
 }

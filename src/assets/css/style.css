@@ -601,3 +601,7 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 .news-wrap.more-right .news-strip { -webkit-mask-image: linear-gradient(to right, #000 88%, transparent); mask-image: linear-gradient(to right, #000 88%, transparent); }
 .news-wrap.more-left .news-strip { -webkit-mask-image: linear-gradient(to right, transparent, #000 12%); mask-image: linear-gradient(to right, transparent, #000 12%); }
 .news-wrap.more-left.more-right .news-strip { -webkit-mask-image: linear-gradient(to right, transparent, #000 10%, #000 90%, transparent); mask-image: linear-gradient(to right, transparent, #000 10%, #000 90%, transparent); }
+
+/* News card type label with a small icon. */
+.news-kind { display: flex; align-items: center; gap: 0.35rem; flex-wrap: wrap; }
+.news-icon { width: 0.95rem; height: 0.95rem; flex: none; color: var(--accent); }

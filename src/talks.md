@@ -23,9 +23,10 @@ description: Invited talks, lectures, workshops, and conference presentations by
 2025 | **APSA Research Group**<br>Invited Participant, *Advancing the Use of Computational Tools in Political Science*
 2025 | **Junior Scholars in Quantitative Conflict Workshop Series**<br>Invited Talk, *“Geography of Peace: Proximity and Success in Conflict Resolution”*
 2025 | **Rebel Financing and Rebels’ Use of Economic Instruments for Rebel Governance Pre-Conference Workshop**, ISA Annual Convention, Chicago, 1 March 2025<br>Presenter, *“The Role of Militarized Mediators in Modern Insurgencies”*
+2025 | **[SPIRe Early Career Researcher Forum](https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/)**, University College Dublin, 11 November 2025<br>Invited Speaker, *“Navigating the Current Academic Job Market”*
 2025 | **SPIRe Seminar Series**, University College Dublin, 8 October 2025<br>Invited Talk, *“From Disaster to Dispute in the DRC: Climate’s Role in Resource Wars”*
 2024–2025 | **PGR Methods Café**, University of St Andrews, 14 February 2024 and 19 March 2025<br>Roundtable Discussant for Quantitative Methods
-2024 | **“Anthropocene” Ringvorlesung Lecture Series**, Universität Basel, 19 November 2024<br>Invited Lecture on Anthropocenic Mobilities
+2024 | **[“Anthropocene” Ringvorlesung Lecture Series](https://europa.unibas.ch/en/event/details/elisa-damico-university-of-st-andrews-anthropocene-mobilities-navigating-the-complexities-of-climate-induced-migration/)**, Institute for European Global Studies, Universität Basel, 19 November 2024<br>Invited Lecture, *“Anthropocene Mobilities: Navigating the Complexities of Climate-Induced Migration”*
 2024 | **Violence, Instability, and Peace (VIP) Workshop**, 25 April 2024<br>Invited workshop of a project on humanitarian-based conflict mediation after displacement shocks
 2024 | **Progress, Pitfalls, and Promises of Political Science in Migration and Citizenship Research**, 8–9 February 2024<br>Inaugural APSA Virtual Research Meeting
 2023 | **Solutions to Environmental Problems (STEP): Climate Action**<br>Invited Speaker, *“Migration-Preventative Adaptation Responses”*
