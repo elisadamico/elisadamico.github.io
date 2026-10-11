@@ -48,6 +48,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 2026 | **[CCEW Symposium](https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details)**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
 2026 | **Interdisciplinary Workshop on Climate Change, Natural Resources, and Conflict**, Politecnico di Milano, Italy, 5–6 March 2026
 2026 | **[Southern Political Science Association (SPSA) Annual Meeting](https://spsa.net/2026-conference-information/)**, New Orleans, 15–17 January 2026<br>Including the Conference-within-a-Conference, *Shifting Sands and Uncharted Waters: Navigating Political and Policy Changes Amid Complex Crises and Disasters*
+2025 | **[Inaugural Sustainable Social Policy Workshop](https://www.lse.ac.uk/social-policy/research/Research-clusters/Sustainable-Social-Policy/events/24-june-2025/inaugural-workshop)**, London School of Economics, 24 June 2025
 2025 | **[Political Methodology (PolMeth) Europe](https://www.ipsa.org/na/event/polmeth-europe-2025)**, London School of Economics, 7–8 April 2025<br>[Watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology)
 2024 | **Causal Data Science Meeting (CDSM)**, 5–6 November 2024
 2024 | **[Conference on Advanced Research Methods and Analytics (CARMA)](https://carmaconf.org/)**, 6th Meeting on Internet & Big Data in Economics & Social Sciences, 27 June 2024
