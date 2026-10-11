@@ -29,6 +29,26 @@ projects:
     about: Tools for merging data on country names across differences in spelling, abbreviations, country codes, and languages.
     url: https://github.com/elisadamico/Country-Name-Standardization-Stata-and-Excel
     link_label: View on GitHub
+  - name: Peace Agreement Scrape and Filter
+    kind: R and BigQuery
+    about: Scripts for processing and filtering peace agreement data scraped through Google BigQuery, built for PeaceRep.
+    url: https://github.com/elisadamico/Peace-Agreement-Scrape-and-Filter
+    link_label: View on GitHub
+  - name: PDF Download and Keyword Search
+    kind: R text search
+    about: Downloads documents from a list of URLs and pulls every passage that mentions chosen keywords into a spreadsheet for manual coding. I used it to search the UCDP peace agreement texts.
+    url: https://github.com/elisadamico/TEXT-SEARCH-PROJECT-Download-PDFs-Search-them
+    link_label: View on GitHub
+  - name: Shapefile and CSV Merging
+    kind: QGIS, Python, and Stata guide
+    about: Joining a shapefile to an attribute table by state and county in QGIS with Python, then cleaning the merged data in Stata, using the RAINE and NRI databases.
+    url: https://github.com/elisadamico/Location-Data-Merging-Shapefile-and-CSV-Joining-QGIS-Stata-Python---RAINE-and-NRI-Database
+    link_label: View on GitHub
+  - name: Panel Dataset Macros
+    kind: Excel VBA
+    about: Macros that build the unit-by-date shell for large panel datasets, useful for spatial data with thousands of units.
+    url: https://github.com/elisadamico/Useful-Macros-for-creating-large-unit-date-Panel-datasets
+    link_label: View on GitHub
 ---
 
 <div class="section"><div class="container split wide-left">
