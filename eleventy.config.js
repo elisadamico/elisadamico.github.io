@@ -48,8 +48,11 @@ export default function (eleventyConfig) {
   // Links that leave the site open in a new tab.
   eleventyConfig.addTransform("external-links", function (content) {
     if (!(this.page.outputPath || "").endsWith(".html")) return content;
-    return content.replace(/<a\b[^>]*\bhref="(https?:\/\/[^"]+)"[^>]*>/g, (tag, url) => {
-      if (/^https?:\/\/(www\.)?elisadamico\.net/.test(url) || /\btarget=/.test(tag)) return tag;
+    // External links and PDFs (like the CV) open in a new tab.
+    return content.replace(/<a\b[^>]*\bhref="((?:https?:\/\/|\/)[^"]+)"[^>]*>/g, (tag, url) => {
+      const isPdf = /\.pdf(?:[?#].*)?$/i.test(url);
+      const isExternal = /^https?:\/\//.test(url) && !/^https?:\/\/(www\.)?elisadamico\.net/.test(url);
+      if ((!isPdf && !isExternal) || /\btarget=/.test(tag)) return tag;
       const withRel = /\brel="/.test(tag)
         ? tag.replace(/\brel="([^"]*)"/, (rel, value) => `rel="${/noopener/.test(value) ? value : value + " noopener"}"`)
         : tag.replace(/>$/, ' rel="noopener">');
