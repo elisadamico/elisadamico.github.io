@@ -45,7 +45,6 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 
 {% yearlist %}
 2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**, 3–6 September 2026
-2026 | **[ESOC-ReCIPE Annual Meeting](https://grp.cepr.org/events/esoc-recipe-annual-meeting-2026)**, Empirical Studies of Conflict Project and CEPR ReCIPE Programme, University of Chicago in Paris and Paris School of Economics, 6–7 November 2026
 2026 | **[CCEW Symposium](https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details)**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
 2026 | **Interdisciplinary Workshop on Climate Change, Natural Resources, and Conflict**, Politecnico di Milano, Italy, 5–6 March 2026
 2026 | **[Southern Political Science Association (SPSA) Annual Meeting](https://spsa.net/2026-conference-information/)**, New Orleans, 15–17 January 2026<br>Including the Conference-within-a-Conference, *Shifting Sands and Uncharted Waters: Navigating Political and Policy Changes Amid Complex Crises and Disasters*
@@ -56,7 +55,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 2024 | **[CEEISA-ISA Joint International Conference](https://www.isanet.org/Conferences/ISA-Rijeka-2024)**, *Knowing the Global-Local*, Rijeka, Croatia, 18–21 June 2024
 2022– | **American Political Science Association (APSA)**, 2022, 2023, 2024 (virtual and in person), 2025 (virtual and in person), 2026
 2024– | **European Political Science Association (EPSA) & European Political Science Society (EPSS)**, 2024, 2025, 2026
-2023, 2026 | **Empirical Studies of Conflict (ESOC) Annual Meeting**
+2023 | **Empirical Studies of Conflict (ESOC) Annual Meeting**
 2018– | **International Studies Association (ISA)**, 2018, 2022, 2024, 2025, 2026
 2018–2023 | **Midwest Political Science Association (MPSA)**, Chicago, 2018, 2020, 2022, 2023
 {% endyearlist %}
