@@ -22,7 +22,7 @@ team:
 
 <div class="section"><div class="container prose">
 
-<img class="logo-mark on-light" src="/assets/img/mend-logo-2026.png" alt="MEND, Mediation Event and Negotiators Database" width="1223" height="949">
+<img class="logo-mark" src="/assets/img/mend-logo.png" alt="MEND, Mediation Event and Negotiators Database" width="1223" height="949">
 
 <p class="lede">The Mediation Event and Negotiators Database (MEND) tracks mediation and mediation-related events involving external third parties in major armed conflicts, whether or not those events end in a formal peace agreement.</p>
 

@@ -486,8 +486,6 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 .banner { margin-bottom: 2rem; border: 1px solid #222; }
 .btn-row { display: flex; flex-wrap: wrap; gap: 0.75rem; }
 .prose > img.logo-mark { width: min(300px, 70%); margin: 0.5rem auto 2.5rem; }
-/* Full-color logos sit on a white card so dark lettering stays readable on the dark page. */
-.prose > img.logo-mark.on-light { width: min(340px, 80%); background: #fff; padding: 1.25rem 1.5rem; border-radius: 10px; box-sizing: border-box; }
 .lede { font-size: 1.15rem; color: #dedad6; }
 
 .prose .schedule { list-style: none; padding: 0; margin: 1rem 0 0; }
