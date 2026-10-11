@@ -306,6 +306,24 @@
       "link_label": "About the Ad Astra programme",
       "sort": "2025-09-01",
       "kind": "award"
+    },
+    {
+      "date": "16 January 2025",
+      "title": "PeaceRep report: *Conflict in a Warming World*",
+      "text": "How climate shocks shape rebel demands for water, land, and resources, and whether peace agreements respond.",
+      "url": "https://doi.org/10.7488/era/peacerep-2025-001",
+      "link_label": "Read the report",
+      "sort": "2025-01-16",
+      "kind": "report"
+    },
+    {
+      "date": "15 November 2024",
+      "title": "PeaceRep report: *Semi-Automated Coding for Conflict Mediation Research*",
+      "text": "How I built the semi-automated pipeline behind the MEND database, in PeaceRep’s Peace Analytics Series.",
+      "url": "https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/",
+      "link_label": "Read the report",
+      "sort": "2024-11-15",
+      "kind": "report"
     }
   ]
 }
