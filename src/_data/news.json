@@ -1,24 +1,45 @@
 {
-  "_note": "Recent news on the home page, newest first. Keep three or four items. url can be a page on this site or a full link.",
+  "_note": "Recent news on the home page, newest first. The first four show at once on a computer, and the rest scroll sideways. url can be a page on this site or a full link.",
   "items": [
     {
       "date": "October 2026",
-      "title": "Introducing CADRE at the UCD Earth Institute",
-      "text": "I presented CADRE, my new working group on measuring climate displacement, at the Earth Institute’s coffee morning for its 2026 Strategic Interdisciplinary Award projects.",
+      "title": "Introducing CADRE at the Earth Institute",
+      "text": "I presented CADRE at the UCD Earth Institute’s coffee morning for its new Strategic Interdisciplinary Award projects.",
       "url": "/cadre/",
       "link_label": "About CADRE"
     },
     {
       "date": "September 2026",
+      "title": "New article in Environmental Research Letters",
+      "text": "Regional El Niño patterns shape how wheat-flour prices respond to floods, droughts, and storms.",
+      "url": "https://doi.org/10.1088/1748-9326/aea4c6",
+      "link_label": "Read the article"
+    },
+    {
+      "date": "September 2026",
       "title": "New article in Civil Wars",
-      "text": "Kasia Houghton and I examine how militarized mediators shape conflict resolution in modern insurgencies.",
+      "text": "With Kasia Houghton, on how mediators who also fund rebel groups shape conflict resolution.",
       "url": "https://doi.org/10.1080/13698249.2026.2718659",
       "link_label": "Read the article"
     },
     {
+      "date": "August 2026",
+      "title": "New article in Humanities and Social Sciences Communications",
+      "text": "Floods and storms raise battle events, and food price instability amplifies the effect.",
+      "url": "https://doi.org/10.1057/s41599-026-08590-1",
+      "link_label": "Read the article"
+    },
+    {
+      "date": "August 2026",
+      "title": "CADRE named an Earth Institute Strategic Priority",
+      "text": "CADRE won a UCD Earth Institute Strategic Interdisciplinary Award for 2026–27.",
+      "url": "/cadre/",
+      "link_label": "About CADRE"
+    },
+    {
       "date": "May 2026",
       "title": "MEND data release and policy brief",
-      "text": "Our team released “Mediation in 2025: Navigating overlapping conflict systems” and a policy brief on current trends in mediation.",
+      "text": "Our team released “Mediation in 2025” and a policy brief on current trends in mediation.",
       "url": "/mend/",
       "link_label": "About MEND"
     }

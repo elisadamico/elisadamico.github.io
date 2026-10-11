@@ -578,3 +578,14 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 /* News cards (CADRE page) sit inside .prose, so undo its link and heading styles. */
 .prose .news-cards { margin: 0 0 1.5rem; }
 .prose .news-cards .link-card h3 { margin-top: 0; }
+
+/* Recent news on the home page: a sideways-scrolling row, four cards wide on a computer. */
+.news-strip { display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x mandatory; padding-bottom: 0.75rem; scrollbar-width: thin; scrollbar-color: var(--accent) transparent; }
+.news-strip:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; }
+.news-strip .news-card { flex: 0 0 calc((100% - 3rem) / 4); scroll-snap-align: start; padding: 1rem 1.1rem; }
+.news-strip .news-card h3 { font-size: 1rem; line-height: 1.3; margin-bottom: 0.4rem; }
+.news-strip .news-card p { font-size: 0.875rem; line-height: 1.5; margin-bottom: 0.75rem; }
+.news-strip .news-card .post-tag { font-size: 0.72rem; margin-bottom: 0.4rem; }
+.news-strip .news-card .more { font-size: 0.9rem; }
+@media (max-width: 900px) { .news-strip .news-card { flex-basis: calc((100% - 1rem) / 2); } }
+@media (max-width: 560px) { .news-strip .news-card { flex-basis: 78%; } }

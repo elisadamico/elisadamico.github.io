@@ -26,7 +26,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 
 {% yearlist %}
 2026 | **D’Amico, E.** (forthcoming). [A Quasi-Experimental Approach to Sustainable Development Shocks: Hydropower’s Role in Conflict](https://doi.org/10.7910/DVN/FGCPNU). *Global Environmental Politics*.
-2026 | **D’Amico, E.** [When Water Stress Meets Weather Extremes: How Climate States Modulate Disaster Impacts on Food Price Stability](https://iopscience.iop.org/article/10.1088/1748-9326/aea4c6). *Environmental Research Letters*. [Replication data](https://doi.org/10.7910/DVN/4QHFA1).
+2026 | **D’Amico, E.** [Regional El Niño Patterns Shape Wheat-Flour Price Responses to Climate Disasters](https://doi.org/10.1088/1748-9326/aea4c6). *Environmental Research Letters*. [Replication data](https://doi.org/10.7910/DVN/4QHFA1).
 2026 | **D’Amico, E.** [The Price of Instability: Hydrological Disasters, Food Prices, and Violent Conflict](https://doi.org/10.1057/s41599-026-08590-1). *Humanities and Social Sciences Communications* (Nature Portfolio). [Replication data](https://doi.org/10.7910/DVN/917DMH).
 2026 | Houghton, K., & **D’Amico, E.** [Financial Dependencies and Conflict Resolution: The Role of Militarized Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*.
 2025 | **D’Amico, E.**, Melin, M., & Sosa, S. [Private Goods for Peace: Economic Provisions of Peace Agreements and the Durability of Peace](https://journals.sagepub.com/doi/10.1177/00223433251345382). *Journal of Peace Research*.
