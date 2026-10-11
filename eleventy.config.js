@@ -7,6 +7,9 @@ const md = markdownIt({ html: true });
 const CV_SOURCE = "src/assets/files/DAmico_CV.pdf";
 
 export default function (eleventyConfig) {
+  // Changes on every build, so browsers fetch the newest stylesheet after an update.
+  eleventyConfig.addGlobalData("buildId", () => Date.now().toString(36));
+
   eleventyConfig.addPassthroughCopy("src/assets");
   eleventyConfig.addPassthroughCopy({ "src/favicon.svg": "favicon.svg" });
 

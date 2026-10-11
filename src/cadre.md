@@ -100,7 +100,7 @@ The working group meets monthly from October 2026 to September 2027. Over that p
 ## News & Engagement
 
 <ul class="news-list">
-{% for item in news %}<li><span class="news-date">{{ item.date }}</span><strong>{{ item.title }}</strong><br>{{ item.text }}{% if item.url %} <a href="{{ item.url }}">{{ item.link_label or "Read more" }}</a>{% endif %}</li>
+{% for item in news %}<li><p class="news-date">{{ item.date }}</p><p class="news-title"><strong>{{ item.title }}</strong></p><p>{{ item.text }}{% if item.url %} <a href="{{ item.url }}">{{ item.link_label or "Read more" }}</a>{% endif %}</p></li>
 {% endfor %}</ul>
 
 ---
