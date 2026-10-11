@@ -63,9 +63,9 @@ document.querySelectorAll("[data-news]").forEach(function (wrap) {
   filters.forEach(function (f) {
     f.addEventListener("click", function () {
       filters.forEach(function (x) { x.setAttribute("aria-pressed", x === f ? "true" : "false"); });
-      var kind = f.dataset.kind;
+      var group = f.dataset.group;
       strip.querySelectorAll(".news-card").forEach(function (card) {
-        card.hidden = kind !== "all" && card.dataset.kind !== kind;
+        card.hidden = group !== "all" && card.dataset.group !== group;
       });
       strip.scrollLeft = 0;
       update();

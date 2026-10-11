@@ -40,11 +40,13 @@ I am the Data Manager for MEND. I run the semi-automated pipeline that detects c
 - Peter, M., **D’Amico, E.**, Houghton, K., & Badanjak, S. (2026). [Mediation in 2025: Navigating overlapping conflict systems](https://peacerep.org/publication/mediation-in-2025-navigating-overlapping-conflict-systems/). *MEND Data Series*, PeaceRep.
 - Peter, M., **D’Amico, E.**, Houghton, K., & Badanjak, S. (2026). [Current Trends in Mediation: MEND Key Findings](https://doi.org/10.7488/era/7212). *Policy Brief*, PeaceRep.
 - Peter, M. (2025). [Mediation in 2024: First Insights from the MEND Database](https://doi.org/10.7488/era/6194). *MEND Data Series*, PeaceRep. First MEND release report, prepared with the MEND core research team.
+- **D’Amico, E.** (2025). [Conflict in a Warming World: How Climate Shocks Impact Rebel Demands and Peace Agreement Outcomes](https://doi.org/10.7488/era/peacerep-2025-001). *PeaceRep Report: Climate & Natural Resources*, PeaceRep.
 - **D’Amico, E.** (2024). [Semi-automated coding for conflict mediation research: Database development](https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/). *Peace Analytics Series*, PeaceRep.
 
 ### Related Research on Mediation
 
 - Houghton, K., & **D’Amico, E.** (2026). [Financial Dependencies and Conflict Resolution: The Role of Militarized Mediators in Modern Insurgencies](https://doi.org/10.1080/13698249.2026.2718659). *Civil Wars*.
+- **D’Amico, E.**, Sosa, S., & Melin, M. (2025). [Private Goods for Peace: Economic Provisions of Peace Agreements and the Durability of Peace](https://doi.org/10.1177/00223433251345382). *Journal of Peace Research*, 62(6), 2001–2019.
 - **D’Amico, E.** (2025). [Bridging the Distance: New Insights on Geography in Conflict Mediation](https://tvancisin.github.io/elisa_damico/). Interactive data story based on *The Geography of Conflict Mediation*. Web and visualizations by Tomas Vancisin.
 
 <p>I presented the poster for <em>The Geography of Conflict Mediation</em> at PolMeth Europe 2025. LSE Methodology recorded the walkthrough below.</p>

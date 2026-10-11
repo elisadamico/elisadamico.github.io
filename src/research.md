@@ -95,8 +95,8 @@ Liang, K., Mutoni, I., Schlittke, Z., & **D’Amico, E.** *Who Gets to Leave? Di
 2025 | **D’Amico, E.** [Conflict in a Warming World: How Climate Shocks Impact Rebel Demands and Peace Agreement Outcomes](https://doi.org/10.7488/era/peacerep-2025-001). *PeaceRep Report: Climate & Natural Resources*, PeaceRep, University of Edinburgh. Published 16 January 2025.
 2024 | **D’Amico, E.** [Semi-automated coding for conflict mediation research: Database development](https://peacerep.org/publication/semi-automated-coding-for-conflict-mediation-research-database-development/). *Peace Analytics Series*, PeaceRep. Published 15 November 2024.
 2024 | **D’Amico, E.** [Stitching a Sustainable Future: Policy for Youth Migration, and Climate in Bangladesh’s Textile Industry](https://environmentalmigration.iom.int/blogs/stitching-sustainable-future-policy-interventions-youth-migration-and-climate-change-bangladeshs-garment-industry). *Blog Series: Youth, Migration, Environment, Climate Change, and Disaster Risk Reduction*, IOM UN Migration. Published 5 June 2024.
-2023 | **D’Amico, E.** [Montenegro v. Ashcroft Case Summary](https://legal.earthrefuge.org/montenegro-v-ashcroft/). *Earth Refuge Legal Database*.
-2023 | **D’Amico, E.** [Rising Tides and Sudden Surprises: The Two Faces of Climate Displacement](https://medium.com/@elisadamico95/rising-tides-and-sudden-surprises-the-two-faces-of-climate-displacement-d4c594ea053f). *Medium*.
+2023 | **D’Amico, E.** [Montenegro v. Ashcroft Case Summary](https://legal.earthrefuge.org/montenegro-v-ashcroft/). *Earth Refuge Legal Database*. Published 20 August 2023.
+2023 | **D’Amico, E.** [Rising Tides and Sudden Surprises: The Two Faces of Climate Displacement](https://medium.com/@elisadamico95/rising-tides-and-sudden-surprises-the-two-faces-of-climate-displacement-d4c594ea053f). *Medium*. Published 24 May 2023.
 {% endyearlist %}
 
 </div></div></div>

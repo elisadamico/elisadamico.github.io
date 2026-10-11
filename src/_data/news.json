@@ -1,5 +1,5 @@
 {
-  "_note": "Recent news on the home page. Items sort automatically by the sort date (YYYY-MM-DD), newest first. The date field is what visitors see. kind is one of article, event, report, award, position, book, blog (sets the small icon and label).",
+  "_note": "Recent news on the home page. Items sort automatically by the sort date (YYYY-MM-DD), newest first; date is what visitors see. kind sets the card's icon and label: article, report, blog, book (all filed under Publications), event (Talks & events), award (Awards & funding), position (New roles).",
   "items": [
     {
       "date": "1 October 2026",
@@ -49,7 +49,7 @@
     {
       "date": "August 2026",
       "title": "CADRE named an Earth Institute Strategic Priority",
-      "text": "CADRE won a UCD Earth Institute Strategic Interdisciplinary Award and was named a Strategic Priority for 2026–27.",
+      "text": "CADRE won a €10,000 UCD Earth Institute Strategic Interdisciplinary Award and was named a Strategic Priority for 2026–27.",
       "url": "https://www.ucd.ie/earth/programmes/projects/",
       "link_label": "See the Earth Institute profile",
       "sort": "2026-08-10",
@@ -362,22 +362,49 @@
       "kind": "blog"
     },
     {
-      "date": "2023",
+      "date": "20 August 2023",
       "title": "Case summary: *Montenegro v. Ashcroft*",
       "text": "A case summary for the Earth Refuge Legal Database.",
       "url": "https://legal.earthrefuge.org/montenegro-v-ashcroft/",
       "link_label": "Read the summary",
-      "sort": "2023-08-27",
+      "sort": "2023-08-20",
       "kind": "blog"
     },
     {
-      "date": "2023",
+      "date": "24 May 2023",
       "title": "Op-ed: *Rising Tides and Sudden Surprises*",
       "text": "The two faces of climate displacement, on Medium.",
       "url": "https://medium.com/@elisadamico95/rising-tides-and-sudden-surprises-the-two-faces-of-climate-displacement-d4c594ea053f",
       "link_label": "Read the op-ed",
-      "sort": "2023-06-01",
+      "sort": "2023-05-24",
       "kind": "blog"
+    },
+    {
+      "date": "1 April 2025",
+      "title": "Data Manager, MEND",
+      "text": "I became Data Manager for the Mediation Event and Negotiators Database (MEND) at Global PeaceHub, University of St Andrews.",
+      "url": "https://peacehub.st-andrews.ac.uk/about/",
+      "link_label": "See the MEND team",
+      "sort": "2025-04-01",
+      "kind": "position"
+    },
+    {
+      "date": "1 April 2025",
+      "title": "FCDO funding, 2025–26 (£40,000)",
+      "text": "Funding from the UK Foreign, Commonwealth & Development Office for Global Fragmentation and Conflict Management, 1 April 2025 to 31 March 2026.",
+      "url": "/grants/",
+      "link_label": "See my grants",
+      "sort": "2025-04-01",
+      "kind": "award"
+    },
+    {
+      "date": "1 April 2026",
+      "title": "FCDO funding, 2026–27 (£30,000)",
+      "text": "Second year of FCDO funding for Global Fragmentation and Conflict Management, 1 April 2026 to 31 March 2027.",
+      "url": "/grants/",
+      "link_label": "See my grants",
+      "sort": "2026-04-01",
+      "kind": "award"
     }
   ]
 }
