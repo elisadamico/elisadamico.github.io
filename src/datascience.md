@@ -61,11 +61,13 @@ projects:
     about: A dark RStudio theme inspired by cherry blossoms, with soft pink and green syntax highlighting and styled panes.
     url: https://github.com/elisadamico/CherryBlossom-rstheme
     link_label: View on GitHub
+    image: /assets/img/theme-cherryblossom.jpg
   - name: Holiday Cheer
     kind: RStudio theme
     about: A festive dark RStudio theme in holiday reds, greens, and gold.
     url: https://github.com/elisadamico/holiday-cheer-rstudio-theme
     link_label: View on GitHub
+    image: /assets/img/theme-holiday-cheer.jpg
 ---
 
 <div class="section"><div class="container split wide-left">
