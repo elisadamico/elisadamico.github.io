@@ -38,7 +38,7 @@ syllabi:
 *POL40950: Introduction to Statistics* (graduate level)
 
 **Guest Lecturer** (23 October 2026)<br>
-*POL10170: Foundations in Political Research* (undergraduate), “Floods, Food, and Fighting: Graphs for Three or More Variables.” Walked first-year students through my *Humanities and Social Sciences Communications* and *Environmental Research Letters* papers as example studies, then built multi-variable charts step by step. [Interactive chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [Practice materials on GitHub](https://github.com/elisadamico/graphs-three-variables) (Excel and R)
+*POL10170: Foundations in Political Research* (undergraduate), “Floods, Food, and Fighting: Graphs for Three or More Variables.” [Chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [GitHub](https://github.com/elisadamico/graphs-three-variables)
 
 **Project Supervisor**, Connected_Politics, MSc Politics and Data Science<br>
 2026–2027: *“Who Gets to Leave? Displacement after the Valencia Floods”*<br>
