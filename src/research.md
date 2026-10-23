@@ -19,7 +19,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 <h3 id="book">Book</h3>
 
 {% yearlist %}
-**D’Amico, E.** *The Climate We Don’t Count: Migration, Cities, and Hidden Instability*. Under contract, Cambridge University Press.
+**D’Amico, E.** *[The Climate We Don’t Count: Migration, Cities, and Hidden Instability](/assets/files/book-overview-climate-we-dont-count.pdf)*. Under contract, Cambridge University Press. [Book overview (PDF)](/assets/files/book-overview-climate-we-dont-count.pdf).
 {% endyearlist %}
 
 <h3>Peer-Reviewed Articles</h3>
