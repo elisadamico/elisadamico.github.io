@@ -37,6 +37,9 @@ syllabi:
 **Lecturer (Instructor of Record)** (2026)<br>
 *POL40950: Introduction to Statistics* (graduate level)
 
+**Guest Lecturer** (10 November 2026)<br>
+*POL30860: Advanced Seminar in Politics*, session on the analysis stage of a research project
+
 **Guest Lecturer** (23 October 2026)<br>
 *POL10170: Foundations in Political Research* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/)
 
