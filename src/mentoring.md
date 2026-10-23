@@ -14,7 +14,7 @@ heading: Mentoring & Supervision
 
 ### Master’s
 
-- **2026 · M.Sc. Thesis Supervisor**<br>Brayen Aliong Patty, *Peacebuilding in N. Ireland & Papua*<br>Mollie Turner, *Climate & Conflict in the Lake Chad Basin*<br>Cecilia Gimeno Veira, *Resource Violence in Latin America*<br>Samuel Šebok, *Spatial Patterns of Conflict Violence*<br>Kendra Paleczny, *EU Climate Policy Implementation*<br>University College Dublin
+- **2026 · M.Sc. Thesis Supervisor**<br>Brayen Aliong Patty, *Peacebuilding in N. Ireland & Papua*<br>Mollie Turner, *Climate & Conflict in the Lake Chad Basin*<br>Mattie Davis, *Displacement in Peace Agreements in Colombia & the DRC*<br>Cecilia Gimeno Veira, *Resource Violence in Latin America*<br>Samuel Šebok, *Spatial Patterns of Conflict Violence*<br>Kendra Paleczny, *EU Climate Policy Implementation*<br>University College Dublin
 - **2025– · M.A. Thesis Supervisor**<br>Nives Häfliger, *Rare Raw Materials Supply Chain*, University of Basel
 - **2025 · MLitt Thesis Supervisor**<br>Shreyas Rajagopal, *Global Social & Political Thought*, University of St Andrews
 
@@ -25,7 +25,7 @@ heading: Mentoring & Supervision
 
 ### Early Career and Doctoral Development
 
-- **2025– · Organizer, [SPIRe Early Career Researcher Forum](https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/)**<br>University College Dublin
+- **2026– · Organizer, [SPIRe Early Career Researcher Forum](https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/)**<br>University College Dublin
 - **2026– · Organizer, SPIRe PhD Workshop**<br>University College Dublin
 
 <p><a class="btn btn-outline" href="/teaching/">Teaching Experience</a></p>
