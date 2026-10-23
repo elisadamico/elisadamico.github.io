@@ -4,6 +4,12 @@ title: Data Science
 heading: Data Work and Experience
 # Cards at the bottom of the page. Leave url out for a card with no link.
 projects:
+  - name: Three-Variable Chart Builder
+    kind: Interactive web tool
+    about: Charts and maps of disasters, food prices, and conflict from my research, with descriptive and results views. Built for teaching data visualization.
+    url: https://www.elisadamico.net/graphs-three-variables/
+    link_label: Open the chart builder
+    image: /assets/img/chart-builder.jpg
   - name: Drivers of Fishery-Related Militarized Disputes
     kind: Shiny app
     about: A dynamic global annual map of temperature anomalies, fish stock, and fishery-related MID dyads.
@@ -136,6 +142,6 @@ Data and code for my published articles are on Harvard Dataverse.
 
 <div class="section"><div class="container">
 <div class="link-cards">
-{% for project in projects %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3><p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
+{% for project in projects %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3><p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
 {% endfor %}</div>
 </div></div>

@@ -9,6 +9,7 @@ templates:
     about: Explore disasters, food prices, and conflict from my research. Map up to three variables to a bar, line, or scatter chart, or to a world map, and switch between the descriptive data and the papers’ estimated results with 95% intervals.
     url: https://www.elisadamico.net/graphs-three-variables/
     link_label: Open the chart builder
+    image: /assets/img/chart-builder.jpg
     extra_links:
       - label: Slides
         url: https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf
@@ -57,7 +58,7 @@ These are materials I have put together for my own students and research assista
 
 <div class="section"><div class="container">
 <div class="link-cards">
-{% for t in templates %}{% if t.extra_links %}<div class="link-card"><p class="post-tag">{{ t.kind }}</p><h3><a href="{{ t.url }}">{{ t.name }}</a></h3><p>{{ t.about }}</p><p class="more"><a href="{{ t.url }}">{{ t.link_label }}</a>{% for x in t.extra_links %} · <a href="{{ x.url }}">{{ x.label }}</a>{% endfor %}</p></div>{% else %}<a class="link-card" href="{{ t.url }}"><p class="post-tag">{{ t.kind }}</p><h3>{{ t.name }}</h3><p>{{ t.about }}</p><span class="more">{{ t.link_label }}</span></a>{% endif %}
+{% for t in templates %}{% if t.extra_links %}<div class="link-card">{% if t.image %}<a href="{{ t.url }}" tabindex="-1" aria-hidden="true"><img class="card-shot" src="{{ t.image }}" alt="" loading="lazy"></a>{% endif %}<p class="post-tag">{{ t.kind }}</p><h3><a href="{{ t.url }}">{{ t.name }}</a></h3><p>{{ t.about }}</p><p class="more"><a href="{{ t.url }}">{{ t.link_label }}</a>{% for x in t.extra_links %} · <a href="{{ x.url }}">{{ x.label }}</a>{% endfor %}</p></div>{% else %}<a class="link-card" href="{{ t.url }}"><p class="post-tag">{{ t.kind }}</p><h3>{{ t.name }}</h3><p>{{ t.about }}</p><span class="more">{{ t.link_label }}</span></a>{% endif %}
 {% endfor %}</div>
 </div></div>
 
