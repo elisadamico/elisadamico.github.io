@@ -19,7 +19,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 <h3 id="book">Book</h3>
 
 {% yearlist %}
-**D’Amico, E.** *The Effects of Climate Change We Don’t Count: Migration, Cities, and Hidden Instability*. Under contract, Cambridge University Press.
+**D’Amico, E.** *The Climate We Don’t Count: Migration, Cities, and Hidden Instability*. Under contract, Cambridge University Press.
 {% endyearlist %}
 
 <h3>Peer-Reviewed Articles</h3>
@@ -47,7 +47,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 <h3>Conference Proceedings</h3>
 
 {% yearlist %}
-2024 | **D’Amico, E.**, & Peter, M. [Enhancing Conflict Mediation Research: First Steps in the Mediation and Negotiators Database (MEND)](https://doi.org/10.4995/carma2024.2024.17695). *Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)*, Valencia. Published 26 June 2024.
+2024 | **D’Amico, E.** [Enhancing Conflict Mediation Research: First Steps in the Mediation and Negotiators Database (MEND)](https://doi.org/10.4995/carma2024.2024.17695). *Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)*, Valencia. Published 26 June 2024.
 {% endyearlist %}
 
 <h3>Dissertation</h3>
@@ -59,7 +59,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 <h3 id="in-progress">Revise &amp; Resubmit</h3>
 
 {% yearlist %}
-**D’Amico, E.**, & Häfliger, N. *From Disaster to Dispute in the DRC: Climate’s Role in Resource Wars*.
+**D’Amico, E.**, & Häfliger, N. *From Disaster to Dispute in the DRC: Prize Capture, Not Resource Scarcity*.
 **D’Amico, E.**, Glaser, S., & Hendrix, C. *From Ocean Changes to Conflict: Predicting Fishery-Related Militarized Disputes in a Warming World*.
 {% endyearlist %}
 
@@ -84,7 +84,6 @@ Maboudi, T., **D’Amico, E.**, & Burge, K. *Judging the Climate: Political Ideo
 Miranda, D., Hooda, D., Paleczny, K., & **D’Amico, E.** *(NS)* *Climate Law Framing and Legislative Success in Ireland*.
 Hoepner, A., Guisande, D., & **D’Amico, E.** *Corporate Lobbying and Environmental Policy Under Crisis*.
 Liang, K., Mutoni, I., Schlittke, Z., & **D’Amico, E.** *Who Gets to Leave? Displacement after the Valencia Floods*.
-**D’Amico, E.** *The Geography of Conflict Mediation: Proximity and Success in Armed Conflict Resolutions*. [Read the interactive summary](https://tvancisin.github.io/elisa_damico/) or [watch the poster walkthrough](https://x.com/LSEMethodology/status/1914643173000753332) (LSE Methodology, PolMeth Europe 2025).
 {% endyearlist %}
 
 <h3 id="policy">Policy Engagement</h3>

@@ -12,8 +12,10 @@ description: Invited talks, lectures, workshops, and conference presentations by
 <h2 id="invited">Invited Talks and Lectures</h2>
 
 {% yearlist %}
+2026 | **Panel on Research Impact and the Academic Career**, UCD Centre for Business and Society (CeBaS) and the Accountancy Subject Area, UCD Lochlann Quinn School of Business, 10 November 2026<br>Panelist, held during Professor Charles Cho’s visit on *Accounting for Impact*
 2026 | **Guest Lecture, POL30860 Advanced Seminar in Politics**, University College Dublin, 10 November 2026<br>*The Analysis Stage*
 2026 | **Guest Lecture, POL10170 Foundations in Political Research**, University College Dublin, 23 October 2026<br>*“Floods, Food, and Fighting”* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [GitHub](https://github.com/elisadamico/graphs-three-variables)
+2026 | **[UCD Earth Institute Strategic Interdisciplinary Award Showcase](https://www.ucd.ie/earth/events/2026/1octobernewsiaprojectscoffeemorning/)**, University College Dublin, 1 October 2026<br>Presenter, *CADRE (Climate and Displacement Research Ensemble)* · [Slides](/assets/files/slides-cadre-earth-institute-2026.pdf)
 2026 | **Agentic Business AIs for Sustainability Workshop**, University College Dublin, 1 May 2026<br>Invited Speaker, *“OMG Chat GPT, Chill Claude, Decide Gemini: Agentic Business AIs for Sustainability?!?”*
 2026 | **[Connected_Politics Lab Seminar](https://www.ucd.ie/connected_politics/events/politicaleconomyofclimatefinancedisasterslobbyingandmarketresponses/)**, University College Dublin, 1 April 2026<br>Invited Speaker (with Andreas Hoepner and Diego P. Guisande), *“Political Economy of Climate Finance: Disasters, Lobbying, and Market Responses”*
 2026 | **[PeaceRep Closing Conference](https://peacerep.org/2026/03/18/time-to-make-a-change-peacerep-hosts-closing-events/)**, *Time to Make a Change: Reimagining Peace Processes in a Fragmented World*, Edinburgh Law School, University of Edinburgh, 11–12 March 2026<br>Invited Speaker, panel on Mediation Futures and PeaceTech
@@ -29,7 +31,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 2025 | **[SPIRe Early Career Researcher Forum](https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/)**, University College Dublin, 11 November 2025<br>Invited Speaker, *“Navigating the Current Academic Job Market”*
 2025 | **[SPIRe Seminar Series](https://www.ucd.ie/spire/newsandevents/spireseminarseries/)**, University College Dublin, 8 October 2025<br>Invited Talk, *“From Disaster to Dispute in the DRC: Climate’s Role in Resource Wars”*
 2024–2025 | **PGR Methods Café**, University of St Andrews, 14 February 2024 and 19 March 2025<br>Roundtable Discussant for Quantitative Methods
-2024 | **[“Anthropocene” Ringvorlesung Lecture Series](https://europa.unibas.ch/en/event/details/elisa-damico-university-of-st-andrews-anthropocene-mobilities-navigating-the-complexities-of-climate-induced-migration/)**, Institute for European Global Studies, Universität Basel, 19 November 2024<br>Invited Lecture, *“Anthropocene Mobilities: Navigating the Complexities of Climate-Induced Migration”*
+2024 | **[“Anthropocene” Ringvorlesung Lecture Series](https://europa.unibas.ch/en/event/details/elisa-damico-university-of-st-andrews-anthropocene-mobilities-navigating-the-complexities-of-climate-induced-migration/)**, Institute for European Global Studies, Universität Basel, 19 November 2024<br>Invited Lecture, *“Anthropocene Mobilities: Navigating the Complexities of Climate-Induced Migration”* · [Slides](/assets/files/slides-basel-anthropocene-mobilities.pdf)
 2024 | **Violence, Instability, and Peace (VIP) Workshop**, 25 April 2024<br>Invited workshop of a project on humanitarian-based conflict mediation after displacement shocks
 2024 | **Progress, Pitfalls, and Promises of Political Science in Migration and Citizenship Research**, 8–9 February 2024<br>Inaugural APSA Virtual Research Meeting
 2023 | **Solutions to Environmental Problems (STEP): Climate Action**<br>Invited Speaker, *“Migration-Preventative Adaptation Responses”*
@@ -47,6 +49,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 <h2 id="conferences">Conference Presentations</h2>
 
 {% yearlist %}
+2026 | **ESOC-ReCIPE Annual Meeting**, Empirical Studies of Conflict Project and CEPR ReCIPE programme, University of Chicago in Paris and Paris School of Economics, 6–7 November 2026<br>Discussant, Panel 3B (Agriculture)
 2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**, 3–6 September 2026
 2026 | **[Peace and Sustainability Working Group](https://docs.google.com/document/d/1Td7eM6OrPb3Du9LnkKucL7FrzpxlvbkkGmAT4PeEhv0/edit?usp=sharing)**, *PNAS* special issue workshop, Notre Dame Dublin, O’Connell House, 19–20 October 2026
 2026 | **[CCEW Symposium](https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details)**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
@@ -60,7 +63,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 2024 | **[CEEISA-ISA Joint International Conference](https://www.isanet.org/Conferences/ISA-Rijeka-2024)**, *Knowing the Global-Local*, Rijeka, Croatia, 18–21 June 2024
 2022– | **American Political Science Association (APSA)**, 2022, 2023, 2024 (virtual and in person), 2025 (virtual and in person), 2026
 2024– | **European Political Science Association (EPSA) & European Political Science Society (EPSS)**, 2024, 2025, 2026
-2023 | **Empirical Studies of Conflict (ESOC) Annual Meeting**
+2023, 2026 | **Empirical Studies of Conflict (ESOC) Annual Meeting**
 2018– | **International Studies Association (ISA)**, 2018, 2022, 2024, 2025, 2026
 2018–2023 | **Midwest Political Science Association (MPSA)**, Chicago, 2018, 2020, 2022, 2023
 {% endyearlist %}

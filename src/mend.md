@@ -32,7 +32,7 @@ I am the Data Manager for MEND. I run the semi-automated pipeline that detects c
 
 <a class="shot-link" href="{{ explore }}"><img class="page-shot" src="/assets/img/mend-explorer.jpg" alt="The Global PeaceHub MEND explorer, a world map with countries shaded by whether their analysis is available or pending" width="1200" height="826" loading="lazy"></a>
 
-<p class="btn-row"><a class="btn" href="{{ explore }}">Explore the data</a> <a class="btn btn-outline" href="{{ dataverse }}">Download from Harvard Dataverse</a></p>
+<p class="btn-row"><a class="btn" href="{{ explore }}">Explore the data</a> <a class="btn btn-outline" href="{{ dataverse }}">Download from Harvard Dataverse</a> <a class="btn btn-outline" href="https://dataverse.harvard.edu/api/access/datafile/13878702">Codebook (PDF)</a></p>
 
 ---
 
