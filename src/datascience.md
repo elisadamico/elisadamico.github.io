@@ -142,6 +142,6 @@ Data and code for my published articles are on Harvard Dataverse.
 
 <div class="section"><div class="container">
 <div class="link-cards">
-{% for project in projects %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3><p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
+{% for project in projects %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3>{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
 {% endfor %}</div>
 </div></div>

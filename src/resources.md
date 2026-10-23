@@ -58,7 +58,7 @@ These are materials I have put together for my own students and research assista
 
 <div class="section"><div class="container">
 <div class="link-cards">
-{% for t in templates %}{% if t.extra_links %}<div class="link-card">{% if t.image %}<a href="{{ t.url }}" tabindex="-1" aria-hidden="true"><img class="card-shot" src="{{ t.image }}" alt="" loading="lazy"></a>{% endif %}<p class="post-tag">{{ t.kind }}</p><h3><a href="{{ t.url }}">{{ t.name }}</a></h3><p>{{ t.about }}</p><p class="more"><a href="{{ t.url }}">{{ t.link_label }}</a>{% for x in t.extra_links %} · <a href="{{ x.url }}">{{ x.label }}</a>{% endfor %}</p></div>{% else %}<a class="link-card" href="{{ t.url }}"><p class="post-tag">{{ t.kind }}</p><h3>{{ t.name }}</h3><p>{{ t.about }}</p><span class="more">{{ t.link_label }}</span></a>{% endif %}
+{% for t in templates %}{% if t.extra_links %}<div class="link-card"><p class="post-tag">{{ t.kind }}</p><h3><a href="{{ t.url }}">{{ t.name }}</a></h3>{% if t.image %}<a href="{{ t.url }}" tabindex="-1" aria-hidden="true"><img class="card-shot" src="{{ t.image }}" alt="" loading="lazy"></a>{% endif %}<p>{{ t.about }}</p><p class="more"><a href="{{ t.url }}">{{ t.link_label }}</a>{% for x in t.extra_links %} · <a href="{{ x.url }}">{{ x.label }}</a>{% endfor %}</p></div>{% else %}<a class="link-card" href="{{ t.url }}"><p class="post-tag">{{ t.kind }}</p><h3>{{ t.name }}</h3><p>{{ t.about }}</p><span class="more">{{ t.link_label }}</span></a>{% endif %}
 {% endfor %}</div>
 </div></div>
 
