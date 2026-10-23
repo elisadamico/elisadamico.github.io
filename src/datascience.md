@@ -70,14 +70,6 @@ projects:
     link_label: View on GitHub
 ---
 
-<div class="page-title"><h2>Tools and Apps</h2></div>
-
-<div class="section"><div class="container">
-<div class="link-cards two-up">
-{% for project in projects %}{% if project.image %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3>{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
-{% endif %}{% endfor %}</div>
-</div></div>
-
 <div class="section"><div class="container split wide-left">
 <div class="prose"><div class="plain-heads">
 
@@ -97,16 +89,16 @@ projects:
 
 <h3>Ad Hoc Projects</h3>
 
-{% yearlist %}
-Created Stata templates for causation and quasi-experimental graduate-level projects.
-Used Python console to import, polygonize, spatially merge, and export data in QGIS.
-Used R to scrape, code, and semi-automate text analysis from peace agreement documents.
-Used R and APIs to query Chicago crime and census data and geospatially merge.
-Used SQL BigQuery on a number of conflict-related projects to extract data.
-Developed an interactive infographic mapping climate disasters and migration patterns over time.
-Created quizzes in Qualtrics for complex grading schemes.
-Used Excel VBA and Stata to merge large climate law and litigation data.
-{% endyearlist %}
+<ul class="compact-list">
+<li>Stata templates for causal and quasi-experimental projects</li>
+<li>Spatial merging in QGIS with the Python console</li>
+<li>R scraping and text analysis of peace agreements</li>
+<li>Chicago crime and census data via R and APIs</li>
+<li>SQL BigQuery extraction for conflict projects</li>
+<li>Interactive map of climate disasters and migration</li>
+<li>Qualtrics quizzes with complex grading schemes</li>
+<li>Merging climate law data with Excel VBA and Stata</li>
+</ul>
 
 </div></div>
 <div class="prose"><div class="plain-heads">
@@ -150,9 +142,10 @@ Data and code for my published articles are on Harvard Dataverse.
 
 </div></div>
 
-<div class="page-title"><h2>Code and Data Guides</h2></div>
+<div class="page-title"><h2>Selected Projects and Tools</h2></div>
 
 <div class="section"><div class="container">
-<div class="link-cards">
-{% for project in projects %}{% if not project.image %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3>{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
-{% endif %}{% endfor %}</div>
+<div class="link-cards four-up">
+{% for project in projects %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3>{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
+{% endfor %}</div>
+</div></div>

@@ -421,7 +421,9 @@ main a.btn-outline:hover { color: #0a0a0a; }
 
 .post-grid,
 .link-cards { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
-.link-cards.two-up { grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); }
+.link-cards.four-up { grid-template-columns: repeat(4, 1fr); }
+@media (max-width: 1000px) { .link-cards.four-up { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 600px) { .link-cards.four-up { grid-template-columns: 1fr; } }
 
 .post-card { display: flex; flex-direction: column; background: var(--surface-raised); border: 1px solid var(--rule); }
 .post-thumb { display: block; aspect-ratio: 16 / 10; overflow: hidden; background: #1c1b1a; }
@@ -621,3 +623,6 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 /* Linked screenshot of an external tool, inside page prose. */
 .prose .page-shot { width: 100%; border-radius: 8px; border: 1px solid var(--rule); margin: 0.5rem 0 1rem; transition: border-color 0.15s ease; }
 .prose a.shot-link:hover .page-shot { border-color: var(--accent); }
+.compact-list { margin: 0.4rem 0 0; padding-left: 1.1rem; }
+.compact-list li { margin: 0 0 0.25rem; line-height: 1.45; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+@media (max-width: 700px) { .compact-list li { white-space: normal; } }
