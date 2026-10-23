@@ -9,7 +9,6 @@ templates:
     about: Explore disasters, food prices, and conflict from my research. Map up to three variables to a bar, line, or scatter chart, or to a world map, and switch between the descriptive data and the papers’ estimated results with 95% intervals.
     url: https://www.elisadamico.net/graphs-three-variables/
     link_label: Open the chart builder
-    image: /assets/img/chart-builder.jpg
     extra_links:
       - label: Slides
         url: https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf
