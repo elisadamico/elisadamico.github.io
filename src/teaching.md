@@ -35,7 +35,7 @@ syllabi:
 ### 2025–2027 – University College Dublin, School of Politics and International Relations
 
 **Lecturer (Instructor of Record)** (2026)<br>
-*POL40950: Introduction to Statistics* (graduate level)
+*[POL40950: Introduction to Statistics](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=POL40950)* (graduate level)
 
 **Guest Lecturer** (10 November 2026)<br>
 *POL30860: Advanced Seminar in Politics*, session on the analysis stage of a research project
