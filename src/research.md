@@ -47,7 +47,7 @@ Climate-Conflict Nexus, International Political Economy, Development, Climate Po
 <h3>Conference Proceedings</h3>
 
 {% yearlist %}
-2024 | **D’Amico, E.** [Enhancing Conflict Mediation Research: First Steps in the Mediation and Negotiators Database (MEND)](https://doi.org/10.4995/carma2024.2024.17695). *Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)*, Valencia. Published 26 June 2024.
+2024 | **D’Amico, E.** [Enhancing Conflict Mediation Research: Introducing the Innovative Global Peace Actors Database (GLO-PAD)](https://doi.org/10.4995/carma2024.2024.17695). *Proceedings of the 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024)*, Valencia. Published 26 June 2024.
 {% endyearlist %}
 
 <h3 id="in-progress">Revise &amp; Resubmit</h3>
