@@ -45,7 +45,7 @@ syllabi:
 
 **Project Supervisor**, Connected_Politics, MSc Politics and Data Science<br>
 2026–2027: *“Who Gets to Leave? Displacement after the Valencia Floods”*<br>
-2025–2026: *“Climate Law Framing and Legislative Success in Ireland”*
+2025–2026: *“Climate Law Framing and Legislative Success in Ireland”* · [Blog](https://www.ucd.ie/connected_politics/blog/implementationoverurgencywhat2170parliamentaryspeechesrevealaboutclimatelawinireland/)
 
 **Module Supervisor** (2027)<br>
 *Politics of Climate Change: Political Theory, Political Ecology, and Praxis* (Ciaran O’Brien)
