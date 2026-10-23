@@ -421,9 +421,7 @@ main a.btn-outline:hover { color: #0a0a0a; }
 
 .post-grid,
 .link-cards { display: grid; gap: 1.5rem; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); }
-.link-cards.four-up { grid-template-columns: repeat(4, 1fr); }
-@media (max-width: 1000px) { .link-cards.four-up { grid-template-columns: repeat(2, 1fr); } }
-@media (max-width: 600px) { .link-cards.four-up { grid-template-columns: 1fr; } }
+.link-cards.four-up { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
 
 .post-card { display: flex; flex-direction: column; background: var(--surface-raised); border: 1px solid var(--rule); }
 .post-thumb { display: block; aspect-ratio: 16 / 10; overflow: hidden; background: #1c1b1a; }
