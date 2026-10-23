@@ -41,7 +41,7 @@ syllabi:
 *POL30860: Advanced Seminar in Politics*, session on the analysis stage of a research project
 
 **Guest Lecturer** (23 October 2026)<br>
-*POL10170: Foundations in Political Research* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/)
+*POL10170: Foundations in Political Research* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [GitHub](https://github.com/elisadamico/graphs-three-variables)
 
 **Project Supervisor**, Connected_Politics, MSc Politics and Data Science<br>
 2026–2027: *“Who Gets to Leave? Displacement after the Valencia Floods”*<br>

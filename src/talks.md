@@ -13,7 +13,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 
 {% yearlist %}
 2026 | **Guest Lecture, POL30860 Advanced Seminar in Politics**, University College Dublin, 10 November 2026<br>*The Analysis Stage*
-2026 | **Guest Lecture, POL10170 Foundations in Political Research**, University College Dublin, 23 October 2026<br>*“Floods, Food, and Fighting”* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/)
+2026 | **Guest Lecture, POL10170 Foundations in Political Research**, University College Dublin, 23 October 2026<br>*“Floods, Food, and Fighting”* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [GitHub](https://github.com/elisadamico/graphs-three-variables)
 2026 | **Agentic Business AIs for Sustainability Workshop**, University College Dublin, 1 May 2026<br>Invited Speaker, *“OMG Chat GPT, Chill Claude, Decide Gemini: Agentic Business AIs for Sustainability?!?”*
 2026 | **[Connected_Politics Lab Seminar](https://www.ucd.ie/connected_politics/events/politicaleconomyofclimatefinancedisasterslobbyingandmarketresponses/)**, University College Dublin, 1 April 2026<br>Invited Speaker (with Andreas Hoepner and Diego P. Guisande), *“Political Economy of Climate Finance: Disasters, Lobbying, and Market Responses”*
 2026 | **[PeaceRep Closing Conference](https://peacerep.org/2026/03/18/time-to-make-a-change-peacerep-hosts-closing-events/)**, *Time to Make a Change: Reimagining Peace Processes in a Fragmented World*, Edinburgh Law School, University of Edinburgh, 11–12 March 2026<br>Invited Speaker, panel on Mediation Futures and PeaceTech

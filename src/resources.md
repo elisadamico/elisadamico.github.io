@@ -9,6 +9,11 @@ templates:
     about: Pick a dataset of disasters, food prices, and conflict, choose a bar, line, or scatter chart, and map up to three variables to the x-axis, y-axis, and colour. Built for a first-year guest lecture, with Excel and R practice files alongside.
     url: https://www.elisadamico.net/graphs-three-variables/
     link_label: Open the chart builder
+    extra_links:
+      - label: Slides
+        url: https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf
+      - label: GitHub
+        url: https://github.com/elisadamico/graphs-three-variables
   - name: Difference-in-Differences Project Template
     kind: R template
     about: Sample code and data from my master’s course at the University of Basel, where students built difference-in-differences analyses around their own research questions. A good starting point for a first DID project.
@@ -52,7 +57,7 @@ These are materials I have put together for my own students and research assista
 
 <div class="section"><div class="container">
 <div class="link-cards">
-{% for t in templates %}<a class="link-card" href="{{ t.url }}"><p class="post-tag">{{ t.kind }}</p><h3>{{ t.name }}</h3><p>{{ t.about }}</p><span class="more">{{ t.link_label }}</span></a>
+{% for t in templates %}{% if t.extra_links %}<div class="link-card"><p class="post-tag">{{ t.kind }}</p><h3><a href="{{ t.url }}">{{ t.name }}</a></h3><p>{{ t.about }}</p><ul><li><a href="{{ t.url }}">{{ t.link_label }}</a></li>{% for x in t.extra_links %}<li><a href="{{ x.url }}">{{ x.label }}</a></li>{% endfor %}</ul></div>{% else %}<a class="link-card" href="{{ t.url }}"><p class="post-tag">{{ t.kind }}</p><h3>{{ t.name }}</h3><p>{{ t.about }}</p><span class="more">{{ t.link_label }}</span></a>{% endif %}
 {% endfor %}</div>
 </div></div>
 
