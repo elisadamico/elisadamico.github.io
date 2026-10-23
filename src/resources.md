@@ -4,6 +4,11 @@ title: Student Resources
 heading: Student Resources
 description: Code templates, data guides, and tools for students working with quantitative and spatial data.
 templates:
+  - name: Three-Variable Chart Builder
+    kind: Interactive tool
+    about: Pick a dataset of disasters, food prices, and conflict, choose a bar, line, or scatter chart, and map up to three variables to the x-axis, y-axis, and colour. Built for a first-year guest lecture, with Excel and R practice files alongside.
+    url: https://www.elisadamico.net/graphs-three-variables/
+    link_label: Open the chart builder
   - name: Difference-in-Differences Project Template
     kind: R template
     about: Sample code and data from my master’s course at the University of Basel, where students built difference-in-differences analyses around their own research questions. A good starting point for a first DID project.
