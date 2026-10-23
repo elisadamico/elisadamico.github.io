@@ -70,6 +70,14 @@ projects:
     link_label: View on GitHub
 ---
 
+<div class="page-title"><h2>Tools and Apps</h2></div>
+
+<div class="section"><div class="container">
+<div class="link-cards two-up">
+{% for project in projects %}{% if project.image %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3>{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
+{% endif %}{% endfor %}</div>
+</div></div>
+
 <div class="section"><div class="container split wide-left">
 <div class="prose"><div class="plain-heads">
 
@@ -133,7 +141,8 @@ Data and code for my published articles are on Harvard Dataverse.
 {% yearlist %}
 2026 | [Regional El Niño Patterns Shape Wheat-Flour Price Responses to Climate Disasters](https://doi.org/10.7910/DVN/4QHFA1). Replication data for my article in *Environmental Research Letters*.
 2026 | [The Price of Instability: Hydrological Disasters, Food Prices, and Violent Conflict](https://doi.org/10.7910/DVN/917DMH). Replication data for my article in *Humanities and Social Sciences Communications*.
-2026 | [Difference-in-Differences Estimation: A Quasi-Experimental Approach to Sustainable Development Interventions](https://doi.org/10.7910/DVN/FGCPNU). Replication data for my forthcoming article in *Global Environmental Politics*.
+2026 | [Difference-in-Differences Estimation: A Quasi-Experimental Approach to Sustainable Development Interventions](https://doi.org/10.7910/DVN/FGCPNU). Replication data for my article in *Global Environmental Politics*.
+2025 | [Private Goods for Peace: Economic Provisions of Peace Agreements and the Durability of Peace](https://doi.org/10.7910/DVN/I4NXPL). Replication data for my article with S. Sosa and M. Melin in the *Journal of Peace Research*.
 2025 | [Timing Matters: Analyzing Climate Policies and Adaptive Resilience](https://doi.org/10.7910/DVN/JYHGTF). Replication data for my article with T. Maboudi in *Climate Policy*.
 2025 | [Resilient by Design: Isolating Impactful Climate Adaptation Measures in New England](https://doi.org/10.7910/DVN/GBWZEC). Replication data for my article in *npj Climate Action*.
 2025 | [From Garments to Grievances: The Dynamics of Urban Growth and Economic Shocks in Rapidly Industrializing Economies](https://doi.org/10.7910/DVN/XE1MQE). Replication data for my article in the *Review of International Political Economy*.
@@ -141,10 +150,9 @@ Data and code for my published articles are on Harvard Dataverse.
 
 </div></div>
 
-<div class="page-title"><h2>Selected Projects and Tools</h2></div>
+<div class="page-title"><h2>Code and Data Guides</h2></div>
 
 <div class="section"><div class="container">
 <div class="link-cards">
-{% for project in projects %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3>{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
-{% endfor %}</div>
-</div></div>
+{% for project in projects %}{% if not project.image %}{% if project.url %}<a class="link-card" href="{{ project.url }}">{% else %}<div class="link-card">{% endif %}<p class="post-tag">{{ project.kind }}</p><h3>{{ project.name }}</h3>{% if project.image %}<img class="card-shot" src="{{ project.image }}" alt="" loading="lazy">{% endif %}<p>{{ project.about }}</p>{% if project.url %}<span class="more">{{ project.link_label }}</span></a>{% else %}</div>{% endif %}
+{% endif %}{% endfor %}</div>
