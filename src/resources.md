@@ -6,7 +6,7 @@ description: Code templates, data guides, and tools for students working with qu
 templates:
   - name: Three-Variable Chart Builder
     kind: Interactive tool
-    about: Pick a dataset of disasters, food prices, and conflict, choose a bar, line, or scatter chart, and map up to three variables to the x-axis, y-axis, and colour. Built for a first-year guest lecture, with Excel and R practice files alongside.
+    about: Explore disasters, food prices, and conflict from my research. Map up to three variables to a bar, line, or scatter chart, or to a world map, and switch between the descriptive data and the papers’ estimated results with 95% intervals.
     url: https://www.elisadamico.net/graphs-three-variables/
     link_label: Open the chart builder
     extra_links:
