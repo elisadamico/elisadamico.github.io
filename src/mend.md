@@ -30,6 +30,8 @@ Each record is a single event, with details on where it took place and which thi
 
 I am the Data Manager for MEND. I run the semi-automated pipeline that detects candidate mediation events in news sources and prepares them for coding, and I maintain the database behind it.
 
+<a class="shot-link" href="{{ explore }}"><img class="page-shot" src="/assets/img/mend-explorer.jpg" alt="The Global PeaceHub MEND explorer, a world map with countries shaded by whether their analysis is available or pending" width="1200" height="826" loading="lazy"></a>
+
 <p class="btn-row"><a class="btn" href="{{ explore }}">Explore the data</a> <a class="btn btn-outline" href="{{ dataverse }}">Download from Harvard Dataverse</a></p>
 
 ---

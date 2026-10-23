@@ -616,3 +616,7 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 
 /* Screenshot at the top of a link card. */
 .link-card .card-shot { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; object-position: top center; border-radius: 6px; margin-bottom: 0.9rem; border: 1px solid var(--rule); }
+
+/* Linked screenshot of an external tool, inside page prose. */
+.prose .page-shot { width: 100%; border-radius: 8px; border: 1px solid var(--rule); margin: 0.5rem 0 1rem; transition: border-color 0.15s ease; }
+.prose a.shot-link:hover .page-shot { border-color: var(--accent); }
