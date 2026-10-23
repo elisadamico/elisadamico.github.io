@@ -441,6 +441,15 @@
       "link_label": "See my grants",
       "sort": "2026-09-01",
       "kind": "award"
+    },
+    {
+      "date": "23 October 2026",
+      "title": "Guest lecture: *Floods, Food, and Fighting*",
+      "text": "A guest lecture for UCD’s first-year POL10170 on graphing three or more variables, using my climate, food price, and conflict research. Slides and Excel and R practice materials are on GitHub.",
+      "url": "https://github.com/elisadamico/graphs-three-variables",
+      "link_label": "See the materials on GitHub",
+      "sort": "2026-10-23",
+      "kind": "event"
     }
   ]
 }
