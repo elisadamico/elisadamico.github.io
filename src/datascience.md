@@ -15,6 +15,7 @@ projects:
     about: A dynamic global annual map of temperature anomalies, fish stock, and fishery-related MID dyads.
     url: https://elisadamico.shinyapps.io/FishyMIDsApp/
     link_label: Open the app
+    image: /assets/img/fishy-mids-app.jpg
   - name: Climate Data Central
     kind: Data resource
     about: A repository to centralize and preserve climate data resources.
