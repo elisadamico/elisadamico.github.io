@@ -37,6 +37,7 @@ meetings:
   - date: October 21, 2026
     theme: Finding & Working with Mentors
     detail: Navigating mentorship at different career stages
+    done: true
   - date: November 18, 2026
     theme: Revise & Resubmit
     detail: Strategies for handling R&Rs effectively
