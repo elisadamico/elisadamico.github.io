@@ -450,6 +450,24 @@
       "link_label": "Try the chart builder",
       "sort": "2026-10-23",
       "kind": "event"
+    },
+    {
+      "date": "10 November 2026",
+      "title": "Guest lecture: *The Analysis Stage*",
+      "text": "A guest session for UCD’s Advanced Seminar in Politics, with a difference-in-differences lab in R that runs in the browser.",
+      "url": "https://www.elisadamico.net/analysis-stage-lab/",
+      "link_label": "Open the lab",
+      "sort": "2026-11-10",
+      "kind": "event"
+    },
+    {
+      "date": "7 November 2026",
+      "title": "Presenting at the ESOC-ReCIPE Annual Meeting",
+      "text": "In Paris, I presented joint work with Nives Häfliger (Universität Basel) on water shocks and conflict in the DRC, and was a discussant on the agriculture panel.",
+      "url": "https://drive.google.com/drive/folders/14nMAJSL1zxls4XT6m7jvSObWnC7WbUEw",
+      "link_label": "See the program",
+      "sort": "2026-11-07",
+      "kind": "event"
     }
   ]
 }
