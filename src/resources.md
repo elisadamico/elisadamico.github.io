@@ -14,6 +14,14 @@ templates:
         url: https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf
       - label: GitHub
         url: https://github.com/elisadamico/graphs-three-variables
+  - name: "The Analysis Stage: A Difference-in-Differences Lab"
+    kind: Interactive lab
+    about: Reproduce a published Callaway and Sant’Anna difference-in-differences result on hydropower dams and conflict, build the treatment variable from dam data with dplyr, then make your own analysis choices, all in R running in the browser with nothing to install.
+    url: https://www.elisadamico.net/analysis-stage-lab/
+    link_label: Open the lab
+    extra_links:
+      - label: GitHub
+        url: https://github.com/elisadamico/analysis-stage-lab
   - name: Difference-in-Differences Project Template
     kind: R template
     about: Sample code and data from my master’s course at the University of Basel, where students built difference-in-differences analyses around their own research questions. A good starting point for a first DID project.

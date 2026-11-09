@@ -38,7 +38,7 @@ syllabi:
 *[POL40950: Introduction to Statistics](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=POL40950)* (graduate level)
 
 **Guest Lecturer** (10 November 2026)<br>
-*POL30860: Advanced Seminar in Politics*, session on the analysis stage of a research project
+*POL30860: Advanced Seminar in Politics*, session on the analysis stage of a research project · [Browser lab](https://www.elisadamico.net/analysis-stage-lab/) · [GitHub](https://github.com/elisadamico/analysis-stage-lab)
 
 **Guest Lecturer** (23 October 2026)<br>
 *POL10170: Foundations in Political Research* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [GitHub](https://github.com/elisadamico/graphs-three-variables)
