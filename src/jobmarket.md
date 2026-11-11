@@ -36,8 +36,11 @@ templates:
 </div>
 
 <div class="prose" style="margin-top:2.5rem">
-<h2 class="no-caps">Session Recordings and Slides</h2>
-<p>The <a href="/wicip/">WICIP Network</a> holds monthly sessions on professional development, including navigating the job market, publishing strategy, turning a dissertation into articles, co-authoring, international academic life, and building a research agenda. Recordings and slides from past sessions are collected on the WICIP Notion page.</p>
-<p><a class="btn" href="{{ wicip_notion }}">Open the WICIP Notion page</a></p>
+<h2 class="no-caps">Talks on the Job Market</h2>
+<p>The <a href="/wicip/">WICIP Network</a> holds monthly sessions on professional development. Each talk is in the <a href="/wicip/sessions/">WICIP Session Library</a> with slides, key takeaways, and a transcript. These are the ones most useful for the job market.</p>
+<ul class="jm-sessions">
+{% for slug in ["job-market", "research-agenda", "publishing-strategy", "dissertation-to-publication", "international-academic-life", "mentors", "online-presence"] %}{% for x in wicipSessions %}{% if x.slug == slug %}<li><a href="/wicip/sessions/{{ x.slug }}/">{{ x.theme }}</a> <span class="lib-speakers">· {{ x.date }}</span><br>{{ x.summary }}</li>
+{% endif %}{% endfor %}{% endfor %}</ul>
+<p class="btn-row"><a class="btn" href="/wicip/sessions/">Open the session library</a> <a class="btn btn-outline" href="/wicip/advice/">Browse the advice by topic</a></p>
 </div>
 </div></div>
