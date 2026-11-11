@@ -49,7 +49,7 @@ Harvard Law School, University of Oxford (Lady Margaret Hall and Campion Hall), 
 <h2 id="conferences">Conference Presentations</h2>
 
 {% yearlist %}
-2026 | **[ESOC-ReCIPE Annual Meeting](https://drive.google.com/drive/folders/14nMAJSL1zxls4XT6m7jvSObWnC7WbUEw)**, Empirical Studies of Conflict Project and CEPR ReCIPE programme, University of Chicago in Paris and Paris School of Economics, 6–7 November 2026<br>Discussant, Panel 3B (Agriculture)
+2026 | **[ESOC-ReCIPE Annual Meeting](https://drive.google.com/drive/folders/14nMAJSL1zxls4XT6m7jvSObWnC7WbUEw)**, Empirical Studies of Conflict Project and CEPR ReCIPE programme, University of Chicago in Paris and Paris School of Economics, 6–7 November 2026<br>Presenter and discussant, Panel 3B (Agriculture)
 2026 | **[American Political Science Association (APSA) Annual Meeting](https://connect.apsanet.org/apsa2026/)**, 3–6 September 2026
 2026 | **[Peace and Sustainability Working Group](https://docs.google.com/document/d/1Td7eM6OrPb3Du9LnkKucL7FrzpxlvbkkGmAT4PeEhv0/edit?usp=sharing)**, *PNAS* special issue workshop, Notre Dame Dublin, O’Connell House, 19–20 October 2026
 2026 | **[CCEW Symposium](https://www.unibw.de/ciss-en/ccew/events/ccew-symposium-2026/details)**, *Conflict Early Warning in Times of Power Competition: Limits and Challenges*, Center for Crisis Early Warning (KompZ KFE), Universität der Bundeswehr München, Berlin, 13–14 October 2026
