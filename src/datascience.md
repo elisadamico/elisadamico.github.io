@@ -10,6 +10,12 @@ projects:
     url: https://www.elisadamico.net/graphs-three-variables/
     link_label: Open the chart builder
     image: /assets/img/chart-builder.jpg
+  - name: The Analysis Stage
+    kind: Interactive R lab
+    about: Reproduce a published difference-in-differences result on dams and conflict, in R that runs in the browser.
+    url: https://www.elisadamico.net/analysis-stage-lab/
+    link_label: Open the lab
+    image: /assets/img/analysis-stage-lab.jpg
   - name: Drivers of Fishery-Related Militarized Disputes
     kind: R Shiny app
     about: Global annual map of temperature anomalies, fish stocks, and fishery MIDs.
