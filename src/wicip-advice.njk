@@ -4,6 +4,7 @@ title: WICIP Advice Index
 heading: Advice Index
 description: Every takeaway from the WICIP Network's professional development sessions, sorted by topic.
 permalink: /wicip/advice/
+ogImage: /assets/img/og/wicip-advice.jpg
 ---
 {% set allTags = [] %}{% for s in wicipSessions %}{% for t in s.tags %}{% if t not in allTags %}{% set allTags = (allTags.push(t), allTags) %}{% endif %}{% endfor %}{% endfor %}
 <div class="section"><div class="container narrow prose">

@@ -4,6 +4,7 @@ title: WICIP Session Library
 heading: WICIP Session Library
 description: Recordings, slides, key takeaways, and transcripts from the WICIP Network's monthly professional development sessions.
 permalink: /wicip/sessions/
+ogImage: /assets/img/og/wicip-library.jpg
 ---
 {% set allTags = [] %}{% for s in wicipSessions %}{% for t in s.tags %}{% if t not in allTags %}{% set allTags = (allTags.push(t), allTags) %}{% endif %}{% endfor %}{% endfor %}
 <div class="section"><div class="container">
