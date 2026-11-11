@@ -27,6 +27,7 @@ heading: Mentoring & Supervision
 
 - **2026– · Organizer, [SPIRe Early Career Researcher Forum](https://www.ucd.ie/spire/newsandevents/spireearlycareerresearcherforum/)**<br>University College Dublin
 - **2026– · Organizer, SPIRe PhD Workshop**<br>University College Dublin
+- **2026– · Founder, [WICIP Network](/wicip/)**<br>Monthly professional development sessions for women in comparative and international politics. The talks, with slides and key takeaways, are in the [WICIP Session Library](/wicip/sessions/)
 
 <p><a class="btn btn-outline" href="/teaching/">Teaching Experience</a></p>
 

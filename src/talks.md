@@ -13,7 +13,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 
 {% yearlist %}
 2026 | **Panel on Research Impact and the Academic Career**, UCD Centre for Business and Society (CeBaS) and the Accountancy Subject Area, UCD Lochlann Quinn School of Business, 10 November 2026<br>Panelist, held during Professor Charles Cho’s visit on *Accounting for Impact*
-2026 | **Guest Lecture, POL30860 Advanced Seminar in Politics**, University College Dublin, 10 November 2026<br>*The Analysis Stage*
+2026 | **Guest Lecture, POL30860 Advanced Seminar in Politics**, University College Dublin, 11 November 2026<br>*The Analysis Stage*
 2026 | **Guest Lecture, POL10170 Foundations in Political Research**, University College Dublin, 23 October 2026<br>*“Floods, Food, and Fighting”* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [GitHub](https://github.com/elisadamico/graphs-three-variables)
 2026 | **[UCD Earth Institute Strategic Interdisciplinary Award Showcase](https://www.ucd.ie/earth/events/2026/1octobernewsiaprojectscoffeemorning/)**, University College Dublin, 1 October 2026<br>Presenter, *CADRE (Climate and Displacement Research Ensemble)* · [Slides](/assets/files/slides-cadre-earth-institute-2026.pdf)
 2026 | **Agentic Business AIs for Sustainability Workshop**, University College Dublin, 1 May 2026<br>Invited Speaker, *“OMG Chat GPT, Chill Claude, Decide Gemini: Agentic Business AIs for Sustainability?!?”*

@@ -452,12 +452,12 @@
       "kind": "event"
     },
     {
-      "date": "10 November 2026",
+      "date": "11 November 2026",
       "title": "Guest lecture: *The Analysis Stage*",
       "text": "A guest session for UCD’s Advanced Seminar in Politics, with a difference-in-differences lab in R that runs in the browser.",
       "url": "https://www.elisadamico.net/analysis-stage-lab/",
       "link_label": "Open the lab",
-      "sort": "2026-11-10",
+      "sort": "2026-11-11",
       "kind": "event"
     },
     {
@@ -467,6 +467,15 @@
       "url": "https://drive.google.com/drive/folders/14nMAJSL1zxls4XT6m7jvSObWnC7WbUEw",
       "link_label": "See the program",
       "sort": "2026-11-07",
+      "kind": "event"
+    },
+    {
+      "date": "11 November 2026",
+      "title": "WICIP Session Library",
+      "text": "Videos, slides, and key takeaways from eight WICIP Network sessions on the job market, publishing, research agendas, mentorship, and more.",
+      "url": "https://www.elisadamico.net/wicip/sessions/",
+      "link_label": "Browse the sessions",
+      "sort": "2026-11-11",
       "kind": "event"
     }
   ]
