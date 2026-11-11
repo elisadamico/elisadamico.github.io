@@ -1,0 +1,454 @@
+[
+  {
+    "slug": "online-presence",
+    "theme": "Building Your Online Academic Presence",
+    "date": "18 February 2026",
+    "sort": "2026-02-18",
+    "speakers": [
+      "Katie Nutley",
+      "Elisa D’Amico",
+      "Kasia Houghton"
+    ],
+    "summary": "How to build a professional presence online, from LinkedIn and Bluesky to Google Scholar, ORCID, and a personal website.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/online-presence.pdf",
+    "tags": [
+      "Data and code",
+      "Networking",
+      "Online presence"
+    ],
+    "takeaways": [
+      {
+        "tag": "Online presence",
+        "text": "Treat LinkedIn as a living CV. A professional headshot, a headline with your affiliation and subfield, and your publications and events make you easy to find."
+      },
+      {
+        "tag": "Online presence",
+        "text": "Post about conferences, talks, and papers even when it feels like shouting into the void. It builds a searchable record and shows you are active."
+      },
+      {
+        "tag": "Networking",
+        "text": "Use LinkedIn and Bluesky to connect with peers at your own career stage. Email senior scholars directly, and do not court a hiring committee on LinkedIn after you apply."
+      },
+      {
+        "tag": "Online presence",
+        "text": "Bluesky is where much informal academic conversation now happens. Use a recognizable handle and a short bio with your affiliation, and join the feeds and starter packs for your subfield."
+      },
+      {
+        "tag": "Online presence",
+        "text": "Claim your Google Scholar profile and ORCID iD early, before you have many publications. Both link to everything else and start tracking your work."
+      },
+      {
+        "tag": "Online presence",
+        "text": "Write one short, strong bio and reuse it everywhere, from journal pages to your university profile."
+      },
+      {
+        "tag": "Data and code",
+        "text": "Deposit datasets on Harvard Dataverse so each one gets its own DOI, and keep your GitHub tidy."
+      },
+      {
+        "tag": "Online presence",
+        "text": "A personal website gathers academic, policy, and media work in one place you control. Wix and WordPress need no coding, a GitHub site is free, and a domain costs about $10 a year."
+      }
+    ]
+  },
+  {
+    "slug": "publishing-strategy",
+    "theme": "Publishing Strategy",
+    "date": "15 April 2026",
+    "sort": "2026-04-15",
+    "speakers": [
+      "Elisa D’Amico",
+      "Kasia Houghton"
+    ],
+    "summary": "Where to aim your work and how the submission process runs, for articles, books, and policy writing.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/publishing-strategy.pdf",
+    "tags": [
+      "Books",
+      "Job market",
+      "Policy writing",
+      "Publishing"
+    ],
+    "takeaways": [
+      {
+        "tag": "Publishing",
+        "text": "Check journal rankings on SCImago, which updates every year and weighs recent performance. A journal can be Q1 in one subject category and Q2 in another."
+      },
+      {
+        "tag": "Publishing",
+        "text": "In US political science, the discipline’s general journals carry the most weight and interdisciplinary venues often need explaining. Outside the US, interdisciplinary work is more readily accepted."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Strong subfield journals such as the *Journal of Peace Research* and *Global Environmental Politics* are highly respected and more open to excellent qualitative work."
+      },
+      {
+        "tag": "Job market",
+        "text": "Heading to the job market, aim mostly for Q1 and Q2 journals and try to place at least one piece in a widely read general journal. A strong R&R counts."
+      },
+      {
+        "tag": "Books",
+        "text": "One book chapter is plenty early on. If you are offered an Oxford Handbook chapter, take it."
+      },
+      {
+        "tag": "Policy writing",
+        "text": "A few policy pieces, blogs, or reports strengthen a CV, especially ones you are paid or funded to write. Keep them from crowding out research."
+      },
+      {
+        "tag": "Publishing",
+        "text": "At submission, formatting only needs to be consistent. Write a cover letter, anonymize the paper, and pick a corresponding author whose institution has a good open-access agreement."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Desk rejections are normal and usually fast. After about three months under review, it is fine to ask the editor for an update."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Respond to reviews either point by point or by theme, and open the memo with a short note to the editor on the main changes."
+      }
+    ]
+  },
+  {
+    "slug": "job-market",
+    "theme": "Navigating the Job Market",
+    "date": "20 May 2026",
+    "sort": "2026-05-20",
+    "speakers": [
+      "Elisa D’Amico"
+    ],
+    "summary": "Every piece of an academic application, how to time the market in North America and Europe, and routes outside academia.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/job-market.pdf",
+    "tags": [
+      "Careers beyond academia",
+      "Job market",
+      "Research agenda",
+      "Teaching"
+    ],
+    "takeaways": [
+      {
+        "tag": "Job market",
+        "text": "Your cover letter should introduce a scholar with a coherent agenda, not list everything you did in the PhD. Keep a general version that is true to you, and avoid over-tailoring."
+      },
+      {
+        "tag": "Job market",
+        "text": "Open the letter with your job market paper and dissertation, then cover your pipeline, research and data skills, teaching, service, and policy work."
+      },
+      {
+        "tag": "Job market",
+        "text": "On the CV, put publications right after your current position, including work under review and working papers, so the pipeline is visible."
+      },
+      {
+        "tag": "Research agenda",
+        "text": "The research statement builds on the cover letter in about two pages and covers what you have done, what is in progress, and where the agenda goes next."
+      },
+      {
+        "tag": "Teaching",
+        "text": "Send a teaching portfolio whenever extra materials are allowed, since few candidates outside North America do. Include syllabi for courses you would like to teach."
+      },
+      {
+        "tag": "Job market",
+        "text": "Ask letter writers for a few general letters stored on Interfolio, so you can apply widely without asking them every time."
+      },
+      {
+        "tag": "Job market",
+        "text": "Start on your materials the summer before your final year. US postings begin in August, while the UK and much of Europe hire all year. Track every application in one place."
+      },
+      {
+        "tag": "Job market",
+        "text": "Prepare a short job talk of about 15 minutes, common in Europe, and a long one for North America. In questions, take your time. You are the expert on your own work."
+      },
+      {
+        "tag": "Job market",
+        "text": "Keep your materials in Overleaf with fields for the university and post, so tailoring a letter takes minutes."
+      },
+      {
+        "tag": "Careers beyond academia",
+        "text": "PhDs who leave academia often go into data science, research organizations, conflict data projects, government statistics, climate work, the UN, think tanks, and NGOs."
+      }
+    ]
+  },
+  {
+    "slug": "co-authoring",
+    "theme": "Co-authoring & Collaboration",
+    "date": "17 June 2026",
+    "sort": "2026-06-17",
+    "speakers": [
+      "Elisa D’Amico"
+    ],
+    "summary": "Finding co-authors, how authorship usually develops from research assistant to lead author, and how to keep a collaboration running.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/co-authoring.pdf",
+    "tags": [
+      "Collaboration",
+      "Networking"
+    ],
+    "takeaways": [
+      {
+        "tag": "Collaboration",
+        "text": "Before the job market, get at least one solid solo paper, usually from the dissertation, under review. Co-authoring helps you learn early on and adds publications later."
+      },
+      {
+        "tag": "Collaboration",
+        "text": "Junior faculty are often the best co-authors at the start. They know the current journals and remember learning to write a paper. Senior faculty bring a strong name but less urgency."
+      },
+      {
+        "tag": "Networking",
+        "text": "Meet collaborators at section meetings, receptions, and multi-day methods workshops such as EITM and ICPSR. Ask good questions at panels and introduce yourself."
+      },
+      {
+        "tag": "Collaboration",
+        "text": "Look across departments. People in other disciplines are often working on the same questions."
+      },
+      {
+        "tag": "Networking",
+        "text": "Cold email only with a developed idea or early results, and make the fit with that person’s work clear."
+      },
+      {
+        "tag": "Collaboration",
+        "text": "Research assistant work does not usually earn authorship, but doing it well often leads to co-authorship and later to leading papers yourself."
+      },
+      {
+        "tag": "Collaboration",
+        "text": "Set a timeline around a conference deadline, agree on roles, write an author contribution statement, and choose a target journal early."
+      },
+      {
+        "tag": "Collaboration",
+        "text": "Work in a shared environment such as Overleaf or GitHub to avoid version chaos, especially with references."
+      },
+      {
+        "tag": "Collaboration",
+        "text": "Mixed-methods teams write stronger papers, but they need to agree early on standards of evidence and the audience."
+      }
+    ]
+  },
+  {
+    "slug": "dissertation-to-publication",
+    "theme": "From Dissertation to Publication",
+    "date": "22 July 2026",
+    "sort": "2026-07-22",
+    "speakers": [
+      "Elisa D’Amico"
+    ],
+    "summary": "Choosing between a book and articles, turning a chapter into an article, and how the book proposal and review process works.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/dissertation-to-publication.pdf",
+    "tags": [
+      "Books",
+      "Grants and prizes",
+      "Publishing"
+    ],
+    "takeaways": [
+      {
+        "tag": "Books",
+        "text": "Book or articles depends on your question, methods, field norms, and where you want to work. Books carry more weight in the UK and Europe."
+      },
+      {
+        "tag": "Books",
+        "text": "If you take the book route, publish at least one standalone article along the way. Presses like to see a chapter tested in peer review."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Turning a chapter into an article is a rewrite. Pick one contribution, rebuild the literature review, remove cross-references, and cut hard."
+      },
+      {
+        "tag": "Books",
+        "text": "Aim first for university presses, and find the series editor whose list fits your topic. Avoid pay-to-publish outlets that approach you at conferences."
+      },
+      {
+        "tag": "Books",
+        "text": "Write your proposal using the Oxford University Press template. Send editors a short email with the proposal attached and offer sample chapters."
+      },
+      {
+        "tag": "Books",
+        "text": "For a book R&R, you write a memo saying what you will change, and the editor takes it to the press board, which decides on a contract."
+      },
+      {
+        "tag": "Books",
+        "text": "A dissertation is not yet a book. Define a realistic audience, move methods to appendices, build a narrative arc, and update the literature."
+      },
+      {
+        "tag": "Grants and prizes",
+        "text": "Apply for the OUP First Book Prize, open within six years of your first academic appointment, and for dissertation prizes. The reviewer feedback is useful even without a win."
+      },
+      {
+        "tag": "Books",
+        "text": "Expect three to five years from the defense to a published book."
+      }
+    ]
+  },
+  {
+    "slug": "international-academic-life",
+    "theme": "International Academic Life",
+    "date": "19 August 2026",
+    "sort": "2026-08-19",
+    "speakers": [
+      "Elisa D’Amico"
+    ],
+    "summary": "Moving between academic systems, from job titles and promotion criteria to visas, banking, and building a life in a new country.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/international-academic-life.pdf",
+    "tags": [
+      "Collaboration",
+      "Job market",
+      "Moving abroad",
+      "Wellbeing"
+    ],
+    "takeaways": [
+      {
+        "tag": "Moving abroad",
+        "text": "Job titles do not map neatly across countries. Lecturer, assistant professor, fixed-term post, postdoc, and fellowship can mean different things, so give equivalents on your CV."
+      },
+      {
+        "tag": "Moving abroad",
+        "text": "Promotion criteria differ. North American tenure rests mainly on publications, while Ireland, the UK, and much of Europe also expect grants, teaching qualifications, PhD supervision, and early service."
+      },
+      {
+        "tag": "Moving abroad",
+        "text": "Negotiate even where it is uncommon. Salary point, relocation money, research allowance, visa fees, and leave are all worth asking about."
+      },
+      {
+        "tag": "Moving abroad",
+        "text": "Pensions rarely travel between countries, so compare the whole package."
+      },
+      {
+        "tag": "Job market",
+        "text": "Visa sponsorship is rarely the obstacle, but the cost of flying a candidate out can be. State your right to work and where you can travel from at the end of your CV."
+      },
+      {
+        "tag": "Moving abroad",
+        "text": "In the UK, consider asking for a Global Talent visa from the start. Settle questions about dependents, fees, and who pays for priority processing early."
+      },
+      {
+        "tag": "Moving abroad",
+        "text": "Get a local phone number and a multi-currency bank account straight away, and ask your head of school for a letter confirming your post."
+      },
+      {
+        "tag": "Moving abroad",
+        "text": "Seminar culture, feedback, grading, and self-promotion vary by country. Ask new colleagues about local norms."
+      },
+      {
+        "tag": "Wellbeing",
+        "text": "Build a social circle outside your department early. Moving for work can be isolating."
+      },
+      {
+        "tag": "Collaboration",
+        "text": "With co-authors across time zones, protect one evening a week for calls."
+      }
+    ]
+  },
+  {
+    "slug": "research-agenda",
+    "theme": "Creating a Research Agenda",
+    "date": "23 September 2026",
+    "sort": "2026-09-23",
+    "speakers": [
+      "Elisa D’Amico",
+      "Katie Nutley",
+      "Kasia Houghton"
+    ],
+    "summary": "How to describe yourself as a scholar with a clear research agenda, with three examples at different career stages.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/research-agenda.pdf",
+    "tags": [
+      "Grants and prizes",
+      "Job market",
+      "Research agenda"
+    ],
+    "takeaways": [
+      {
+        "tag": "Research agenda",
+        "text": "Describe your work through one or two broad, recognizable strands that a committee from outside your subfield will understand."
+      },
+      {
+        "tag": "Research agenda",
+        "text": "Fit every paper, working paper, and policy output under those strands. Group work by strand in the cover letter and by stage on the CV."
+      },
+      {
+        "tag": "Research agenda",
+        "text": "Present the dissertation as one part of a wider agenda."
+      },
+      {
+        "tag": "Job market",
+        "text": "Do not lead with your methods. Mention them briefly, after the substance."
+      },
+      {
+        "tag": "Job market",
+        "text": "Keep the story consistent across the cover letter, research statement, CV, and job talk, and do not over-tailor a single document."
+      },
+      {
+        "tag": "Research agenda",
+        "text": "Ask someone outside your committee how they see you as a scholar."
+      },
+      {
+        "tag": "Research agenda",
+        "text": "An emerging strand backed by working papers is fine, especially if it moves toward a growing area."
+      },
+      {
+        "tag": "Research agenda",
+        "text": "The session walked through three examples. Mine centers on climate and conflict, Katie’s on institutional responses to unrest, and Kasia’s on strategic peacemaking."
+      },
+      {
+        "tag": "Grants and prizes",
+        "text": "Postdoc and grant proposals are a chance to steer your agenda toward new methods or areas."
+      }
+    ]
+  },
+  {
+    "slug": "mentors",
+    "theme": "Finding & Working with Mentors",
+    "date": "21 October 2026",
+    "sort": "2026-10-21",
+    "speakers": [
+      "Elisa D’Amico",
+      "Kasia Houghton"
+    ],
+    "summary": "Why you need several mentors, what to ask people at each career stage, and where to find them.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/mentors.pdf",
+    "tags": [
+      "Grants and prizes",
+      "Mentorship",
+      "Networking"
+    ],
+    "takeaways": [
+      {
+        "tag": "Mentorship",
+        "text": "Have several mentors for different needs. Some help with drafts and methods, others write letters, make introductions, and mention your name in rooms you are not in."
+      },
+      {
+        "tag": "Mentorship",
+        "text": "Ask people who have just been through the job market about the process. Senior faculty are better for publishing strategy, collaborations, and introductions."
+      },
+      {
+        "tag": "Mentorship",
+        "text": "Postdocs and junior faculty are good guides to grants, career transitions, and current norms."
+      },
+      {
+        "tag": "Mentorship",
+        "text": "Not all advice fits your path. Look to people whose careers you would want."
+      },
+      {
+        "tag": "Networking",
+        "text": "Join formal schemes such as APSA’s mentoring program, ESOC, and Journeys and WICS for women, and go to mentorship receptions. A single conversation can help."
+      },
+      {
+        "tag": "Grants and prizes",
+        "text": "Naming a mentor in a postdoc grant application is a good way to start a relationship with a senior scholar, whether or not the grant comes through."
+      },
+      {
+        "tag": "Networking",
+        "text": "Cold emails to senior scholars should be short, specific, easy to say no to, and come with a developed idea."
+      },
+      {
+        "tag": "Mentorship",
+        "text": "Mentorships change over time and often become collaborations between colleagues."
+      },
+      {
+        "tag": "Mentorship",
+        "text": "Women are asked for mentoring more often, so set boundaries once you become the mentor."
+      }
+    ]
+  }
+]

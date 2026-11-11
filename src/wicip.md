@@ -19,12 +19,12 @@ meetings:
     detail: Academic and non-academic career paths
     done: true
   - date: June 17, 2026
-    theme: From Dissertation to Publication
-    detail: How to turn your dissertation into journal articles
-    done: true
-  - date: July 22, 2026
     theme: Co-authoring & Collaboration
     detail: Building interdisciplinary collaborations and co-authoring strategies
+    done: true
+  - date: July 22, 2026
+    theme: From Dissertation to Publication
+    detail: How to turn your dissertation into journal articles and a book
     done: true
   - date: August 19, 2026
     theme: International Academic Life
@@ -54,11 +54,11 @@ meetings:
 
 I started the network to give members a shared place to find mentorship and collaborators, since those opportunities are spread unevenly across institutions. We meet online once a month. Each session opens with a short talk or panel on a professional development theme, followed by Q&A and breakout rooms where members introduce their work and look for people to work with.
 
-Members also share an international job and funding board and a co-authorship sheet, where they can register interest in co-authorships, research assistantships, and grant collaboration. Recordings and slides from past sessions are on the [WICIP Notion page]({{ notion }}).
+Members also share an international job and funding board and a co-authorship sheet, where they can register interest in co-authorships, research assistantships, and grant collaboration. Recordings, slides, and key takeaways from past sessions are in the [WICIP Session Library](/wicip/sessions/), and the [advice index](/wicip/advice/) gathers every takeaway by topic.
 
 To join, sign up through the WICIP Google Group, which adds you to the network's mailing list.
 
-<p class="btn-row"><a class="btn" href="{{ google_group }}">Join the WICIP Google Group</a> <a class="btn btn-outline" href="{{ notion }}">Session recordings and slides</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=WICIP%20Network">Email me with questions</a></p>
+<p class="btn-row"><a class="btn" href="{{ google_group }}">Join the WICIP Google Group</a> <a class="btn btn-outline" href="/wicip/sessions/">Session library</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=WICIP%20Network">Email me with questions</a></p>
 
 ---
 
@@ -67,7 +67,7 @@ To join, sign up through the WICIP Google Group, which adds you to the network's
 All meetings are held on Zoom at 3:00 PM UTC.
 
 <ul class="schedule">
-{% for meeting in meetings %}<li{% if meeting.done %} class="done"{% endif %}><span class="when">{{ meeting.date }}</span><span><strong>{{ meeting.theme }}</strong>{% if meeting.detail %}<br>{{ meeting.detail }}{% endif %}</span></li>
+{% for meeting in meetings %}<li{% if meeting.done %} class="done"{% endif %}><span class="when">{{ meeting.date }}</span><span><strong>{% set slug = "" %}{% for x in wicipSessions %}{% if x.theme == meeting.theme %}{% set slug = x.slug %}{% endif %}{% endfor %}{% if meeting.done and slug %}<a href="/wicip/sessions/{{ slug }}/">{{ meeting.theme }}</a>{% else %}{{ meeting.theme }}{% endif %}</strong>{% if meeting.detail %}<br>{{ meeting.detail }}{% endif %}</span></li>
 {% endfor %}</ul>
 
 </div></div>

@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: WICIP Session Library
+heading: WICIP Session Library
+description: Recordings, slides, key takeaways, and transcripts from the WICIP Network's monthly professional development sessions.
+permalink: /wicip/sessions/
+---
+{% set allTags = [] %}{% for s in wicipSessions %}{% for t in s.tags %}{% if t not in allTags %}{% set allTags = (allTags.push(t), allTags) %}{% endif %}{% endfor %}{% endfor %}
+<div class="section"><div class="container">
+<div class="prose" style="margin-bottom:1.5rem">
+<p class="lede">Talks from the monthly sessions of the <a href="/wicip/">WICIP Network</a>, with the video, slides, key takeaways, and a transcript for each.</p>
+<p>The recordings cover the opening talk of each session. Member questions and breakout rooms are not included. For all the advice in one place, sorted by topic, see the <a href="/wicip/advice/">advice index</a>.</p>
+</div>
+<div class="lib-tools">
+<input class="lib-search" type="search" placeholder="Search sessions" aria-label="Search sessions">
+<div class="news-filters" role="group" aria-label="Filter sessions by topic"><button type="button" class="news-filter" data-tag="all" aria-pressed="true">All</button>{% for t in allTags | sort %}<button type="button" class="news-filter" data-tag="{{ t }}" aria-pressed="false">{{ t }}</button>{% endfor %}</div>
+</div>
+<div class="link-cards lib-cards">
+{% for s in wicipSessions | sort(true, false, "sort") %}<a class="link-card lib-card" href="/wicip/sessions/{{ s.slug }}/" data-tags="{{ s.tags | join('|') }}" data-text="{{ s.theme }} {{ s.summary }} {% for k in s.takeaways %}{{ k.text }} {% endfor %}{{ s.speakers | join(' ') }}"><p class="post-tag">{{ s.date }}</p><h3>{{ s.theme }}</h3><p>{{ s.summary }}</p><p class="lib-speakers">{{ s.speakers | join(", ") }}</p><span class="more">{% if s.youtube %}Watch, read, and download{% else %}Read the takeaways{% endif %}</span></a>
+{% endfor %}</div>
+<p class="lib-empty" hidden>No sessions match that search.</p>
+</div></div>
+<script src="/assets/js/library.js?v={{ buildId }}" defer></script>

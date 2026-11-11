@@ -624,3 +624,23 @@ a.link-card:hover { border-color: var(--accent); text-decoration: none; }
 .compact-list { margin: 0.4rem 0 0; padding-left: 1.1rem; }
 .compact-list li { margin: 0 0 0.25rem; line-height: 1.45; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 @media (max-width: 700px) { .compact-list li { white-space: normal; } }
+
+/* WICIP session library */
+.lib-tools { display: grid; gap: 0.9rem; margin-bottom: 1.5rem; }
+.lib-search { font: inherit; width: 100%; max-width: 28rem; padding: 0.55rem 0.9rem; border-radius: 999px; border: 1px solid var(--rule); background: var(--surface-raised); color: var(--text-strong); }
+.lib-search:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+.lib-speakers { color: var(--text-muted); font-size: 0.92rem; }
+.session-video { position: relative; aspect-ratio: 16 / 9; margin: 1.5rem 0; border-radius: 8px; overflow: hidden; border: 1px solid var(--rule); background: var(--black); }
+.session-video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.takeaways { padding-left: 1.3rem; }
+.takeaways li { margin-bottom: 0.7rem; }
+.tag-chip { display: inline-block; margin-right: 0.5rem; padding: 0 0.55rem; border-radius: 999px; border: 1px solid var(--rule); font-family: var(--font-head); font-size: 0.75rem; letter-spacing: 0.03em; color: var(--accent); vertical-align: 0.1em; }
+details.transcript { margin: 2rem 0; border: 1px solid var(--rule); border-radius: 8px; padding: 0.4rem 1.2rem; background: var(--surface); }
+details.transcript summary { cursor: pointer; font-family: var(--font-head); color: var(--text-strong); padding: 0.5rem 0; }
+details.transcript p { font-size: 0.97rem; }
+details.transcript .cut { color: var(--text-muted); text-align: center; }
+.session-nav { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2.5rem; padding-top: 1.25rem; border-top: 1px solid var(--rule); font-family: var(--font-head); }
+.advice-list { padding-left: 1.2rem; }
+.advice-list li { margin-bottom: 0.6rem; }
+.advice-src { font-size: 0.85rem; white-space: nowrap; }
+.advice-src::before { content: "· "; color: var(--text-muted); }

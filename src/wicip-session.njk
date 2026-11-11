@@ -1,0 +1,35 @@
+---
+layout: base.njk
+pagination:
+  data: wicipSessions
+  size: 1
+  alias: s
+permalink: "/wicip/sessions/{{ s.slug }}/"
+eleventyComputed:
+  title: "{{ s.theme }} · WICIP"
+  description: "{{ s.summary }}"
+---
+<div class="page-title"><h1>{{ s.theme }}</h1></div>
+<div class="section"><div class="container narrow prose">
+<p class="post-tag"><a href="/wicip/sessions/">WICIP Session Library</a><span aria-hidden="true"> · </span>{{ s.date }}</p>
+<p class="lede">{{ s.summary }}</p>
+<p class="lib-speakers">With {{ s.speakers | join(", ") }}</p>
+
+{% if s.youtube %}<div class="session-video"><iframe src="https://www.youtube-nocookie.com/embed/{{ s.youtube }}" title="{{ s.theme }}, WICIP session recording" loading="lazy" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe></div>{% else %}<p class="source">The recording will be added here soon.</p>{% endif %}
+
+<p class="btn-row"><a class="btn" href="{{ s.slides }}">Download the slides (PDF)</a>{% if s.youtube %} <a class="btn btn-outline" href="https://www.youtube.com/watch?v={{ s.youtube }}">Watch on YouTube</a>{% endif %}</p>
+
+<h2 class="no-caps">Key takeaways</h2>
+<ol class="takeaways">
+{% for k in s.takeaways %}<li><span class="tag-chip">{{ k.tag }}</span>{{ k.text | italics | safe }}</li>
+{% endfor %}</ol>
+
+<details class="transcript">
+<summary>Read the transcript</summary>
+<p class="source">Lightly edited from Zoom’s automatic transcript, so expect some transcription errors. Speaker labels come from Zoom, and […] marks a passage that was cut.</p>
+{% for p in wicipTranscripts[s.slug] %}{% if p.cut %}<p class="cut">[…]</p>{% else %}<p><strong>{{ p.speaker }}</strong> {{ p.text }}</p>{% endif %}
+{% endfor %}</details>
+
+{% set ns = wicipSessions | sort(false, false, "sort") %}
+<nav class="session-nav" aria-label="More sessions">{% for x in ns %}{% if x.slug == s.slug %}{% if not loop.first %}<a href="/wicip/sessions/{{ ns[loop.index0 - 1].slug }}/">← {{ ns[loop.index0 - 1].theme }}</a>{% else %}<span></span>{% endif %}{% if not loop.last %}<a href="/wicip/sessions/{{ ns[loop.index0 + 1].slug }}/">{{ ns[loop.index0 + 1].theme }} →</a>{% endif %}{% endif %}{% endfor %}</nav>
+</div></div>

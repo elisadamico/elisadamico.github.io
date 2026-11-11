@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: WICIP Advice Index
+heading: Advice Index
+description: Every takeaway from the WICIP Network's professional development sessions, sorted by topic.
+permalink: /wicip/advice/
+---
+{% set allTags = [] %}{% for s in wicipSessions %}{% for t in s.tags %}{% if t not in allTags %}{% set allTags = (allTags.push(t), allTags) %}{% endif %}{% endfor %}{% endfor %}
+<div class="section"><div class="container narrow prose">
+<p class="lede">Every takeaway from the <a href="/wicip/sessions/">WICIP Session Library</a>, sorted by topic. Each point links back to the session it came from.</p>
+<div class="lib-tools">
+<input class="lib-search" type="search" placeholder="Search the advice" aria-label="Search the advice">
+</div>
+{% for t in allTags | sort %}<section class="advice-group" data-tag="{{ t }}">
+<h2 class="no-caps">{{ t }}</h2>
+<ul class="advice-list">
+{% for s in wicipSessions | sort(false, false, "sort") %}{% for k in s.takeaways %}{% if k.tag == t %}<li data-text="{{ k.text }} {{ s.theme }}">{{ k.text | italics | safe }} <a class="advice-src" href="/wicip/sessions/{{ s.slug }}/">{{ s.theme }}</a></li>
+{% endif %}{% endfor %}{% endfor %}</ul>
+</section>
+{% endfor %}<p class="lib-empty" hidden>No advice matches that search.</p>
+</div></div>
+<script src="/assets/js/library.js?v={{ buildId }}" defer></script>
