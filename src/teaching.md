@@ -37,7 +37,7 @@ syllabi:
 **Lecturer (Instructor of Record)** (2026)<br>
 *[POL40950: Introduction to Statistics](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=POL40950)* (graduate level)
 
-**Guest Lecturer** (11 November 2026)<br>
+**Guest Lecturer** (10 November 2026)<br>
 *POL30860: Advanced Seminar in Politics*, session on the analysis stage of a research project · [Browser lab](https://www.elisadamico.net/analysis-stage-lab/) · [GitHub](https://github.com/elisadamico/analysis-stage-lab)
 
 **Guest Lecturer** (23 October 2026)<br>
