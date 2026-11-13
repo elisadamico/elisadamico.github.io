@@ -12,6 +12,7 @@ description: Invited talks, lectures, workshops, and conference presentations by
 <h2 id="invited">Invited Talks and Lectures</h2>
 
 {% yearlist %}
+2026 | **Invited Seminar, Geppert School of International Studies and Sogang Institute for International and Area Studies**, Sogang University, Seoul, 14 December 2026<br>*“Weathering War: How Environmental Shocks Shape Rebel Strategies and Peace Outcomes”*
 2026 | **Panel on Research Impact and the Academic Career**, UCD Centre for Business and Society (CeBaS) and the Accountancy Subject Area, UCD Lochlann Quinn School of Business, 10 November 2026<br>Panelist, held during Professor Charles Cho’s visit on *Accounting for Impact*
 2026 | **Guest Lecture, POL30860 Advanced Seminar in Politics**, University College Dublin, 10 November 2026<br>*The Analysis Stage*
 2026 | **Guest Lecture, POL10170 Foundations in Political Research**, University College Dublin, 23 October 2026<br>*“Floods, Food, and Fighting”* · [Chart builder](https://www.elisadamico.net/graphs-three-variables/) · [Slides](https://www.elisadamico.net/graphs-three-variables/lecture_slides.pdf) · [GitHub](https://github.com/elisadamico/graphs-three-variables)
