@@ -646,3 +646,7 @@ details.transcript .cut { color: var(--text-muted); text-align: center; }
 .advice-src::before { content: "· "; color: var(--text-muted); }
 .jm-sessions { padding-left: 1.2rem; }
 .jm-sessions li { margin-bottom: 0.8rem; }
+.about-affil { margin-top: 1.5rem; }
+.about-affil h2 { font-size: 1.15rem; margin: 0 0 0.6rem; }
+.about-affil ul { margin: 0; padding-left: 1.1rem; font-size: 0.93rem; line-height: 1.55; }
+.about-affil li { margin-bottom: 0.45rem; }

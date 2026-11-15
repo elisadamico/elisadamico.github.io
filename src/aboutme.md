@@ -5,7 +5,19 @@ title: About Me
 
 <div class="section"><div class="container">
 <div class="split center">
-<div><img class="bw" src="/assets/img/headshot.jpg" alt="Portrait of Elisa D’Amico" width="1200" height="1800"></div>
+<div><img class="bw" src="/assets/img/headshot.jpg" alt="Portrait of Elisa D’Amico" width="1200" height="1800">
+<div class="about-affil">
+<h2>Affiliations</h2>
+<ul>
+<li>External Expert, RENAISSANCE Approach to Science-Culture-Sustainability Diplomacy, European Commission Joint Research Centre (2026–)</li>
+<li>Member, Working Group 1 (Peace and Climate), COST Action CA23129 Peace Research Community Europe (2025–2029)</li>
+<li>Member, UCD Earth Institute (2026–)</li>
+<li>Member, UCD Centre for Network Science (2026–)</li>
+<li>Fellow, Centre for Global Law and Governance, University of St Andrews (2023–)</li>
+<li>Research Affiliate, Private Enterprise and Peace (PEP) Lab (2023–)</li>
+</ul>
+</div>
+</div>
 <div>
 
 # About Me
@@ -19,15 +31,6 @@ My research has been supported by the Ad Astra Fellow Research Award at Universi
 At UCD I lead [CADRE](/cadre/), an interdisciplinary working group on measuring climate displacement, and I founded the [WICIP Network](/wicip/) for women working in comparative and international politics.
 
 You can also find me on the [Centre for Global Law and Governance](https://cglg.wp.st-andrews.ac.uk/elisa-damico/), [PeaceRep](https://peacerep.org/profile/elisa-damico/), and [Global PeaceHub](https://peacehub.st-andrews.ac.uk/about/) team pages.
-
-## Affiliations
-
-- External Expert, RENAISSANCE Approach to Science-Culture-Sustainability Diplomacy, European Commission Joint Research Centre (2026–)
-- Member, Working Group 1 (Peace and Climate), COST Action CA23129 Peace Research Community Europe (2025–2029)
-- Member, UCD Earth Institute (2026–)
-- Member, UCD Centre for Network Science (2026–)
-- Fellow, Centre for Global Law and Governance, University of St Andrews (2023–)
-- Research Affiliate, Private Enterprise and Peace (PEP) Lab (2023–)
 
 Through volunteer work with RefugeeOne and Project Elea, I have tutored refugees of many ages and countries of origin. In my free time, I enjoy meditation, yoga, reading, playing video games, and playing with data!
 
