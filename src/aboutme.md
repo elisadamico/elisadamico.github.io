@@ -10,7 +10,9 @@ title: About Me
 <h2>Affiliations</h2>
 <ul>
 <li>External Expert, RENAISSANCE Approach to Science-Culture-Sustainability Diplomacy, European Commission Joint Research Centre (2026–)</li>
+<li>ESOC Lead, <a href="https://eearth.io/">eEarth</a>, Empirical Studies of Conflict (ESOC) and International Crisis Group (2026–)</li>
 <li>Member, Working Group 1 (Peace and Climate), COST Action CA23129 Peace Research Community Europe (2025–2029)</li>
+<li>Advisory Board Member, CLIPPS (Climate Laws, Institutions, Policies, and Practices in nation-States), NSF-funded project led by American University and Loyola University Chicago (2025–)</li>
 <li>Member, UCD Earth Institute (2026–)</li>
 <li>Member, UCD Centre for Network Science (2026–)</li>
 <li>Fellow, Centre for Global Law and Governance, University of St Andrews (2023–)</li>
