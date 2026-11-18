@@ -1,0 +1,8 @@
+{# Search box over every WICIP session takeaway. Needs /assets/js/library.js on the page. #}
+<div class="wicip-search">
+<input class="lib-search wicip-q" type="search" placeholder="Search the WICIP advice, e.g. cover letter, R&amp;R, visa" aria-label="Search advice from the WICIP sessions">
+<ul class="advice-list wicip-results">
+{% for s in wicipSessions | sort(false, false, "sort") %}{% for k in s.takeaways %}<li hidden data-text="{{ k.text }} {{ k.tag }} {{ s.theme }}">{{ k.text | italics | safe }} <a class="advice-src" href="/wicip/sessions/{{ s.slug }}/">{{ s.theme }}</a></li>
+{% endfor %}{% endfor %}</ul>
+<p class="wicip-none source" hidden>No matching advice. Browse the <a href="/wicip/advice/">advice index</a> or the <a href="/wicip/sessions/">session library</a>.</p>
+</div>

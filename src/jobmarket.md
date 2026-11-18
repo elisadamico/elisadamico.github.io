@@ -41,6 +41,9 @@ templates:
 <ul class="jm-sessions">
 {% for slug in ["job-market", "research-agenda", "publishing-strategy", "dissertation-to-publication", "international-academic-life", "mentors", "online-presence"] %}{% for x in wicipSessions %}{% if x.slug == slug %}<li><a href="/wicip/sessions/{{ x.slug }}/">{{ x.theme }}</a> <span class="lib-speakers">· {{ x.date }}</span><br>{{ x.summary }}</li>
 {% endif %}{% endfor %}{% endfor %}</ul>
+<p>Or search the advice from every session.</p>
+{% include "wicip-search.njk" %}
 <p class="btn-row"><a class="btn" href="/wicip/sessions/">Open the session library</a> <a class="btn btn-outline" href="/wicip/advice/">Browse the advice by topic</a></p>
 </div>
 </div></div>
+<script src="/assets/js/library.js?v={{ buildId }}" defer></script>

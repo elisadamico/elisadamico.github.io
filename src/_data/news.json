@@ -477,6 +477,87 @@
       "link_label": "Browse the sessions",
       "sort": "2026-11-11",
       "kind": "event"
+    },
+    {
+      "date": "18 February 2026",
+      "title": "WICIP session: Building Your Online Academic Presence",
+      "text": "How to build a professional presence online, from LinkedIn and Bluesky to Google Scholar, ORCID, and a personal website.",
+      "url": "https://www.elisadamico.net/wicip/sessions/online-presence/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-02-18",
+      "kind": "event"
+    },
+    {
+      "date": "15 April 2026",
+      "title": "WICIP session: Publishing Strategy",
+      "text": "Where to aim your work and how the submission process runs, for articles, books, and policy writing.",
+      "url": "https://www.elisadamico.net/wicip/sessions/publishing-strategy/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-04-15",
+      "kind": "event"
+    },
+    {
+      "date": "20 May 2026",
+      "title": "WICIP session: Navigating the Job Market",
+      "text": "Every piece of an academic application, how to time the market in North America and Europe, and routes outside academia.",
+      "url": "https://www.elisadamico.net/wicip/sessions/job-market/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-05-20",
+      "kind": "event"
+    },
+    {
+      "date": "17 June 2026",
+      "title": "WICIP session: Co-authoring & Collaboration",
+      "text": "Finding co-authors, how authorship usually develops from research assistant to lead author, and how to keep a collaboration running.",
+      "url": "https://www.elisadamico.net/wicip/sessions/co-authoring/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-06-17",
+      "kind": "event"
+    },
+    {
+      "date": "22 July 2026",
+      "title": "WICIP session: From Dissertation to Publication",
+      "text": "Choosing between a book and articles, turning a chapter into an article, and how the book proposal and review process works.",
+      "url": "https://www.elisadamico.net/wicip/sessions/dissertation-to-publication/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-07-22",
+      "kind": "event"
+    },
+    {
+      "date": "19 August 2026",
+      "title": "WICIP session: International Academic Life",
+      "text": "Moving between academic systems, from job titles and promotion criteria to visas, banking, and building a life in a new country.",
+      "url": "https://www.elisadamico.net/wicip/sessions/international-academic-life/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-08-19",
+      "kind": "event"
+    },
+    {
+      "date": "23 September 2026",
+      "title": "WICIP session: Creating a Research Agenda",
+      "text": "How to describe yourself as a scholar with a clear research agenda, with three examples at different career stages.",
+      "url": "https://www.elisadamico.net/wicip/sessions/research-agenda/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-09-23",
+      "kind": "event"
+    },
+    {
+      "date": "21 October 2026",
+      "title": "WICIP session: Finding & Working with Mentors",
+      "text": "Why you need several mentors, what to ask people at each career stage, and where to find them.",
+      "url": "https://www.elisadamico.net/wicip/sessions/mentors/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-10-21",
+      "kind": "event"
+    },
+    {
+      "date": "18 November 2026",
+      "title": "WICIP session: Revise & Resubmit",
+      "text": "How to read a decision letter, plan the revisions, write a response memo reviewers can follow, and push back when you need to.",
+      "url": "https://www.elisadamico.net/wicip/sessions/revise-and-resubmit/",
+      "link_label": "Watch the talk and read the takeaways",
+      "sort": "2026-11-18",
+      "kind": "event"
     }
   ]
 }

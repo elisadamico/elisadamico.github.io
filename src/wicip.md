@@ -61,6 +61,12 @@ To join, sign up through the WICIP Google Group, which adds you to the network's
 
 <p class="btn-row"><a class="btn" href="{{ google_group }}">Join the WICIP Google Group</a> <a class="btn btn-outline" href="/wicip/sessions/">Session library</a> <a class="btn btn-outline" href="mailto:{{ site.email }}?subject=WICIP%20Network">Email me with questions</a></p>
 
+## Search the Session Advice
+
+Looking for something specific? Search every takeaway from past sessions.
+
+{% include "wicip-search.njk" %}
+
 ---
 
 ## 2026 Meetings
@@ -72,3 +78,4 @@ All meetings are held on Zoom at 3:00 PM UTC.
 {% endfor %}</ul>
 
 </div></div>
+<script src="/assets/js/library.js?v={{ buildId }}" defer></script>

@@ -82,3 +82,14 @@ These are materials I have put together for my own students and research assista
 Getting ready for the academic job market? See my [Job Market Resources](/jobmarket/) for Notion templates to track applications and manage a research pipeline.
 
 </div></div>
+
+<div class="section"><div class="container narrow prose">
+
+<h2 class="no-caps">Advice on Academic Careers</h2>
+
+<p>The <a href="/wicip/sessions/">WICIP Session Library</a> collects talks on publishing, the job market, research agendas, and more. Search the advice from every session.</p>
+
+{% include "wicip-search.njk" %}
+
+</div></div>
+<script src="/assets/js/library.js?v={{ buildId }}" defer></script>
