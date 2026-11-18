@@ -450,5 +450,71 @@
         "text": "Women are asked for mentoring more often, so set boundaries once you become the mentor."
       }
     ]
+  },
+  {
+    "slug": "revise-and-resubmit",
+    "theme": "Revise & Resubmit",
+    "date": "18 November 2026",
+    "sort": "2026-11-18",
+    "speakers": [
+      "Elisa D’Amico"
+    ],
+    "summary": "How to read a decision letter, plan the revisions, write a response memo reviewers can follow, and push back when you need to.",
+    "youtube": "",
+    "slides": "/assets/files/wicip/revise-and-resubmit.pdf",
+    "tags": [
+      "Books",
+      "Publishing"
+    ],
+    "takeaways": [
+      {
+        "tag": "Publishing",
+        "text": "An R&R, even with major revisions, is good news and counts on a CV. A rejection after revisions still happens, mostly at the most selective journals."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Read the decision letter and reports, then let them sit before you plan. The editor’s guidance always outranks the reviewers’."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Build the memo skeleton first. List every reviewer point, split up combined comments, and fold repeated points together."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Plan the work by theme, across all reviewers at once. Doing the empirical changes first can inform how you reframe the rest."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Break the revision into small, concrete tasks on your calendar, such as gathering data one day and running models the next, and fill in the memo as you go."
+      },
+      {
+        "tag": "Publishing",
+        "text": "For each point, quote the comment, put your response beneath it, and say exactly where the change is (section, page, and paragraph). Mark new text in color."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Reviewers often read the memo first, so make it thorough and easy to skim. Give each point a short heading, and open with a note to the editor summarizing the major changes."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Thank reviewers without groveling, and write as if every reviewer will read every reply, because they will."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Push back briefly and with reasons when a request would change the paper’s scope or cannot be done, and offer something in return, such as a footnote or a scope condition. Never ignore a point."
+      },
+      {
+        "tag": "Publishing",
+        "text": "When reviewers conflict, make a judgment call, explain it, and note that you defer to the editor."
+      },
+      {
+        "tag": "Books",
+        "text": "Book revisions work differently. The memo is shorter and organized by theme, and the press may reshape your audience and expect more engagement with competing books."
+      },
+      {
+        "tag": "Publishing",
+        "text": "Deadlines are usually soft and extensions are common, but turning revisions around quickly helps on the job market. Expect more than one round."
+      }
+    ]
   }
 ]

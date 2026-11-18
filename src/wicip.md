@@ -41,6 +41,7 @@ meetings:
   - date: November 18, 2026
     theme: Revise & Resubmit
     detail: Strategies for handling R&Rs effectively
+    done: true
   - date: December 16, 2026
     theme: Finding International Funding
     detail: Grants and funding opportunities across countries
